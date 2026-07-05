@@ -1,5 +1,5 @@
-niche: "kisah horor nyata dan misteri yang bikin penasaran (kuntilanak, genderuwo, penampakan hantu, urban legend Indonesia, tempat angker, mistis, kejadian gaib)"
-audience: "orang dewasa Indonesia yang suka konten horor, misteri serem, dan kisah mistis berbasis cerita nyata dan mitos lokal"
+niche: "fakta geografi dan tempat misterius di dunia (tempat angker dunia, pulau misterius, segitiga bermuda, gunung aneh, danau beracun, lubang raksasa, bangunan kuno)"
+audience: "orang dewasa Indonesia yang penasaran dengan tempat-tempat misterius di dunia, fenomena geografi aneh, dan lokasi penuh misteri"
 language: id
 
 script:
@@ -33,7 +33,7 @@ upload:
   category_id: "27"
   made_for_kids: false
   channel: "kisahnyata"
-  default_tags: ["shorts", "horor", "misteri", "kisah horor", "hantu", "urban legend", "mistis", "kisahnyata"]
+  default_tags: ["geografi", "tempat misterius", "misteri dunia", "fakta unik", "tempat angker", "fenomena alam", "lokasi misteri", "pengetahuan"]
 
 comments:
   model: llama-3.1-8b-instant
