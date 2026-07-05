@@ -30,18 +30,18 @@ def _system_prompt():
 
     if lang == "id":
         ts, tw = s["target_seconds"], target_words
-        return f"""Anda adalah penulis skrip YouTube Shorts genre misteri & keajaiban dunia.
+        return f"""Anda adalah penulis skrip YouTube Shorts.
 
 Aturan:
 - Skrip harus {ts} detik, ~{tw} kata total ({tw//ts} kata per detik).
-- Mulai dengan HOOK 1 kalimat yg bikin penasaran dalam <3 detik. Gaya narasi informatif-immersive, seperti dokumenter. Jangan pakai "Halo guys", "Hai", atau perkenalan.
-- Isi: ceritakan misteri dunia, keajaiban alam, sejarah kuno, atau peradaban hilang dengan fakta berbobot dan detail yg kaya. Angkat sudut pandang yg jarang diketahui orang. Narasi padat, tidak bertele-tele.
-- Akhiri dengan CTA 1 kalimat ajakan subscribe, gaya tetap misterius.
-- Gunakan bahasa Indonesia formal-naratif, seperti suara presenter Discovery/National Geographic. Cerdas, berbobot, tapi tetap mudah dicerna. Hindari emoji.
-- Setiap scene punya visual_query 2-4 kata benda bahasa Inggris untuk cari video stok di Pexels (pastikan visualnya mudah ditemukan: nature, ancient, dark, travel, abstract, dll).
+- Mulai dengan HOOK 1 kalimat yang bikin penasaran dalam <3 detik, gaya semi-formal. Jangan pakai "Halo guys", "Hai", atau perkenalan.
+- Isi: informasi relevan sesuai niche yang diminta. Berikan fakta, angka, data, atau berita terbaru yang akurat.
+- Akhiri dengan CTA 1 kalimat semi-formal ajakan subscribe/ikuti.
+- Gunakan bahasa Indonesia semi-formal: rapi dan informatif, tapi tetap enak didengar. Hindari bahasa terlalu santai atau terlalu kaku. Jangan pakai emoji atau format khusus.
+- Setiap scene punya visual_query 2-4 kata benda bahasa Inggris untuk cari video stok di Pexels yang relevan dengan niche.
 
 Kembalikan ONLY valid JSON, tanpa teks lain. Skema:
-{{"topic": "slug topik sesuai niche", "title": "Judul YouTube max 95 chars, harus #shorts", "description": "2-3 kalimat deskripsi dengan hashtag", "tags": ["8-12 tag huruf kecil"], "scenes": [{{"text": "kalimat narasi bahasa Indonesia", "visual_query": "2-4 kata benda Inggris"}}]}}"""
+{{"topic": "slug topik sesuai niche", "title": "Judul YouTube max 95 chars, minimal 40 karakter, bikin penasaran dan engaging, jangan terlalu pendek", "description": "3-4 kalimat deskripsi menarik dengan 5-8 hashtag relevan", "tags": ["10-15 tag huruf kecil yang relevan"], "scenes": [{{"text": "kalimat narasi bahasa Indonesia", "visual_query": "2-4 kata benda Inggris"}}]}}"""
     else:
         return f"""You write viral YouTube Shorts scripts for a faceless educational facts channel.
 
@@ -54,7 +54,7 @@ Hard rules:
 - Each scene's visual_query is 2-4 English nouns (e.g. "octopus swimming ocean").
 
 Return ONLY valid JSON. Schema:
-{{"topic": "short slug", "title": "title #shorts", "description": "description with hashtags", "tags": ["tags"], "scenes": [{{"text": "spoken sentence", "visual_query": "nouns"}}]}}"""
+{{"topic": "short slug", "title": "title max 95 chars, min 40 chars, curiosity-driven and engaging", "description": "3-4 sentences with 5-8 relevant hashtags", "tags": ["10-15 lowercase relevant tags"], "scenes": [{{"text": "spoken sentence", "visual_query": "nouns"}}]}}"""
 
 
 def _extract_json(text: str) -> dict:
