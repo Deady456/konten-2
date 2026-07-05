@@ -1,17 +1,17 @@
-niche: "misteri dan keajaiban dunia yang belum terpecahkan (sejarah kuno, peradaban hilang, fenomena alam aneh, artefak misterius, tempat angker terkenal)"
-audience: "orang dewasa Indonesia yang suka konten misteri berbobot, sejarah dunia, dan keajaiban alam yang penuh fakta"
+niche: "kisah horor nyata dan misteri yang bikin penasaran (kuntilanak, genderuwo, penampakan hantu, urban legend Indonesia, tempat angker, mistis, kejadian gaib)"
+audience: "orang dewasa Indonesia yang suka konten horor, misteri serem, dan kisah mistis berbasis cerita nyata dan mitos lokal"
 language: id
 
 script:
   model: llama-3.3-70b-versatile
-  target_seconds: 70
-  words_per_second: 2.8
+  target_seconds: 80
+  words_per_second: 2.3
 
 voice:
   provider: edge
-  voice: id-ID-ArdiNeural
-  rate: "-15%"
-  pitch: "-5Hz"
+  voice: id-ID-GadisNeural
+  rate: "-20%"
+  pitch: "-10Hz"
 
 captions:
   whisper_model: base
@@ -33,7 +33,7 @@ upload:
   category_id: "27"
   made_for_kids: false
   channel: "kisahnyata"
-  default_tags: ["shorts", "misteri", "keajaiban dunia", "sejarah", "fakta unik", "fenomena alam", "pengetahuan", "kisahnyata"]
+  default_tags: ["shorts", "horor", "misteri", "kisah horor", "hantu", "urban legend", "mistis", "kisahnyata"]
 
 comments:
   model: llama-3.1-8b-instant
