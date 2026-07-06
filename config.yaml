@@ -9,9 +9,9 @@ script:
 
 voice:
   provider: edge
-  voice: id-ID-GadisNeural
-  rate: "-20%"
-  pitch: "-10Hz"
+  voice: id-ID-ArdiNeural
+  rate: "-15%"
+  pitch: "-5Hz"
 
 captions:
   whisper_model: base
