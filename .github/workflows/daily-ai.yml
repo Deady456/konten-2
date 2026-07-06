@@ -2,8 +2,8 @@ name: Daily AI Video
 
 on:
   schedule:
-    - cron: '0 8 * * *'  # 15:00 WIB — AI #1
-    - cron: '0 14 * * *' # 21:00 WIB — AI #2
+    - cron: '0 6 * * *'  # 15:00 WIT - AI #1
+    - cron: '0 12 * * *' # 21:00 WIT - AI #2
   workflow_dispatch:
 
 jobs:
