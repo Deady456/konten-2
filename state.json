@@ -3,7 +3,8 @@
     "danau-hantu",
     "lubang-lubang-misterius",
     "gunung-misterius-di-antartika",
-    "segitiga-bermuda-saudara"
+    "segitiga-bermuda-saudara",
+    "pulau-karang-terbesar"
   ],
   "published": [
     {
@@ -36,6 +37,14 @@
       "title": "Mengungkap Misteri Segitiga Bermuda Saudara di Afrika",
       "path": "/home/runner/work/konten-2/konten-2/output/20260710_100202_segitiga-bermuda-saudara/final.mp4",
       "video_id": "aOvE8gXs-7Q",
+      "publish_at": null
+    },
+    {
+      "ts": "20260710_220214",
+      "topic": "pulau-karang-terbesar",
+      "title": "Pulau Karang Raksasa Di Laut Pasifik Yang Tersembunyi",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260710_220214_pulau-karang-terbesar/final.mp4",
+      "video_id": "z6MqK1ZATKo",
       "publish_at": null
     }
   ]
