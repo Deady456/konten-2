@@ -2,7 +2,8 @@
   "used_topics": [
     "danau-hantu",
     "lubang-lubang-misterius",
-    "gunung-misterius-di-antartika"
+    "gunung-misterius-di-antartika",
+    "segitiga-bermuda-saudara"
   ],
   "published": [
     {
@@ -27,6 +28,14 @@
       "title": "Mengenal Vinson Massif, Puncak Tertinggi di Antartika",
       "path": "/home/runner/work/konten-2/konten-2/output/20260710_070226_gunung-misterius-di-antartika/final.mp4",
       "video_id": "avKbwIOIBeA",
+      "publish_at": null
+    },
+    {
+      "ts": "20260710_100202",
+      "topic": "segitiga-bermuda-saudara",
+      "title": "Mengungkap Misteri Segitiga Bermuda Saudara di Afrika",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260710_100202_segitiga-bermuda-saudara/final.mp4",
+      "video_id": "aOvE8gXs-7Q",
       "publish_at": null
     }
   ]
