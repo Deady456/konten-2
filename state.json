@@ -1,7 +1,8 @@
 {
   "used_topics": [
     "danau-hantu",
-    "lubang-lubang-misterius"
+    "lubang-lubang-misterius",
+    "gunung-misterius-di-antartika"
   ],
   "published": [
     {
@@ -18,6 +19,14 @@
       "title": "Mengungkap Misteri Darvaza, Lubang Api Abadi di Gurun Pasir",
       "path": "/home/runner/work/konten-2/konten-2/output/20260710_030143_lubang-lubang-misterius/final.mp4",
       "video_id": "Pm5RzS_pdHc",
+      "publish_at": null
+    },
+    {
+      "ts": "20260710_070226",
+      "topic": "gunung-misterius-di-antartika",
+      "title": "Mengenal Vinson Massif, Puncak Tertinggi di Antartika",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260710_070226_gunung-misterius-di-antartika/final.mp4",
+      "video_id": "avKbwIOIBeA",
       "publish_at": null
     }
   ]
