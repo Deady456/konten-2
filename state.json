@@ -1,6 +1,7 @@
 {
   "used_topics": [
-    "danau-hantu"
+    "danau-hantu",
+    "lubang-lubang-misterius"
   ],
   "published": [
     {
@@ -9,6 +10,14 @@
       "title": "Danau yang Ditinggalkan Waktu: Fakta Menarik Danau Natron",
       "path": "/home/runner/work/konten-2/konten-2/output/20260709_220253_danau-hantu/final.mp4",
       "video_id": "ewtd7xN4XVk",
+      "publish_at": null
+    },
+    {
+      "ts": "20260710_030143",
+      "topic": "lubang-lubang-misterius",
+      "title": "Mengungkap Misteri Darvaza, Lubang Api Abadi di Gurun Pasir",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260710_030143_lubang-lubang-misterius/final.mp4",
+      "video_id": "Pm5RzS_pdHc",
       "publish_at": null
     }
   ]
