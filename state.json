@@ -5,7 +5,8 @@
     "gunung-misterius-di-antartika",
     "segitiga-bermuda-saudara",
     "pulau-karang-terbesar",
-    "bangunan-piramida-tersembunyi"
+    "bangunan-piramida-tersembunyi",
+    "kota-bawah-tanah-derinkuyu"
   ],
   "published": [
     {
@@ -54,6 +55,14 @@
       "title": "Mengungkap Misteri Piramida Tersembunyi di Afrika",
       "path": "/home/runner/work/konten-2/konten-2/output/20260711_040216_bangunan-piramida-tersembunyi/final.mp4",
       "video_id": "SR1otvBJ310",
+      "publish_at": null
+    },
+    {
+      "ts": "20260711_100247",
+      "topic": "kota-bawah-tanah-derinkuyu",
+      "title": "Mengintip Kota Bawah Tanah Derinkuyu, Rahasia Abad Pertengahan",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260711_100247_kota-bawah-tanah-derinkuyu/final.mp4",
+      "video_id": "EI26IUSmgKs",
       "publish_at": null
     }
   ]
