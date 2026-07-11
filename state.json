@@ -4,7 +4,8 @@
     "lubang-lubang-misterius",
     "gunung-misterius-di-antartika",
     "segitiga-bermuda-saudara",
-    "pulau-karang-terbesar"
+    "pulau-karang-terbesar",
+    "bangunan-piramida-tersembunyi"
   ],
   "published": [
     {
@@ -45,6 +46,14 @@
       "title": "Pulau Karang Raksasa Di Laut Pasifik Yang Tersembunyi",
       "path": "/home/runner/work/konten-2/konten-2/output/20260710_220214_pulau-karang-terbesar/final.mp4",
       "video_id": "z6MqK1ZATKo",
+      "publish_at": null
+    },
+    {
+      "ts": "20260711_040216",
+      "topic": "bangunan-piramida-tersembunyi",
+      "title": "Mengungkap Misteri Piramida Tersembunyi di Afrika",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260711_040216_bangunan-piramida-tersembunyi/final.mp4",
+      "video_id": "SR1otvBJ310",
       "publish_at": null
     }
   ]
