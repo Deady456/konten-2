@@ -6,7 +6,8 @@
     "segitiga-bermuda-saudara",
     "pulau-karang-terbesar",
     "bangunan-piramida-tersembunyi",
-    "kota-bawah-tanah-derinkuyu"
+    "kota-bawah-tanah-derinkuyu",
+    "gua-misterius-lechuguilla"
   ],
   "published": [
     {
@@ -63,6 +64,14 @@
       "title": "Mengintip Kota Bawah Tanah Derinkuyu, Rahasia Abad Pertengahan",
       "path": "/home/runner/work/konten-2/konten-2/output/20260711_100247_kota-bawah-tanah-derinkuyu/final.mp4",
       "video_id": "EI26IUSmgKs",
+      "publish_at": null
+    },
+    {
+      "ts": "20260711_220215",
+      "topic": "gua-misterius-lechuguilla",
+      "title": "Mengungkap Gua Terdalam di Dunia yang Penuh Misteri",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260711_220215_gua-misterius-lechuguilla/final.mp4",
+      "video_id": "82qdVaIM1wE",
       "publish_at": null
     }
   ]
