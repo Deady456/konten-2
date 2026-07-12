@@ -7,7 +7,8 @@
     "pulau-karang-terbesar",
     "bangunan-piramida-tersembunyi",
     "kota-bawah-tanah-derinkuyu",
-    "gua-misterius-lechuguilla"
+    "gua-misterius-lechuguilla",
+    "tanah-bergerak"
   ],
   "published": [
     {
@@ -72,6 +73,14 @@
       "title": "Mengungkap Gua Terdalam di Dunia yang Penuh Misteri",
       "path": "/home/runner/work/konten-2/konten-2/output/20260711_220215_gua-misterius-lechuguilla/final.mp4",
       "video_id": "82qdVaIM1wE",
+      "publish_at": null
+    },
+    {
+      "ts": "20260712_092927",
+      "topic": "tanah-bergerak",
+      "title": "Fenomena Tanah Bergerak di Dunia, Apa Penyebabnya?",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260712_092927_tanah-bergerak/final.mp4",
+      "video_id": "kSwO91IBJxI",
       "publish_at": null
     }
   ]
