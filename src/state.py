@@ -24,7 +24,7 @@ def add_published(entry: dict):
     save(s)
 
 
-def remove_published(video_id: str):
+def update(updates: dict):
     s = load()
-    s["published"] = [p for p in s["published"] if p.get("video_id") != video_id]
+    s.update(updates)
     save(s)
