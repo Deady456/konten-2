@@ -8,7 +8,9 @@
     "bangunan-piramida-tersembunyi",
     "kota-bawah-tanah-derinkuyu",
     "gua-misterius-lechuguilla",
-    "tanah-bergerak"
+    "tanah-bergerak",
+    "pantai-misterius-dengan-lumut-glow-in-the-dark",
+    "kawah-ikan-laser"
   ],
   "published": [
     {
@@ -82,6 +84,23 @@
       "path": "/home/runner/work/konten-2/konten-2/output/20260712_092927_tanah-bergerak/final.mp4",
       "video_id": "kSwO91IBJxI",
       "publish_at": null
+    },
+    {
+      "ts": "20260712_191407",
+      "topic": "pantai-misterius-dengan-lumut-glow-in-the-dark",
+      "title": "Pantai Misterius dengan Lumut Glow in the Dark, Apa Rahasianya?",
+      "path": "C:\\Users\\Administrator\\Desktop\\konten-2\\output\\20260712_191407_pantai-misterius-dengan-lumut-glow-in-the-dark\\final.mp4",
+      "video_id": null,
+      "publish_at": null
+    },
+    {
+      "ts": "20260713_001246",
+      "topic": "kawah-ikan-laser",
+      "title": "Fenomena Kawah Ikan yang Mengeluarkan Cahaya Laser di Malam Hari",
+      "path": "C:\\Users\\Administrator\\Desktop\\konten-2\\output\\20260713_001246_kawah-ikan-laser\\final.mp4",
+      "video_id": null,
+      "publish_at": null
     }
-  ]
+  ],
+  "_voice_idx": 2
 }
