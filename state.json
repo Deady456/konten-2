@@ -10,7 +10,8 @@
     "gua-misterius-lechuguilla",
     "tanah-bergerak",
     "pantai-misterius-dengan-lumut-glow-in-the-dark",
-    "kawah-ikan-laser"
+    "kawah-ikan-laser",
+    "pulau-sandboarding"
   ],
   "published": [
     {
@@ -100,7 +101,15 @@
       "path": "C:\\Users\\Administrator\\Desktop\\konten-2\\output\\20260713_001246_kawah-ikan-laser\\final.mp4",
       "video_id": null,
       "publish_at": null
+    },
+    {
+      "ts": "20260712_220212",
+      "topic": "pulau-sandboarding",
+      "title": "Pulau Misterius dengan Pasir Yang Bisa Dinaiki Seperti Gunung Salju",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260712_220212_pulau-sandboarding/final.mp4",
+      "video_id": "jpmRZGzB-BU",
+      "publish_at": null
     }
   ],
-  "_voice_idx": 2
+  "_voice_idx": 3
 }
