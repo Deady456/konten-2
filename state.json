@@ -11,7 +11,8 @@
     "tanah-bergerak",
     "pantai-misterius-dengan-lumut-glow-in-the-dark",
     "kawah-ikan-laser",
-    "pulau-sandboarding"
+    "pulau-sandboarding",
+    "taman-batu-misterius"
   ],
   "published": [
     {
@@ -109,7 +110,15 @@
       "path": "/home/runner/work/konten-2/konten-2/output/20260712_220212_pulau-sandboarding/final.mp4",
       "video_id": "jpmRZGzB-BU",
       "publish_at": null
+    },
+    {
+      "ts": "20260713_072150",
+      "topic": "taman-batu-misterius",
+      "title": "Taman Batu Raksasa di Pedesaan Tiongkok, Apa Rahasianya?",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260713_072150_taman-batu-misterius/final.mp4",
+      "video_id": "LawaKr7GTUo",
+      "publish_at": null
     }
   ],
-  "_voice_idx": 3
+  "_voice_idx": 4
 }
