@@ -12,7 +12,8 @@
     "pantai-misterius-dengan-lumut-glow-in-the-dark",
     "kawah-ikan-laser",
     "pulau-sandboarding",
-    "taman-batu-misterius"
+    "taman-batu-misterius",
+    "pulau-kecil-berkubah-es"
   ],
   "published": [
     {
@@ -118,7 +119,15 @@
       "path": "/home/runner/work/konten-2/konten-2/output/20260713_072150_taman-batu-misterius/final.mp4",
       "video_id": "LawaKr7GTUo",
       "publish_at": null
+    },
+    {
+      "ts": "20260713_220302",
+      "topic": "pulau-kecil-berkubah-es",
+      "title": "Pulau Misterius di Arktika yang Tidak Pernah Meleleh",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260713_220302_pulau-kecil-berkubah-es/final.mp4",
+      "video_id": "gAcVMQfRBPQ",
+      "publish_at": null
     }
   ],
-  "_voice_idx": 4
+  "_voice_idx": 5
 }
