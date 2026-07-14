@@ -14,7 +14,8 @@
     "pulau-sandboarding",
     "taman-batu-misterius",
     "pulau-kecil-berkubah-es",
-    "gurun-pasir-bergerak"
+    "gurun-pasir-bergerak",
+    "tempat-paling-terisolasi-di-dunia"
   ],
   "published": [
     {
@@ -136,7 +137,15 @@
       "path": "/home/runner/work/konten-2/konten-2/output/20260714_060208_gurun-pasir-bergerak/final.mp4",
       "video_id": "F1hQrh2z20g",
       "publish_at": null
+    },
+    {
+      "ts": "20260714_220221",
+      "topic": "tempat-paling-terisolasi-di-dunia",
+      "title": "Tempat Paling Terisolasi di Dunia, Apa yang Terjadi Di Sana?",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260714_220221_tempat-paling-terisolasi-di-dunia/final.mp4",
+      "video_id": "i2HJ4K5yjOM",
+      "publish_at": null
     }
   ],
-  "_voice_idx": 6
+  "_voice_idx": 7
 }
