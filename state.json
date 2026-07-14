@@ -13,7 +13,8 @@
     "kawah-ikan-laser",
     "pulau-sandboarding",
     "taman-batu-misterius",
-    "pulau-kecil-berkubah-es"
+    "pulau-kecil-berkubah-es",
+    "gurun-pasir-bergerak"
   ],
   "published": [
     {
@@ -127,7 +128,15 @@
       "path": "/home/runner/work/konten-2/konten-2/output/20260713_220302_pulau-kecil-berkubah-es/final.mp4",
       "video_id": "gAcVMQfRBPQ",
       "publish_at": null
+    },
+    {
+      "ts": "20260714_060208",
+      "topic": "gurun-pasir-bergerak",
+      "title": "Gurun Pasir Bergerak: Fenomena Alam Paling Misterius di Afrika",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260714_060208_gurun-pasir-bergerak/final.mp4",
+      "video_id": "F1hQrh2z20g",
+      "publish_at": null
     }
   ],
-  "_voice_idx": 5
+  "_voice_idx": 6
 }
