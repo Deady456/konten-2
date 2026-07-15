@@ -15,7 +15,8 @@
     "taman-batu-misterius",
     "pulau-kecil-berkubah-es",
     "gurun-pasir-bergerak",
-    "tempat-paling-terisolasi-di-dunia"
+    "tempat-paling-terisolasi-di-dunia",
+    "pulau-es-mengapung"
   ],
   "published": [
     {
@@ -145,7 +146,15 @@
       "path": "/home/runner/work/konten-2/konten-2/output/20260714_220221_tempat-paling-terisolasi-di-dunia/final.mp4",
       "video_id": "i2HJ4K5yjOM",
       "publish_at": null
+    },
+    {
+      "ts": "20260715_060315",
+      "topic": "pulau-es-mengapung",
+      "title": "Mengungkap Misteri Pulau Es Yang Mengapung Di Laut Selatan",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260715_060315_pulau-es-mengapung/final.mp4",
+      "video_id": "afFQbwGfr1Y",
+      "publish_at": null
     }
   ],
-  "_voice_idx": 7
+  "_voice_idx": 8
 }
