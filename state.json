@@ -17,7 +17,8 @@
     "gurun-pasir-bergerak",
     "tempat-paling-terisolasi-di-dunia",
     "pulau-es-mengapung",
-    "kota-tertutup-di-uzbekistan"
+    "kota-tertutup-di-uzbekistan",
+    "tebing-misterius-di-bumi"
   ],
   "published": [
     {
@@ -163,7 +164,15 @@
       "path": "/home/runner/work/konten-2/konten-2/output/20260715_164833_kota-tertutup-di-uzbekistan/final.mp4",
       "video_id": "CRq2K_4S30g",
       "publish_at": null
+    },
+    {
+      "ts": "20260715_230152",
+      "topic": "tebing-misterius-di-bumi",
+      "title": "Mengungkap Rahasia Tebing Suci Uluru di Australia",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260715_230152_tebing-misterius-di-bumi/final.mp4",
+      "video_id": "XDrwG79h1QA",
+      "publish_at": null
     }
   ],
-  "_voice_idx": 9
+  "_voice_idx": 10
 }
