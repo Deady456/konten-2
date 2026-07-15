@@ -16,7 +16,8 @@
     "pulau-kecil-berkubah-es",
     "gurun-pasir-bergerak",
     "tempat-paling-terisolasi-di-dunia",
-    "pulau-es-mengapung"
+    "pulau-es-mengapung",
+    "kota-tertutup-di-uzbekistan"
   ],
   "published": [
     {
@@ -154,7 +155,15 @@
       "path": "/home/runner/work/konten-2/konten-2/output/20260715_060315_pulau-es-mengapung/final.mp4",
       "video_id": "afFQbwGfr1Y",
       "publish_at": null
+    },
+    {
+      "ts": "20260715_164833",
+      "topic": "kota-tertutup-di-uzbekistan",
+      "title": "Mengungkap Kota Angker Yang Dilarang Untuk Dikunjungi",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260715_164833_kota-tertutup-di-uzbekistan/final.mp4",
+      "video_id": "CRq2K_4S30g",
+      "publish_at": null
     }
   ],
-  "_voice_idx": 8
+  "_voice_idx": 9
 }
