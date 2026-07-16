@@ -19,7 +19,8 @@
     "pulau-es-mengapung",
     "kota-tertutup-di-uzbekistan",
     "tebing-misterius-di-bumi",
-    "pulau-terbakar"
+    "pulau-terbakar",
+    "geografi-misterius"
   ],
   "published": [
     {
@@ -181,7 +182,15 @@
       "path": "/home/runner/work/konten-2/konten-2/output/20260716_070154_pulau-terbakar/final.mp4",
       "video_id": "ghJREdYIcLM",
       "publish_at": null
+    },
+    {
+      "ts": "20260716_150152",
+      "topic": "geografi-misterius",
+      "title": "Pulau Terapung yang Menghilang",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260716_150152_geografi-misterius/final.mp4",
+      "video_id": "gt9cx0-b4Yw",
+      "publish_at": null
     }
   ],
-  "_voice_idx": 11
+  "_voice_idx": 12
 }
