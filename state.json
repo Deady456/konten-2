@@ -18,7 +18,8 @@
     "tempat-paling-terisolasi-di-dunia",
     "pulau-es-mengapung",
     "kota-tertutup-di-uzbekistan",
-    "tebing-misterius-di-bumi"
+    "tebing-misterius-di-bumi",
+    "pulau-terbakar"
   ],
   "published": [
     {
@@ -172,7 +173,15 @@
       "path": "/home/runner/work/konten-2/konten-2/output/20260715_230152_tebing-misterius-di-bumi/final.mp4",
       "video_id": "XDrwG79h1QA",
       "publish_at": null
+    },
+    {
+      "ts": "20260716_070154",
+      "topic": "pulau-terbakar",
+      "title": "Pulau yang Terus Terbakar Selama 50 Tahun!",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260716_070154_pulau-terbakar/final.mp4",
+      "video_id": "ghJREdYIcLM",
+      "publish_at": null
     }
   ],
-  "_voice_idx": 10
+  "_voice_idx": 11
 }
