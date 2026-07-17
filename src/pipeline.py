@@ -47,6 +47,15 @@ def run_once(publish_at: str | None = None, upload_to_youtube: bool = True) -> d
         _log(f"    {len(existing)} existing stock clips")
     _log(f"    {len(scene_videos)} clips ready")
 
+    _log("5.5/8 Generating AI thumbnail with Pollinations")
+    try:
+        thumbnail_img = work / "thumbnail.jpg"
+        hook_text_ai = data.get("thumbnail_text", data["title"])
+        visuals_ai.generate(prompt=hook_text_ai, out_path=thumbnail_img, hook_text=hook_text_ai)
+    except Exception as e:
+        _log(f"    Failed to generate thumbnail: {e}")
+        thumbnail_img = None
+
     _log("5/8 Writing caption file")
     from .config import CONFIG as CFG
     hook_text = data.get("thumbnail_text", "")
