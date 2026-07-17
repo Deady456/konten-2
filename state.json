@@ -20,7 +20,8 @@
     "kota-tertutup-di-uzbekistan",
     "tebing-misterius-di-bumi",
     "pulau-terbakar",
-    "geografi-misterius"
+    "geografi-misterius",
+    "geografi-misterius-terowongan-es"
   ],
   "published": [
     {
@@ -190,7 +191,15 @@
       "path": "/home/runner/work/konten-2/konten-2/output/20260716_150152_geografi-misterius/final.mp4",
       "video_id": "gt9cx0-b4Yw",
       "publish_at": null
+    },
+    {
+      "ts": "20260717_025540",
+      "topic": "geografi-misterius-terowongan-es",
+      "title": "Terowongan Es Terpanjang di Dunia, Misteri yang Tersembunyi",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260717_025540_geografi-misterius-terowongan-es/final.mp4",
+      "video_id": "0zDfahDkJIs",
+      "publish_at": null
     }
   ],
-  "_voice_idx": 12
+  "_voice_idx": 13
 }
