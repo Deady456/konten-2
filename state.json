@@ -23,7 +23,8 @@
     "geografi-misterius",
     "geografi-misterius-terowongan-es",
     "tangga-misterius-bawah-laut",
-    "giant-crystal-cave"
+    "giant-crystal-cave",
+    "pulau-berkembang-bio-luminesens"
   ],
   "published": [
     {
@@ -217,7 +218,15 @@
       "path": "/home/runner/work/konten-2/konten-2/output/20260717_183023_giant-crystal-cave/final.mp4",
       "video_id": "SXdjG-GkadQ",
       "publish_at": null
+    },
+    {
+      "ts": "20260717_230127",
+      "topic": "pulau-berkembang-bio-luminesens",
+      "title": "Pulau Ajaib yang Berkembang dengan Cahaya Sendiri",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260717_230127_pulau-berkembang-bio-luminesens/final.mp4",
+      "video_id": "WwodOTIvDno",
+      "publish_at": null
     }
   ],
-  "_voice_idx": 16
+  "_voice_idx": 17
 }
