@@ -111,6 +111,7 @@ def synth(text: str, out_path: Path) -> Path:
                 for attempt in range(2):
                     try:
                         _synth_elevenlabs(text, out_path, v, api_key)
+                        _speed_up(out_path, 1.15)
                         print(f"    done in {time.time()-t0:.1f}s (elevenlabs key[{i}], attempt {attempt+1})")
                         return out_path
                     except Exception as e:
@@ -134,5 +135,6 @@ def synth(text: str, out_path: Path) -> Path:
     # Edge-TTS is LAST RESORT fallback only
     print(f"    falling back to edge-tts (last resort)")
     _synth_edge(text, out_path, v)
+    _speed_up(out_path, 1.15)
     print(f"    done in {time.time()-t0:.1f}s (edge-tts fallback)")
     return out_path
