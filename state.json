@@ -21,7 +21,8 @@
     "tebing-misterius-di-bumi",
     "pulau-terbakar",
     "geografi-misterius",
-    "geografi-misterius-terowongan-es"
+    "geografi-misterius-terowongan-es",
+    "tangga-misterius-bawah-laut"
   ],
   "published": [
     {
@@ -199,7 +200,15 @@
       "path": "/home/runner/work/konten-2/konten-2/output/20260717_025540_geografi-misterius-terowongan-es/final.mp4",
       "video_id": "0zDfahDkJIs",
       "publish_at": null
+    },
+    {
+      "ts": "20260717_070134",
+      "topic": "tangga-misterius-bawah-laut",
+      "title": "Mengapa Tangga Ini Mengarah Ke Dasar Laut?",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260717_070134_tangga-misterius-bawah-laut/final.mp4",
+      "video_id": "pbuuOw34eZc",
+      "publish_at": null
     }
   ],
-  "_voice_idx": 13
+  "_voice_idx": 14
 }
