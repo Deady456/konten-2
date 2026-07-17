@@ -22,7 +22,8 @@
     "pulau-terbakar",
     "geografi-misterius",
     "geografi-misterius-terowongan-es",
-    "tangga-misterius-bawah-laut"
+    "tangga-misterius-bawah-laut",
+    "giant-crystal-cave"
   ],
   "published": [
     {
@@ -208,7 +209,15 @@
       "path": "/home/runner/work/konten-2/konten-2/output/20260717_070134_tangga-misterius-bawah-laut/final.mp4",
       "video_id": "pbuuOw34eZc",
       "publish_at": null
+    },
+    {
+      "ts": "20260717_183023",
+      "topic": "giant-crystal-cave",
+      "title": "Rahasia Gua Kristal Raksasa di Meksiko yang Terkubur Selama Berabad-abad",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260717_183023_giant-crystal-cave/final.mp4",
+      "video_id": "SXdjG-GkadQ",
+      "publish_at": null
     }
   ],
-  "_voice_idx": 14
+  "_voice_idx": 16
 }
