@@ -25,7 +25,8 @@
     "tangga-misterius-bawah-laut",
     "giant-crystal-cave",
     "pulau-berkembang-bio-luminesens",
-    "fenomena-lintang-bintang-bergerak"
+    "fenomena-lintang-bintang-bergerak",
+    "pulau-terapung-misterius"
   ],
   "published": [
     {
@@ -237,7 +238,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260718_150409",
+      "topic": "pulau-terapung-misterius",
+      "title": "Misteri Pulau Terapung di Lautan yang Menghilang",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260718_150409_pulau-terapung-misterius/final.mp4",
+      "video_id": "eokZ8wOK1Ms",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 18
+  "_voice_idx": 19
 }
