@@ -26,7 +26,8 @@
     "giant-crystal-cave",
     "pulau-berkembang-bio-luminesens",
     "fenomena-lintang-bintang-bergerak",
-    "pulau-terapung-misterius"
+    "pulau-terapung-misterius",
+    "pulau-misterius-dengan-pasir-panas"
   ],
   "published": [
     {
@@ -248,7 +249,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260718_170721",
+      "topic": "pulau-misterius-dengan-pasir-panas",
+      "title": "Pulau Dengan Pasir yang Bisa Membakar",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260718_170721_pulau-misterius-dengan-pasir-panas/final.mp4",
+      "video_id": "L2uvAEV68RI",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 19
+  "_voice_idx": 20
 }
