@@ -24,7 +24,8 @@
     "geografi-misterius-terowongan-es",
     "tangga-misterius-bawah-laut",
     "giant-crystal-cave",
-    "pulau-berkembang-bio-luminesens"
+    "pulau-berkembang-bio-luminesens",
+    "fenomena-lintang-bintang-bergerak"
   ],
   "published": [
     {
@@ -226,7 +227,17 @@
       "path": "/home/runner/work/konten-2/konten-2/output/20260717_230127_pulau-berkembang-bio-luminesens/final.mp4",
       "video_id": "WwodOTIvDno",
       "publish_at": null
+    },
+    {
+      "ts": "20260718_070310",
+      "topic": "fenomena-lintang-bintang-bergerak",
+      "title": "Lintang Bintang Bergerak di Langit, Apa Penyebabnya?",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260718_070310_fenomena-lintang-bintang-bergerak/final.mp4",
+      "video_id": "0vsjFqb1q7M",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 17
+  "_voice_idx": 18
 }
