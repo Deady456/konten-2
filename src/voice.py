@@ -135,6 +135,10 @@ def synth(text: str, out_path: Path) -> Path:
     # Edge-TTS is LAST RESORT fallback only
     print(f"    falling back to edge-tts (last resort)")
     _synth_edge(text, out_path, v)
-    _speed_up(out_path, 1.15)
+    if not out_path.exists() or out_path.stat().st_size < 1024:
+        raise RuntimeError(
+            f"edge-tts produced invalid audio ({out_path.stat().st_size if out_path.exists() else 0} bytes). "
+            "All voice providers failed."
+        )
     print(f"    done in {time.time()-t0:.1f}s (edge-tts fallback)")
     return out_path
