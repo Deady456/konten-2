@@ -28,7 +28,8 @@
     "fenomena-lintang-bintang-bergerak",
     "pulau-terapung-misterius",
     "pulau-misterius-dengan-pasir-panas",
-    "fenomena-geografi-gua-es-abu"
+    "fenomena-geografi-gua-es-abu",
+    "misteri-graben-afrika"
   ],
   "published": [
     {
@@ -270,7 +271,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260719_070418",
+      "topic": "misteri-graben-afrika",
+      "title": "Mengungkap Misteri Graben Afrika, Celah Bumi yang Mengancam",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260719_070418_misteri-graben-afrika/final.mp4",
+      "video_id": "JLkuav7AoSk",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 21
+  "_voice_idx": 22
 }
