@@ -29,7 +29,8 @@
     "pulau-terapung-misterius",
     "pulau-misterius-dengan-pasir-panas",
     "fenomena-geografi-gua-es-abu",
-    "misteri-graben-afrika"
+    "misteri-graben-afrika",
+    "cermin-alami-dunia"
   ],
   "published": [
     {
@@ -281,7 +282,15 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260719_150452",
+      "topic": "cermin-alami-dunia",
+      "title": "Fenomena Cermin Alam di Gurun Pasir Atacama",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260719_150452_cermin-alami-dunia/final.mp4",
+      "video_id": "PtxyMI7Hbso",
+      "publish_at": null
     }
   ],
-  "_voice_idx": 22
+  "_voice_idx": 24
 }
