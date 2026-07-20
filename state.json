@@ -31,7 +31,8 @@
     "fenomena-geografi-gua-es-abu",
     "misteri-graben-afrika",
     "cermin-alami-dunia",
-    "tempat-paling-aneh-di-dunia-danau-mati"
+    "tempat-paling-aneh-di-dunia-danau-mati",
+    "danau-kawah-ikan-laut-mati"
   ],
   "published": [
     {
@@ -299,7 +300,15 @@
       "path": "/home/runner/work/konten-2/konten-2/output/20260719_230459_tempat-paling-aneh-di-dunia-danau-mati/final.mp4",
       "video_id": "gIP5Oqv2zck",
       "publish_at": null
+    },
+    {
+      "ts": "20260720_070525",
+      "topic": "danau-kawah-ikan-laut-mati",
+      "title": "Danau Kawah Ikan Laut Mati di Jepang, Fenomena Alam Misterius",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260720_070525_danau-kawah-ikan-laut-mati/final.mp4",
+      "video_id": "xlIlOYagbWY",
+      "publish_at": null
     }
   ],
-  "_voice_idx": 26
+  "_voice_idx": 28
 }
