@@ -33,7 +33,8 @@
     "cermin-alami-dunia",
     "tempat-paling-aneh-di-dunia-danau-mati",
     "danau-kawah-ikan-laut-mati",
-    "gunung-api-laut-dalam"
+    "gunung-api-laut-dalam",
+    "pulau-berkabut-abadi"
   ],
   "published": [
     {
@@ -319,7 +320,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260720_230235",
+      "topic": "pulau-berkabut-abadi",
+      "title": "Mengungkap Misteri Pulau Berkabut Abadi di Lautan Atlantik",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260720_230235_pulau-berkabut-abadi/final.mp4",
+      "video_id": "XGAyj0w7G9I",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 29
+  "_voice_idx": 30
 }
