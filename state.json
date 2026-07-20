@@ -32,7 +32,8 @@
     "misteri-graben-afrika",
     "cermin-alami-dunia",
     "tempat-paling-aneh-di-dunia-danau-mati",
-    "danau-kawah-ikan-laut-mati"
+    "danau-kawah-ikan-laut-mati",
+    "gunung-api-laut-dalam"
   ],
   "published": [
     {
@@ -308,7 +309,17 @@
       "path": "/home/runner/work/konten-2/konten-2/output/20260720_070525_danau-kawah-ikan-laut-mati/final.mp4",
       "video_id": "xlIlOYagbWY",
       "publish_at": null
+    },
+    {
+      "ts": "20260720_150143",
+      "topic": "gunung-api-laut-dalam",
+      "title": "Mengungkap Misteri Gunung Api Laut Dalam Terdalam di Dunia",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260720_150143_gunung-api-laut-dalam/final.mp4",
+      "video_id": "mZO2KZ2sE10",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 28
+  "_voice_idx": 29
 }
