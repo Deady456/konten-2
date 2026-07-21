@@ -36,7 +36,8 @@
     "gunung-api-laut-dalam",
     "pulau-berkabut-abadi",
     "lubang-misterius-di-antartika",
-    "benua-hilang-mu"
+    "benua-hilang-mu",
+    "danau-misterius-dengan-air-berwarna-merah"
   ],
   "published": [
     {
@@ -352,7 +353,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260721_230301",
+      "topic": "danau-misterius-dengan-air-berwarna-merah",
+      "title": "Danau Merah Misterius di Afrika, Apa Rahasianya?",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260721_230301_danau-misterius-dengan-air-berwarna-merah/final.mp4",
+      "video_id": "G4I22-RgNCw",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 32
+  "_voice_idx": 33
 }
