@@ -34,7 +34,8 @@
     "tempat-paling-aneh-di-dunia-danau-mati",
     "danau-kawah-ikan-laut-mati",
     "gunung-api-laut-dalam",
-    "pulau-berkabut-abadi"
+    "pulau-berkabut-abadi",
+    "lubang-misterius-di-antartika"
   ],
   "published": [
     {
@@ -330,7 +331,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260721_070200",
+      "topic": "lubang-misterius-di-antartika",
+      "title": "Lubang Misterius di Antartika, Apa yang Tersembunyi di Bawah Es?",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260721_070200_lubang-misterius-di-antartika/final.mp4",
+      "video_id": "IuySZZHaoko",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 30
+  "_voice_idx": 31
 }
