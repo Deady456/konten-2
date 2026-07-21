@@ -35,7 +35,8 @@
     "danau-kawah-ikan-laut-mati",
     "gunung-api-laut-dalam",
     "pulau-berkabut-abadi",
-    "lubang-misterius-di-antartika"
+    "lubang-misterius-di-antartika",
+    "benua-hilang-mu"
   ],
   "published": [
     {
@@ -341,7 +342,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260721_150230",
+      "topic": "benua-hilang-mu",
+      "title": "Benua Hilang Mu: Misteri Geografi Yang Terlupakan",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260721_150230_benua-hilang-mu/final.mp4",
+      "video_id": "4UMbnrku_wA",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 31
+  "_voice_idx": 32
 }
