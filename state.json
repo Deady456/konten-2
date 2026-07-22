@@ -39,7 +39,8 @@
     "benua-hilang-mu",
     "danau-misterius-dengan-air-berwarna-merah",
     "gunung-berapi-abu-es",
-    "segala-bentuk-danau-lubang-misterius"
+    "segala-bentuk-danau-lubang-misterius",
+    "pulau-penghasil-arus-listerik"
   ],
   "published": [
     {
@@ -385,7 +386,15 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260722_230515",
+      "topic": "pulau-penghasil-arus-listerik",
+      "title": "Pulau Yang Menghasilkan Arus Listrik Sendiri, Apa Rahasianya?",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260722_230515_pulau-penghasil-arus-listerik/final.mp4",
+      "video_id": "rt3w5z7R_8w",
+      "publish_at": null
     }
   ],
-  "_voice_idx": 35
+  "_voice_idx": 37
 }
