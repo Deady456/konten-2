@@ -38,7 +38,8 @@
     "lubang-misterius-di-antartika",
     "benua-hilang-mu",
     "danau-misterius-dengan-air-berwarna-merah",
-    "gunung-berapi-abu-es"
+    "gunung-berapi-abu-es",
+    "segala-bentuk-danau-lubang-misterius"
   ],
   "published": [
     {
@@ -374,7 +375,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260722_150255",
+      "topic": "segala-bentuk-danau-lubang-misterius",
+      "title": "Mengungkap Danau Terdalam di Bawah Es Antartika",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260722_150255_segala-bentuk-danau-lubang-misterius/final.mp4",
+      "video_id": "jL1STKQUyQA",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 34
+  "_voice_idx": 35
 }
