@@ -37,7 +37,8 @@
     "pulau-berkabut-abadi",
     "lubang-misterius-di-antartika",
     "benua-hilang-mu",
-    "danau-misterius-dengan-air-berwarna-merah"
+    "danau-misterius-dengan-air-berwarna-merah",
+    "gunung-berapi-abu-es"
   ],
   "published": [
     {
@@ -363,7 +364,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260722_070233",
+      "topic": "gunung-berapi-abu-es",
+      "title": "Mengungkap Misteri Gunung Berapi Abu Es di Kutub Selatan",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260722_070233_gunung-berapi-abu-es/final.mp4",
+      "video_id": "cW69LUIf7ew",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 33
+  "_voice_idx": 34
 }
