@@ -40,7 +40,8 @@
     "danau-misterius-dengan-air-berwarna-merah",
     "gunung-berapi-abu-es",
     "segala-bentuk-danau-lubang-misterius",
-    "pulau-penghasil-arus-listerik"
+    "pulau-penghasil-arus-listerik",
+    "gua-garam-terdalam-di-dunia"
   ],
   "published": [
     {
@@ -394,7 +395,15 @@
       "path": "/home/runner/work/konten-2/konten-2/output/20260722_230515_pulau-penghasil-arus-listerik/final.mp4",
       "video_id": "rt3w5z7R_8w",
       "publish_at": null
+    },
+    {
+      "ts": "20260723_070518",
+      "topic": "gua-garam-terdalam-di-dunia",
+      "title": "Mengintip Gua Garam Terdalam di Dunia, Apa yang Tersembunyi?",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260723_070518_gua-garam-terdalam-di-dunia/final.mp4",
+      "video_id": "hBTRzfP9-lQ",
+      "publish_at": null
     }
   ],
-  "_voice_idx": 37
+  "_voice_idx": 39
 }
