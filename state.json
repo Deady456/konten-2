@@ -41,7 +41,8 @@
     "gunung-berapi-abu-es",
     "segala-bentuk-danau-lubang-misterius",
     "pulau-penghasil-arus-listerik",
-    "gua-garam-terdalam-di-dunia"
+    "gua-garam-terdalam-di-dunia",
+    "pulau-tersembunyi-di-pesisir-pantai-brasil"
   ],
   "published": [
     {
@@ -403,7 +404,17 @@
       "path": "/home/runner/work/konten-2/konten-2/output/20260723_070518_gua-garam-terdalam-di-dunia/final.mp4",
       "video_id": "hBTRzfP9-lQ",
       "publish_at": null
+    },
+    {
+      "ts": "20260723_150325",
+      "topic": "pulau-tersembunyi-di-pesisir-pantai-brasil",
+      "title": "Pulau Misterius Di Brasil Yang Hilang Di Balik Kabut",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260723_150325_pulau-tersembunyi-di-pesisir-pantai-brasil/final.mp4",
+      "video_id": "sITAuxY63bk",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 39
+  "_voice_idx": 40
 }
