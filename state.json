@@ -44,7 +44,8 @@
     "gua-garam-terdalam-di-dunia",
     "pulau-tersembunyi-di-pesisir-pantai-brasil",
     "pulau-misterius-yonaguni",
-    "pulau-berkubah-es"
+    "pulau-berkubah-es",
+    "pulau-berlapis-lava"
   ],
   "published": [
     {
@@ -436,7 +437,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260724_150340",
+      "topic": "pulau-berlapis-lava",
+      "title": "Pulau Aneh yang Diliputi Lava Beku",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260724_150340_pulau-berlapis-lava/final.mp4",
+      "video_id": "J3cW9SWCgnI",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 42
+  "_voice_idx": 43
 }
