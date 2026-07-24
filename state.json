@@ -43,7 +43,8 @@
     "pulau-penghasil-arus-listerik",
     "gua-garam-terdalam-di-dunia",
     "pulau-tersembunyi-di-pesisir-pantai-brasil",
-    "pulau-misterius-yonaguni"
+    "pulau-misterius-yonaguni",
+    "pulau-berkubah-es"
   ],
   "published": [
     {
@@ -425,7 +426,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260724_070508",
+      "topic": "pulau-berkubah-es",
+      "title": "Misteri Pulau Berkubah Es Di Kutub Utara",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260724_070508_pulau-berkubah-es/final.mp4",
+      "video_id": "fXHgkcbM_bI",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 41
+  "_voice_idx": 42
 }
