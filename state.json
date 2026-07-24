@@ -45,7 +45,8 @@
     "pulau-tersembunyi-di-pesisir-pantai-brasil",
     "pulau-misterius-yonaguni",
     "pulau-berkubah-es",
-    "pulau-berlapis-lava"
+    "pulau-berlapis-lava",
+    "gunung-mengapung-di-china"
   ],
   "published": [
     {
@@ -447,7 +448,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260724_230427",
+      "topic": "gunung-mengapung-di-china",
+      "title": "Misteri Gunung Mengapung di China, Mitos atau Fakta?",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260724_230427_gunung-mengapung-di-china/final.mp4",
+      "video_id": "PHAlrLUWdl0",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 43
+  "_voice_idx": 44
 }
