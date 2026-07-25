@@ -47,7 +47,8 @@
     "pulau-berkubah-es",
     "pulau-berlapis-lava",
     "gunung-mengapung-di-china",
-    "lembah-misterius-di-afghanistan"
+    "lembah-misterius-di-afghanistan",
+    "pulau-tenggelam-misterius"
   ],
   "published": [
     {
@@ -469,7 +470,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260725_150314",
+      "topic": "pulau-tenggelam-misterius",
+      "title": "Pulau yang Tenggelam dan Menghilang: Rahasia Bawah Laut",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260725_150314_pulau-tenggelam-misterius/final.mp4",
+      "video_id": "y2Pu2TjYtlY",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 45
+  "_voice_idx": 46
 }
