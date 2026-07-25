@@ -48,7 +48,8 @@
     "pulau-berlapis-lava",
     "gunung-mengapung-di-china",
     "lembah-misterius-di-afghanistan",
-    "pulau-tenggelam-misterius"
+    "pulau-tenggelam-misterius",
+    "tanah-bergerak"
   ],
   "published": [
     {
@@ -480,7 +481,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260725_230212",
+      "topic": "tanah-bergerak",
+      "title": "Fenomena Tanah Bergerak di Dunia: Ternyata Ada Penjelasan Ilmiah",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260725_230212_tanah-bergerak/final.mp4",
+      "video_id": "72J4SQZ_ENA",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 46
+  "_voice_idx": 47
 }
