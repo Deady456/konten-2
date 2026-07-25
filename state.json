@@ -46,7 +46,8 @@
     "pulau-misterius-yonaguni",
     "pulau-berkubah-es",
     "pulau-berlapis-lava",
-    "gunung-mengapung-di-china"
+    "gunung-mengapung-di-china",
+    "lembah-misterius-di-afghanistan"
   ],
   "published": [
     {
@@ -458,7 +459,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260725_070300",
+      "topic": "lembah-misterius-di-afghanistan",
+      "title": "Lembah Angker di Afghanistan yang Tersembunyi Selama Berabad-Abad",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260725_070300_lembah-misterius-di-afghanistan/final.mp4",
+      "video_id": "UXwrIqUK4IQ",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 44
+  "_voice_idx": 45
 }
