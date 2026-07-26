@@ -52,7 +52,8 @@
     "tanah-bergerak",
     "gua-misterius-piramida-es",
     "gurun-pasir-berwarna",
-    "pulau-tersembunyi-berkawah-danau-kawah"
+    "pulau-tersembunyi-berkawah-danau-kawah",
+    "danau-misterius- dengan-gelombang-laut-dalam"
   ],
   "published": [
     {
@@ -520,7 +521,17 @@
       "path": "/home/runner/work/konten-2/konten-2/output/20260726_113634_pulau-tersembunyi-berkawah-danau-kawah/final.mp4",
       "video_id": "bNY_ZQwZD80",
       "publish_at": null
+    },
+    {
+      "ts": "20260726_115012",
+      "topic": "danau-misterius- dengan-gelombang-laut-dalam",
+      "title": "Danau yang Memiliki Gelombang Seperti Laut Dalam",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260726_115012_danau-misterius-dengan-gelombang-laut-dalam/final.mp4",
+      "video_id": "u6VpA41iBjg",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 50
+  "_voice_idx": 51
 }
