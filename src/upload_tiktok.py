@@ -1,11 +1,11 @@
-﻿from pathlib import Path
+from pathlib import Path
 from .config import ROOT
 
 def upload_video(video_path: Path, description: str) -> bool:
-    "
+    """
     Uploads a video to TikTok using the tiktok-uploader library.
     Returns True if successful, False otherwise.
-    "
+    """
     try:
         from tiktok_uploader.upload import upload_video as tiktok_upload
     except ImportError:
