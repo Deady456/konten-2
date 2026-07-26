@@ -54,7 +54,8 @@
     "gurun-pasir-berwarna",
     "pulau-tersembunyi-berkawah-danau-kawah",
     "danau-misterius- dengan-gelombang-laut-dalam",
-    "pulau-karang-raksasa"
+    "pulau-karang-raksasa",
+    "pulau-terbalik-misterius"
   ],
   "published": [
     {
@@ -542,7 +543,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260726_230214",
+      "topic": "pulau-terbalik-misterius",
+      "title": "Pulau Terbalik di Dunia: Fenomena Alam yang Menghebohkan",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260726_230214_pulau-terbalik-misterius/final.mp4",
+      "video_id": "Cx4Lp0raD3s",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 52
+  "_voice_idx": 53
 }
