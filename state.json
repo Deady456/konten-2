@@ -53,7 +53,8 @@
     "gua-misterius-piramida-es",
     "gurun-pasir-berwarna",
     "pulau-tersembunyi-berkawah-danau-kawah",
-    "danau-misterius- dengan-gelombang-laut-dalam"
+    "danau-misterius- dengan-gelombang-laut-dalam",
+    "pulau-karang-raksasa"
   ],
   "published": [
     {
@@ -531,7 +532,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260726_150341",
+      "topic": "pulau-karang-raksasa",
+      "title": "Mengenal Pulau Karang Raksasa di Tengah Lautan",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260726_150341_pulau-karang-raksasa/final.mp4",
+      "video_id": "CAdShmHUJ10",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 51
+  "_voice_idx": 52
 }
