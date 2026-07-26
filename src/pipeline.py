@@ -154,14 +154,15 @@ def run_once(publish_at: str | None = None, upload_to_youtube: bool = True,
         _log("    Run: python -m src.review --list  (to see drafts)")
         _log("    Run: python -m src.review --approve <name>  (to approve)")
     elif upload_to_youtube:
-        _log("8/8 Uploading to YouTube")
-        video_id = upload.upload_video(
-            video_path=final,
-            title=data["title"],
-            description=data["description"],
-            tags=data["tags"],
-            publish_at=publish_at,
-        )
+        _log("8/8 Uploading to YouTube (DISABLED FOR TESTING TIKTOK)")
+        # video_id = upload.upload_video(
+        #     video_path=final,
+        #     title=data["title"],
+        #     description=data["description"],
+        #     tags=data["tags"],
+        #     publish_at=publish_at,
+        # )
+        video_id = "test_video_123"
         _log(f"    uploaded: https://youtube.com/shorts/{video_id}")
         
         # TikTok Upload
