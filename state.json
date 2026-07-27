@@ -55,7 +55,8 @@
     "pulau-tersembunyi-berkawah-danau-kawah",
     "danau-misterius- dengan-gelombang-laut-dalam",
     "pulau-karang-raksasa",
-    "pulau-terbalik-misterius"
+    "pulau-terbalik-misterius",
+    "pulau-tersembunyi-diatas-gletser"
   ],
   "published": [
     {
@@ -553,7 +554,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260727_070132",
+      "topic": "pulau-tersembunyi-diatas-gletser",
+      "title": "Pulau Misterius Di Atas Gletser Greenland Yang Tersembunyi",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260727_070132_pulau-tersembunyi-diatas-gletser/final.mp4",
+      "video_id": "gbuM9zR2BgQ",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 53
+  "_voice_idx": 54
 }
