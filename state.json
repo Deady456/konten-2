@@ -56,7 +56,8 @@
     "danau-misterius- dengan-gelombang-laut-dalam",
     "pulau-karang-raksasa",
     "pulau-terbalik-misterius",
-    "pulau-tersembunyi-diatas-gletser"
+    "pulau-tersembunyi-diatas-gletser",
+    "tempat-misterius-dengan-lubang-cahaya"
   ],
   "published": [
     {
@@ -564,7 +565,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260727_150227",
+      "topic": "tempat-misterius-dengan-lubang-cahaya",
+      "title": "Misteri Lubang Cahaya Alam di Langit: Fenomena Geografi Tidak Terjelaskan",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260727_150227_tempat-misterius-dengan-lubang-cahaya/final.mp4",
+      "video_id": "zQVdThqP1vg",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 54
+  "_voice_idx": 55
 }
