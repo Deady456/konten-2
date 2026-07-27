@@ -57,7 +57,8 @@
     "pulau-karang-raksasa",
     "pulau-terbalik-misterius",
     "pulau-tersembunyi-diatas-gletser",
-    "tempat-misterius-dengan-lubang-cahaya"
+    "tempat-misterius-dengan-lubang-cahaya",
+    "pulau-pasir-misterius"
   ],
   "published": [
     {
@@ -575,7 +576,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260727_230220",
+      "topic": "pulau-pasir-misterius",
+      "title": "Pulau Pasir yang Menghilang dan Muncul Kembali di Laut Utara",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260727_230220_pulau-pasir-misterius/final.mp4",
+      "video_id": "bk5QGPTyhmc",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 55
+  "_voice_idx": 56
 }
