@@ -58,7 +58,8 @@
     "pulau-terbalik-misterius",
     "pulau-tersembunyi-diatas-gletser",
     "tempat-misterius-dengan-lubang-cahaya",
-    "pulau-pasir-misterius"
+    "pulau-pasir-misterius",
+    "gunung-es-mengapung-di-utara-kanada"
   ],
   "published": [
     {
@@ -586,7 +587,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260728_070220",
+      "topic": "gunung-es-mengapung-di-utara-kanada",
+      "title": "Misteri Gunung Es Mengapung di Utara Kanada",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260728_070220_gunung-es-mengapung-di-utara-kanada/final.mp4",
+      "video_id": "eSDUoZpg-6Y",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 56
+  "_voice_idx": 57
 }
