@@ -59,7 +59,8 @@
     "pulau-tersembunyi-diatas-gletser",
     "tempat-misterius-dengan-lubang-cahaya",
     "pulau-pasir-misterius",
-    "gunung-es-mengapung-di-utara-kanada"
+    "gunung-es-mengapung-di-utara-kanada",
+    "kota-tenggelam-pompeii-baru"
   ],
   "published": [
     {
@@ -597,7 +598,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260728_150304",
+      "topic": "kota-tenggelam-pompeii-baru",
+      "title": "Kota Misterius di Dasar Laut yang Mirip Pompeii",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260728_150304_kota-tenggelam-pompeii-baru/final.mp4",
+      "video_id": "UAS5dMhqCQQ",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 57
+  "_voice_idx": 58
 }
