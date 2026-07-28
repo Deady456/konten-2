@@ -60,7 +60,8 @@
     "tempat-misterius-dengan-lubang-cahaya",
     "pulau-pasir-misterius",
     "gunung-es-mengapung-di-utara-kanada",
-    "kota-tenggelam-pompeii-baru"
+    "kota-tenggelam-pompeii-baru",
+    "pulau-terapung-misterius"
   ],
   "published": [
     {
@@ -608,7 +609,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260728_230410",
+      "topic": "pulau-terapung-misterius",
+      "title": "Pulau Terapung Yang Menghilang di Lautan",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260728_230410_pulau-terapung-misterius/final.mp4",
+      "video_id": "hp2WSxkhidc",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 58
+  "_voice_idx": 59
 }
