@@ -61,7 +61,8 @@
     "pulau-pasir-misterius",
     "gunung-es-mengapung-di-utara-kanada",
     "kota-tenggelam-pompeii-baru",
-    "pulau-terapung-misterius"
+    "pulau-terapung-misterius",
+    "pulau-berbentuk-labirin"
   ],
   "published": [
     {
@@ -619,7 +620,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260729_070304",
+      "topic": "pulau-berbentuk-labirin",
+      "title": "Pulau Labirin Misterius: Ternyata Ini Rahasianya!",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260729_070304_pulau-berbentuk-labirin/final.mp4",
+      "video_id": "S4gD2UfGtr8",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 59
+  "_voice_idx": 60
 }
