@@ -63,7 +63,8 @@
     "kota-tenggelam-pompeii-baru",
     "pulau-terapung-misterius",
     "pulau-berbentuk-labirin",
-    "lembah-pencipta-awan"
+    "lembah-pencipta-awan",
+    "pulau-tersembunyi-dengan-air-terjun-menggantung"
   ],
   "published": [
     {
@@ -641,7 +642,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260729_230358",
+      "topic": "pulau-tersembunyi-dengan-air-terjun-menggantung",
+      "title": "Pulau Misterius dengan Air Terjun Menggantung di Langit",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260729_230358_pulau-tersembunyi-dengan-air-terjun-menggantung/final.mp4",
+      "video_id": "zOGKXICktKQ",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 61
+  "_voice_idx": 62
 }
