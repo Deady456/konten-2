@@ -62,7 +62,8 @@
     "gunung-es-mengapung-di-utara-kanada",
     "kota-tenggelam-pompeii-baru",
     "pulau-terapung-misterius",
-    "pulau-berbentuk-labirin"
+    "pulau-berbentuk-labirin",
+    "lembah-pencipta-awan"
   ],
   "published": [
     {
@@ -630,7 +631,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260729_150422",
+      "topic": "lembah-pencipta-awan",
+      "title": "Lembah Misterius Yang Menciptakan Awan Secara Magis",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260729_150422_lembah-pencipta-awan/final.mp4",
+      "video_id": "OWbd_FW6jcE",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 60
+  "_voice_idx": 61
 }
