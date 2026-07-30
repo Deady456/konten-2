@@ -64,7 +64,8 @@
     "pulau-terapung-misterius",
     "pulau-berbentuk-labirin",
     "lembah-pencipta-awan",
-    "pulau-tersembunyi-dengan-air-terjun-menggantung"
+    "pulau-tersembunyi-dengan-air-terjun-menggantung",
+    "gunung-angker-di-amerika-selatan"
   ],
   "published": [
     {
@@ -652,7 +653,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260730_070146",
+      "topic": "gunung-angker-di-amerika-selatan",
+      "title": "Misteri Gunung Cerro Del Quirof Yang Hilang Di Amerika Selatan",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260730_070146_gunung-angker-di-amerika-selatan/final.mp4",
+      "video_id": "a4msslG6hG8",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 62
+  "_voice_idx": 63
 }
