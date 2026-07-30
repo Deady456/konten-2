@@ -66,7 +66,8 @@
     "lembah-pencipta-awan",
     "pulau-tersembunyi-dengan-air-terjun-menggantung",
     "gunung-angker-di-amerika-selatan",
-    "pulau-tersembunyi-dengan-pantai-terpanjang"
+    "pulau-tersembunyi-dengan-pantai-terpanjang",
+    "pulau-misterius-dengan-pantai-bawah-laut"
   ],
   "published": [
     {
@@ -674,7 +675,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260730_230242",
+      "topic": "pulau-misterius-dengan-pantai-bawah-laut",
+      "title": "Pulau Misterius dengan Pantai Bawah Laut, Fenomena Alam Paling Aneh",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260730_230242_pulau-misterius-dengan-pantai-bawah-laut/final.mp4",
+      "video_id": "NFnILxhrw38",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 64
+  "_voice_idx": 65
 }
