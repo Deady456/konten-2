@@ -65,7 +65,8 @@
     "pulau-berbentuk-labirin",
     "lembah-pencipta-awan",
     "pulau-tersembunyi-dengan-air-terjun-menggantung",
-    "gunung-angker-di-amerika-selatan"
+    "gunung-angker-di-amerika-selatan",
+    "pulau-tersembunyi-dengan-pantai-terpanjang"
   ],
   "published": [
     {
@@ -663,7 +664,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260730_150236",
+      "topic": "pulau-tersembunyi-dengan-pantai-terpanjang",
+      "title": "Pulau Tersembunyi Dengan Pantai Terpanjang di Dunia, Siapa Sangka?",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260730_150236_pulau-tersembunyi-dengan-pantai-terpanjang/final.mp4",
+      "video_id": "20UicGVzn9c",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 63
+  "_voice_idx": 64
 }
