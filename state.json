@@ -69,7 +69,8 @@
     "pulau-tersembunyi-dengan-pantai-terpanjang",
     "pulau-misterius-dengan-pantai-bawah-laut",
     "pulau-pembentuk-pelabuhan-alami-raksasa",
-    "pulau-misterius-dengan-geiser-panas"
+    "pulau-misterius-dengan-geiser-panas",
+    "pulau-dengan-laguna-berwarna-merah"
   ],
   "published": [
     {
@@ -707,7 +708,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260731_230243",
+      "topic": "pulau-dengan-laguna-berwarna-merah",
+      "title": "Pulau Misterius Dengan Laguna Berwarna Merah Di Dunia",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260731_230243_pulau-dengan-laguna-berwarna-merah/final.mp4",
+      "video_id": "sI0ITt9a_8c",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 67
+  "_voice_idx": 68
 }
