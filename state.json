@@ -68,7 +68,8 @@
     "gunung-angker-di-amerika-selatan",
     "pulau-tersembunyi-dengan-pantai-terpanjang",
     "pulau-misterius-dengan-pantai-bawah-laut",
-    "pulau-pembentuk-pelabuhan-alami-raksasa"
+    "pulau-pembentuk-pelabuhan-alami-raksasa",
+    "pulau-misterius-dengan-geiser-panas"
   ],
   "published": [
     {
@@ -696,7 +697,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260731_150307",
+      "topic": "pulau-misterius-dengan-geiser-panas",
+      "title": "Pulau Dengan Geiser Panas Yang Menghancurkan",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260731_150307_pulau-misterius-dengan-geiser-panas/final.mp4",
+      "video_id": "3roKfTT5ofg",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 66
+  "_voice_idx": 67
 }
