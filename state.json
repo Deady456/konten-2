@@ -67,7 +67,8 @@
     "pulau-tersembunyi-dengan-air-terjun-menggantung",
     "gunung-angker-di-amerika-selatan",
     "pulau-tersembunyi-dengan-pantai-terpanjang",
-    "pulau-misterius-dengan-pantai-bawah-laut"
+    "pulau-misterius-dengan-pantai-bawah-laut",
+    "pulau-pembentuk-pelabuhan-alami-raksasa"
   ],
   "published": [
     {
@@ -685,7 +686,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260731_070132",
+      "topic": "pulau-pembentuk-pelabuhan-alami-raksasa",
+      "title": "Pulau Misterius yang Membentuk Pelabuhan Alam Terbesar di Dunia",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260731_070132_pulau-pembentuk-pelabuhan-alami-raksasa/final.mp4",
+      "video_id": "41iOEVtCfzw",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 65
+  "_voice_idx": 66
 }
