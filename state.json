@@ -72,7 +72,8 @@
     "pulau-misterius-dengan-geiser-panas",
     "pulau-dengan-laguna-berwarna-merah",
     "danau-berbentuk-bulan-di-antarctica",
-    "lubang-raksasa-di-siberia"
+    "lubang-raksasa-di-siberia",
+    "pulau-misterius-dengan-pohon-batu"
   ],
   "published": [
     {
@@ -740,7 +741,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260801_230239",
+      "topic": "pulau-misterius-dengan-pohon-batu",
+      "title": "Pulau Misterius dengan Pohon Batu di Tengah Laut",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260801_230239_pulau-misterius-dengan-pohon-batu/final.mp4",
+      "video_id": "F_B3oBIlpWY",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 70
+  "_voice_idx": 71
 }
