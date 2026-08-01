@@ -70,7 +70,8 @@
     "pulau-misterius-dengan-pantai-bawah-laut",
     "pulau-pembentuk-pelabuhan-alami-raksasa",
     "pulau-misterius-dengan-geiser-panas",
-    "pulau-dengan-laguna-berwarna-merah"
+    "pulau-dengan-laguna-berwarna-merah",
+    "danau-berbentuk-bulan-di-antarctica"
   ],
   "published": [
     {
@@ -718,7 +719,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260801_070306",
+      "topic": "danau-berbentuk-bulan-di-antarctica",
+      "title": "Misteri Danau Bulan di Antarctica, Apa Rahasianya?",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260801_070306_danau-berbentuk-bulan-di-antarctica/final.mp4",
+      "video_id": "EqUjpeY9lDY",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 68
+  "_voice_idx": 69
 }
