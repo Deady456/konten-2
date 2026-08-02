@@ -73,7 +73,8 @@
     "pulau-dengan-laguna-berwarna-merah",
     "danau-berbentuk-bulan-di-antarctica",
     "lubang-raksasa-di-siberia",
-    "pulau-misterius-dengan-pohon-batu"
+    "pulau-misterius-dengan-pohon-batu",
+    "gunung-berapi-bawah-laut"
   ],
   "published": [
     {
@@ -751,7 +752,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260802_070339",
+      "topic": "gunung-berapi-bawah-laut",
+      "title": "Penemuan Gunung Berapi Bawah Laut di Samudera Hindia",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260802_070339_gunung-berapi-bawah-laut/final.mp4",
+      "video_id": "wGoe1qpaq9c",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 71
+  "_voice_idx": 72
 }
