@@ -74,7 +74,8 @@
     "danau-berbentuk-bulan-di-antarctica",
     "lubang-raksasa-di-siberia",
     "pulau-misterius-dengan-pohon-batu",
-    "gunung-berapi-bawah-laut"
+    "gunung-berapi-bawah-laut",
+    "guadiana-underground-river"
   ],
   "published": [
     {
@@ -762,7 +763,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260803_111109",
+      "topic": "guadiana-underground-river",
+      "title": "Sungai Bawah Tanah Terpanjang di Eropa, Ada di Spanyol",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260803_111109_guadiana-underground-river/final.mp4",
+      "video_id": "ELHTYl6hVfs",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 72
+  "_voice_idx": 73
 }
