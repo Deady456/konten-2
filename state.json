@@ -75,7 +75,8 @@
     "lubang-raksasa-di-siberia",
     "pulau-misterius-dengan-pohon-batu",
     "gunung-berapi-bawah-laut",
-    "guadiana-underground-river"
+    "guadiana-underground-river",
+    "pulau-yakutat-bay"
   ],
   "published": [
     {
@@ -773,7 +774,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260805_082645",
+      "topic": "pulau-yakutat-bay",
+      "title": "Pulau Misterius di Yakutat Bay, Alaska: Tempat Bertemunya Es dan Batu",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260805_082645_pulau-yakutat-bay/final.mp4",
+      "video_id": "-39CGT2-RxY",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 73
+  "_voice_idx": 74
 }
