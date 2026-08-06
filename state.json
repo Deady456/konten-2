@@ -76,7 +76,8 @@
     "pulau-misterius-dengan-pohon-batu",
     "gunung-berapi-bawah-laut",
     "guadiana-underground-river",
-    "pulau-yakutat-bay"
+    "pulau-yakutat-bay",
+    "pulau-misterius-dengan-kawah-kaca"
   ],
   "published": [
     {
@@ -784,7 +785,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260806_123313",
+      "topic": "pulau-misterius-dengan-kawah-kaca",
+      "title": "Pulau Misterius dengan Kawah Kaca di Tengah Laut",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260806_123313_pulau-misterius-dengan-kawah-kaca/final.mp4",
+      "video_id": "SePbBPEA9x0",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 74
+  "_voice_idx": 75
 }
