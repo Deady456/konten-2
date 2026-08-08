@@ -77,7 +77,8 @@
     "gunung-berapi-bawah-laut",
     "guadiana-underground-river",
     "pulau-yakutat-bay",
-    "pulau-misterius-dengan-kawah-kaca"
+    "pulau-misterius-dengan-kawah-kaca",
+    "gunung-batu-gamping-misterius"
   ],
   "published": [
     {
@@ -795,7 +796,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260808_094509",
+      "topic": "gunung-batu-gamping-misterius",
+      "title": "Mengungkap Rahasia Gunung Batu Gamping yang Menghilang di Tengah Laut",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260808_094509_gunung-batu-gamping-misterius/final.mp4",
+      "video_id": "mryuE8STGQ8",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 75
+  "_voice_idx": 76
 }
