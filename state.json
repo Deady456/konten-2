@@ -78,7 +78,8 @@
     "guadiana-underground-river",
     "pulau-yakutat-bay",
     "pulau-misterius-dengan-kawah-kaca",
-    "gunung-batu-gamping-misterius"
+    "gunung-batu-gamping-misterius",
+    "pulau-dengan-pantai-pasir-hijau"
   ],
   "published": [
     {
@@ -806,7 +807,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260808_103439",
+      "topic": "pulau-dengan-pantai-pasir-hijau",
+      "title": "Pulau Misterius Dengan Pantai Pasir Hijau: Fenomena Alam Yang Langka",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260808_103439_pulau-dengan-pantai-pasir-hijau/final.mp4",
+      "video_id": "4GcdKkCo_64",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 76
+  "_voice_idx": 77
 }
