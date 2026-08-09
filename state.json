@@ -79,7 +79,8 @@
     "pulau-yakutat-bay",
     "pulau-misterius-dengan-kawah-kaca",
     "gunung-batu-gamping-misterius",
-    "pulau-dengan-pantai-pasir-hijau"
+    "pulau-dengan-pantai-pasir-hijau",
+    "pulau-misterius-dengan-gua-es-terdalam"
   ],
   "published": [
     {
@@ -817,7 +818,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260809_082908",
+      "topic": "pulau-misterius-dengan-gua-es-terdalam",
+      "title": "Pulau Misterius dengan Gua Es Terdalam di Arktika",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260809_082908_pulau-misterius-dengan-gua-es-terdalam/final.mp4",
+      "video_id": "IxOpYtFk-oU",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 77
+  "_voice_idx": 78
 }
