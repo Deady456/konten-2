@@ -62,8 +62,8 @@ def _call_llm(model, max_tokens, response_format, messages, retries=5):
             elif m["role"] == "assistant":
                 contents.append({"role": "model", "parts": [{"text": m["content"]}]})
                 
-        # Fix model name just in case it has models/ prefix
-        actual_model = model.replace("models/", "")
+        # Fix model name just in case it has models/ or google/ prefix
+        actual_model = model.replace("models/", "").replace("google/", "")
         
         # Try different API keys on rate limit
         for attempt in range(retries):
@@ -185,26 +185,27 @@ def _system_prompt(content_format: str = None) -> str:
 Aturan:
 - Skrip harus {ts} detik, ~{tw} kata total ({tw//ts} kata per detik).
 - Mulai dengan HOOK 1 kalimat yang bikin penasaran dalam <3 detik, gaya semi-formal. Jangan pakai "Halo guys", "Hai", atau perkenalan.
-- Isi: informasi relevan sesuai niche yang diminta. Berikan fakta, angka, data, atau berita terbaru yang akurat.
+- Isi: informasi relevan sesuai niche yang diminta. Anda WAJIB memberikan fakta, angka, data, atau berita terbaru yang SANGAT AKURAT dan dapat diverifikasi. DILARANG mengarang cerita/halusinasi.
 - Akhiri dengan CTA 1 kalimat semi-formal ajakan subscribe/ikuti.
-- Gunakan bahasa Indonesia semi-formal: rapi dan informatif, tapi tetap enak didengar. Hindari bahasa terlalu santai atau terlalu kaku. Jangan pakai emoji atau format khusus.
+- Gunakan bahasa Indonesia semi-formal: rapi dan informatif, tapi tetap enak didengar. Hindari bahasa terlalu santai atau kaku.
 - Setiap scene punya visual_query 2-4 kata benda bahasa Inggris untuk cari video stok di Pexels yang relevan dengan niche.
 {format_instruction}
 Kembalikan ONLY valid JSON, tanpa teks lain. Skema:
-{{"topic": "slug topik sesuai niche", "title": "Judul YouTube max 95 chars, minimal 40 karakter, bikin penasaran dan engaging, jangan terlalu pendek", "thumbnail_text": "Teks super pendek (3-5 kata, HURUF KAPITAL) untuk ditampilkan besar di layar 3 detik pertama sebagai hook/thumbnail", "description": "3-4 kalimat deskripsi menarik dengan 5-8 hashtag relevan", "tags": ["10-15 tag huruf kecil yang relevan"], "scenes": [{{"text": "kalimat narasi bahasa Indonesia", "visual_query": "2-4 kata benda Inggris"}}]}}"""
+{{"topic": "slug topik sesuai niche", "title": "Judul YouTube max 95 chars, minimal 40 karakter, bikin penasaran dan engaging, jangan terlalu pendek", "thumbnail_text": "Teks super pendek (3-5 kata, HURUF KAPITAL) untuk ditampilkan besar di layar 3 detik pertama sebagai hook/thumbnail", "description": "3-4 kalimat deskripsi menarik dengan 5-8 hashtag relevan", "tags": ["10-15 tag huruf kecil yang relevan"], "scenes": [{{"text": "kalimat narasi bahasa Indonesia", "visual_query": "2-4 kata benda Inggris", "factual_subject": "Nama entitas spesifik dan nyata (tokoh, tempat, peristiwa, objek) yang ada di kalimat ini, gunakan bahasa Inggris/universal untuk memudahkan cari foto asli di Wikipedia (contoh: 'RMS Titanic', 'Borobudur', 'Black Death'). Jika tidak ada subjek fisik, isi null"}}]}}"""
     else:
         return f"""You write viral YouTube Shorts scripts for a faceless educational facts channel.
 
 Hard rules:
-- The script must run ~{target_seconds} seconds spoken at ~{target_words} words total.
+- The script must run ~{s["target_seconds"]} seconds spoken at ~{target_words} words total.
 - Start with a strong 1-sentence HOOK that creates curiosity in <3 seconds.
-- Body: 4-6 surprising, accurate, verifiable facts.
+- Body: 4-6 surprising, highly accurate, verifiable facts. DO NOT hallucinate.
 - End with a 1-sentence CTA.
 - Plain spoken English. No emojis.
 - Each scene's visual_query is 2-4 English nouns (e.g. "octopus swimming ocean").
 {format_instruction}
 Return ONLY valid JSON. Schema:
-{{"topic": "short slug", "title": "title max 95 chars, min 40 chars, curiosity-driven and engaging", "thumbnail_text": "Very short text (3-5 words, ALL CAPS) to display large on screen for the first 3 seconds as a hook/thumbnail", "description": "3-4 sentences with 5-8 relevant hashtags", "tags": ["10-15 lowercase relevant tags"], "scenes": [{{"text": "spoken sentence", "visual_query": "nouns"}}]}}"""
+{{"topic": "short slug", "title": "title max 95 chars, min 40 chars, curiosity-driven and engaging", "thumbnail_text": "Very short text (3-5 words, ALL CAPS) to display large on screen for the first 3 seconds as a hook/thumbnail", "description": "3-4 sentences with 5-8 relevant hashtags", "tags": ["10-15 lowercase relevant tags"], "scenes": [{{"text": "spoken sentence", "visual_query": "nouns", "factual_subject": "Specific real-world entity name (person, place, event, object) mentioned in this sentence to search for its real photo on Wikipedia (e.g. 'RMS Titanic', 'Albert Einstein'). If no physical subject, null"}}]}}"""
+
 
 
 def _extract_json(text: str) -> dict:
