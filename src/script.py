@@ -48,124 +48,108 @@ def _optimize_title(title: str, format_type: str) -> str:
 
 
 def _call_llm(model, max_tokens, response_format, messages, retries=5):
-    global _key_idx, _client
+    from .config import FALLBACK_PROVIDERS
     import requests
+    import time
+    from openai import OpenAI, RateLimitError
     
-    if LLM_PROVIDER == "gemini":
-        contents = []
-        sys_text = ""
-        for m in messages:
-            if m["role"] == "system":
-                sys_text = m["content"]
-            elif m["role"] == "user":
-                contents.append({"role": "user", "parts": [{"text": m["content"]}]})
-            elif m["role"] == "assistant":
-                contents.append({"role": "model", "parts": [{"text": m["content"]}]})
-                
-        # Fix model name just in case it has models/ or google/ prefix
-        actual_model = model.replace("models/", "").replace("google/", "")
+    if not FALLBACK_PROVIDERS:
+        raise Exception("No AI providers configured in .env!")
         
-        # Try different API keys on rate limit
-        for attempt in range(retries):
-            try:
-                url = f"https://generativelanguage.googleapis.com/v1beta/models/{actual_model}:generateContent?key={LLM_API_KEYS[_key_idx]}"
-                payload = {
-                    "contents": contents,
-                    "systemInstruction": {"parts": [{"text": sys_text}]},
-                    "generationConfig": {
-                        "maxOutputTokens": 8192, # Override to avoid truncation
-                    }
-                }
-                if response_format and response_format.get("type") == "json_object":
-                    payload["generationConfig"]["responseMimeType"] = "application/json"
+    for provider in FALLBACK_PROVIDERS:
+        name = provider["name"]
+        keys = provider["keys"]
+        base_url = provider["base_url"]
+        actual_model = provider["model"]
+        
+        print(f"  Attempting LLM generation with provider: {name.upper()} ({actual_model})")
+        
+        _key_idx = 0
+        while _key_idx < len(keys):
+            if name == "gemini":
+                # Special handling for Gemini REST API as google-genai may have compatibility issues
+                contents = []
+                sys_text = ""
+                for m in messages:
+                    if m["role"] == "system":
+                        sys_text = m["content"]
+                    elif m["role"] == "user":
+                        contents.append({"role": "user", "parts": [{"text": m["content"]}]})
+                    elif m["role"] == "assistant":
+                        contents.append({"role": "model", "parts": [{"text": m["content"]}]})
+                        
+                # Strip prefix if any
+                clean_model = actual_model.replace("models/", "").replace("google/", "")
+                
+                success = False
+                for attempt in range(retries):
+                    try:
+                        url = f"https://generativelanguage.googleapis.com/v1beta/models/{clean_model}:generateContent?key={keys[_key_idx]}"
+                        payload = {
+                            "contents": contents,
+                            "systemInstruction": {"parts": [{"text": sys_text}]},
+                            "generationConfig": {
+                                "maxOutputTokens": max_tokens if max_tokens else 8192,
+                            }
+                        }
+                        if response_format and response_format.get("type") == "json_object":
+                            payload["generationConfig"]["responseMimeType"] = "application/json"
+                            
+                        resp = requests.post(url, json=payload, headers={"Content-Type": "application/json"})
+                        if resp.status_code == 200:
+                            data = resp.json()
+                            text = data["candidates"][0]["content"]["parts"][0]["text"]
+                            class DummyMsg: content = text
+                            class DummyChoice: message = DummyMsg()
+                            class DummyResp: choices = [DummyChoice()]
+                            return DummyResp()
+                        elif resp.status_code == 429:
+                            break # Break to rotate key
+                        else:
+                            _wait = 2 ** attempt
+                            print(f"  Gemini error HTTP {resp.status_code} (retry {attempt+1}/{retries} in {_wait}s): {resp.text}")
+                            time.sleep(_wait)
+                    except Exception as e:
+                        _wait = 2 ** attempt
+                        print(f"  Gemini error (retry {attempt+1}/{retries} in {_wait}s): {e}")
+                        time.sleep(_wait)
+                
+                # If we broke out of retries via 429 or exhausted retries without success, we rotate key
+                _key_idx += 1
+                if _key_idx < len(keys):
+                    print(f"  Rate limited/Failed on Gemini, switching to key {_key_idx+1}/{len(keys)}")
+                else:
+                    print(f"  All Gemini keys exhausted.")
+            else:
+                # OpenAI Compatible Provider
+                client = OpenAI(api_key=keys[_key_idx], base_url=base_url)
+                success = False
+                for attempt in range(retries):
+                    try:
+                        return client.chat.completions.create(
+                            model=actual_model, max_tokens=max_tokens,
+                            response_format=response_format, messages=messages,
+                        )
+                    except RateLimitError as e:
+                        break # Break out to rotate key
+                    except Exception as e:
+                        if attempt < retries - 1:
+                            _wait = 2 ** attempt
+                            print(f"  {name.upper()} error (retry {attempt+1}/{retries} in {_wait}s): {e}")
+                            time.sleep(_wait)
+                        else:
+                            break # Exhausted retries, break to rotate key
+                
+                # Rotate key
+                _key_idx += 1
+                if _key_idx < len(keys):
+                    print(f"  Failed/Rate limited on {name.upper()}, switching to key {_key_idx+1}/{len(keys)}")
+                else:
+                    print(f"  All {name.upper()} keys exhausted.")
                     
-                resp = requests.post(url, json=payload, headers={"Content-Type": "application/json"})
-                
-                if resp.status_code == 200:
-                    data = resp.json()
-                    text = data["candidates"][0]["content"]["parts"][0]["text"]
-                    class DummyMsg: content = text
-                    class DummyChoice: message = DummyMsg()
-                    class DummyResp: choices = [DummyChoice()]
-                    return DummyResp()
-                elif resp.status_code == 429:
-                    if _key_idx < len(LLM_API_KEYS) - 1:
-                        _key_idx += 1
-                        print(f"  Rate limited, switching to key {_key_idx+1}/{len(LLM_API_KEYS)}")
-                        continue
-                    else:
-                        print("  Rate limited, all Gemini keys exhausted. Falling back to Groq...")
-                        break
-                else:
-                    _wait = 2 ** attempt
-                    print(f"  LLM error HTTP {resp.status_code} (retry {attempt+1}/{retries} in {_wait}s): {resp.text}")
-                    time.sleep(_wait)
-            except Exception as e:
-                if attempt < retries - 1:
-                    _wait = 2 ** attempt
-                    print(f"  LLM error (retry {attempt+1}/{retries} in {_wait}s): {e}")
-                    time.sleep(_wait)
-                else:
-                    print(f"  Gemini API failed: {e}. Falling back to Groq...")
-                    break
+        print(f"  Provider {name.upper()} fully exhausted. Falling back to next provider...")
         
-        # If we reach here in Gemini provider without returning, we fallback to Groq
-        print("  Falling back to Groq API...")
-        _groq_idx = 0
-        while _groq_idx < len(GROQ_API_KEYS):
-            _client = OpenAI(api_key=GROQ_API_KEYS[_groq_idx], base_url="https://api.groq.com/openai/v1")
-            groq_model = "llama-3.3-70b-versatile"
-            for attempt in range(retries):
-                try:
-                    return _client.chat.completions.create(
-                        model=groq_model, max_tokens=max_tokens,
-                        response_format=response_format, messages=messages,
-                    )
-                except RateLimitError as e:
-                    if attempt < retries - 1:
-                        _wait = 2 ** attempt
-                        print(f"  Rate limited (retry {attempt+1}/{retries} in {_wait}s): {e}")
-                        time.sleep(_wait)
-                    else:
-                        break
-                except Exception as e:
-                    if attempt < retries - 1:
-                        _wait = 2 ** attempt
-                        print(f"  LLM error (retry {attempt+1}/{retries} in {_wait}s): {e}")
-                        time.sleep(_wait)
-                    else:
-                        break
-            _groq_idx += 1
-            if _groq_idx >= len(GROQ_API_KEYS):
-                raise Exception("All Groq API keys exhausted after Gemini fallback")
-            print(f"  Switching to next Groq key {_groq_idx+1}/{len(GROQ_API_KEYS)}")
-    else:
-        while _key_idx < len(LLM_API_KEYS):
-            _client = OpenAI(api_key=LLM_API_KEYS[_key_idx], base_url=LLM_BASE_URL)
-            for attempt in range(retries):
-                try:
-                    return _client.chat.completions.create(
-                        model=model, max_tokens=max_tokens,
-                        response_format=response_format, messages=messages,
-                    )
-                except RateLimitError as e:
-                    if attempt < retries - 1:
-                        _wait = 2 ** attempt
-                        print(f"  Rate limited (retry {attempt+1}/{retries} in {_wait}s): {e}")
-                        time.sleep(_wait)
-                    else:
-                        break
-                except Exception as e:
-                    if attempt < retries - 1:
-                        _wait = 2 ** attempt
-                        print(f"  LLM error (retry {attempt+1}/{retries} in {_wait}s): {e}")
-                        time.sleep(_wait)
-                    else:
-                        break
-            _key_idx += 1
-            if _key_idx >= len(LLM_API_KEYS):
-                raise Exception(f"All API keys exhausted for {LLM_PROVIDER}")
-            print(f"  Switching to next API key {_key_idx+1}/{len(LLM_API_KEYS)}")
+    raise Exception("All fallback providers exhausted. LLM Generation failed.")
 
 
 def _system_prompt(content_format: str = None) -> str:
