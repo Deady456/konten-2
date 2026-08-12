@@ -81,7 +81,8 @@
     "gunung-batu-gamping-misterius",
     "pulau-dengan-pantai-pasir-hijau",
     "pulau-misterius-dengan-gua-es-terdalam",
-    "pulau-misterius-dengan-danau-asin-terdalam"
+    "pulau-misterius-dengan-danau-asin-terdalam",
+    "daratan-menghilang-di-laut-utara"
   ],
   "published": [
     {
@@ -839,7 +840,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260812_162044",
+      "topic": "daratan-menghilang-di-laut-utara",
+      "title": "Misteri Laut Utara: Daratan yang Menghilang tanpa Jejak",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260812_162044_daratan-menghilang-di-laut-utara/final.mp4",
+      "video_id": "FnLLJtEtxEk",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 80
+  "_voice_idx": 81
 }
