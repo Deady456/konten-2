@@ -80,7 +80,8 @@
     "pulau-misterius-dengan-kawah-kaca",
     "gunung-batu-gamping-misterius",
     "pulau-dengan-pantai-pasir-hijau",
-    "pulau-misterius-dengan-gua-es-terdalam"
+    "pulau-misterius-dengan-gua-es-terdalam",
+    "pulau-misterius-dengan-danau-asin-terdalam"
   ],
   "published": [
     {
@@ -828,7 +829,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260812_124250",
+      "topic": "pulau-misterius-dengan-danau-asin-terdalam",
+      "title": "Pulau Misterius dengan Danau Asin Terdalam di Dunia",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260812_124250_pulau-misterius-dengan-danau-asin-terdalam/final.mp4",
+      "video_id": "aFVAR9G_lHc",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 79
+  "_voice_idx": 80
 }
