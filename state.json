@@ -82,7 +82,8 @@
     "pulau-dengan-pantai-pasir-hijau",
     "pulau-misterius-dengan-gua-es-terdalam",
     "pulau-misterius-dengan-danau-asin-terdalam",
-    "daratan-menghilang-di-laut-utara"
+    "daratan-menghilang-di-laut-utara",
+    "pulau-misterius-terisolasi-dengan-ekosistem-unik"
   ],
   "published": [
     {
@@ -850,7 +851,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260812_231707",
+      "topic": "pulau-misterius-terisolasi-dengan-ekosistem-unik",
+      "title": "Pulau Terisolasi yang Tersembunyi: Misteri di Balik Pulau Clipperton",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260812_231707_pulau-misterius-terisolasi-dengan-ekosistem-unik/final.mp4",
+      "video_id": "gVMgOc1QIx0",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 81
+  "_voice_idx": 82
 }
