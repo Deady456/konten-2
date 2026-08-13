@@ -83,7 +83,8 @@
     "pulau-misterius-dengan-gua-es-terdalam",
     "pulau-misterius-dengan-danau-asin-terdalam",
     "daratan-menghilang-di-laut-utara",
-    "pulau-misterius-terisolasi-dengan-ekosistem-unik"
+    "pulau-misterius-terisolasi-dengan-ekosistem-unik",
+    "kota-bawah-tanah-derinkuyu"
   ],
   "published": [
     {
@@ -861,7 +862,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260813_141044",
+      "topic": "kota-bawah-tanah-derinkuyu",
+      "title": "Kota Bawah Tanah Paling Besar di Dunia: Derinkuyu",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260813_141044_kota-bawah-tanah-derinkuyu/final.mp4",
+      "video_id": "W7RoRLqQk74",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 82
+  "_voice_idx": 83
 }
