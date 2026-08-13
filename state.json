@@ -84,7 +84,8 @@
     "pulau-misterius-dengan-danau-asin-terdalam",
     "daratan-menghilang-di-laut-utara",
     "pulau-misterius-terisolasi-dengan-ekosistem-unik",
-    "kota-bawah-tanah-derinkuyu"
+    "kota-bawah-tanah-derinkuyu",
+    "gurun-pasir-bergerak"
   ],
   "published": [
     {
@@ -872,7 +873,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260813_231700",
+      "topic": "gurun-pasir-bergerak",
+      "title": "Gurun Pasir Bergerak: Fenomena Alam Misterius",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260813_231700_gurun-pasir-bergerak/final.mp4",
+      "video_id": "anHCUazGHNg",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 83
+  "_voice_idx": 84
 }
