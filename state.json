@@ -86,7 +86,8 @@
     "pulau-misterius-terisolasi-dengan-ekosistem-unik",
     "kota-bawah-tanah-derinkuyu",
     "gurun-pasir-bergerak",
-    "pulau-misterius-dengan-terowongan-lava"
+    "pulau-misterius-dengan-terowongan-lava",
+    "gua-misterius-dengan-stalaktit-merah"
   ],
   "published": [
     {
@@ -894,7 +895,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260815_231931",
+      "topic": "gua-misterius-dengan-stalaktit-merah",
+      "title": "Gua Misterius dengan Stalaktit Merah Mempesona",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260815_231931_gua-misterius-dengan-stalaktit-merah/final.mp4",
+      "video_id": "hBr3qIc9uzQ",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 85
+  "_voice_idx": 86
 }
