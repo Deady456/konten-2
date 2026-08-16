@@ -87,7 +87,8 @@
     "kota-bawah-tanah-derinkuyu",
     "gurun-pasir-bergerak",
     "pulau-misterius-dengan-terowongan-lava",
-    "gua-misterius-dengan-stalaktit-merah"
+    "gua-misterius-dengan-stalaktit-merah",
+    "pintu-neraka-turkmenistan"
   ],
   "published": [
     {
@@ -905,7 +906,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260816_231728",
+      "topic": "pintu-neraka-turkmenistan",
+      "title": "Misteri 'The Door to Hell': Lubang Membara di Gurun Turkmenistan yang Tak Pernah Padam",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260816_231728_pintu-neraka-turkmenistan/final.mp4",
+      "video_id": "rg_KrDq0Ens",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 86
+  "_voice_idx": 87
 }
