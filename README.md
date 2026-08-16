@@ -59,7 +59,7 @@ Full step-by-step (including the Google Cloud setup) is in **[docs/SETUP.md](doc
 
 | Stage | File | What it does |
 |---|---|---|
-| 1. Script | `src/script.py` | Groq (`llama-3.3-70b-versatile`) writes a hook + facts + CTA as structured JSON, avoiding topics already used. |
+| 1. Script | `src/script.py` | Groq (`qwen-3.6-27b`) writes a hook + facts + CTA as structured JSON, avoiding topics already used. |
 | 2. Voice | `src/voice.py` | edge-tts synthesizes a neural voiceover (free, no key). |
 | 3. Captions | `src/captions.py` | faster-whisper transcribes the audio **locally** for word-level timing, then writes karaoke-style `.ass` captions. |
 | 4. B-roll | `src/visuals.py` | Pexels Videos API pulls vertical stock clips matching each scene. |
