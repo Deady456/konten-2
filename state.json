@@ -88,7 +88,8 @@
     "gurun-pasir-bergerak",
     "pulau-misterius-dengan-terowongan-lava",
     "gua-misterius-dengan-stalaktit-merah",
-    "pintu-neraka-turkmenistan"
+    "pintu-neraka-turkmenistan",
+    "danau-natron-tanzania-misteri-petrifikasi"
   ],
   "published": [
     {
@@ -916,7 +917,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260817_111730",
+      "topic": "danau-natron-tanzania-misteri-petrifikasi",
+      "title": "Misteri Danau Natron: Air Merah yang Mengubah Hewan Menjadi Batu di Tanzania",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260817_111730_danau-natron-tanzania-misteri-petrifikasi/final.mp4",
+      "video_id": "UCpd1ZkXgDE",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 87
+  "_voice_idx": 88
 }
