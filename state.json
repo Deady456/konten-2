@@ -89,7 +89,8 @@
     "pulau-misterius-dengan-terowongan-lava",
     "gua-misterius-dengan-stalaktit-merah",
     "pintu-neraka-turkmenistan",
-    "danau-natron-tanzania-misteri-petrifikasi"
+    "danau-natron-tanzania-misteri-petrifikasi",
+    "salar-de-uyuni-cermin-langit-misteri"
   ],
   "published": [
     {
@@ -927,7 +928,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260817_231745",
+      "topic": "salar-de-uyuni-cermin-langit-misteri",
+      "title": "Misteri Cermin Langit di Salar de Uyuni: Danau Garam yang Membuat Langit Menyatu",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260817_231745_salar-de-uyuni-cermin-langit-misteri/final.mp4",
+      "video_id": "GpIzhZkTGgs",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 88
+  "_voice_idx": 89
 }
