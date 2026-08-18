@@ -46,11 +46,6 @@ upload:
   made_for_kids: false
   channel: "kisahnyata"
   default_tags: ["geografi", "tempat misterius", "misteri dunia", "fakta unik", "tempat angker", "fenomena alam", "lokasi misteri", "pengetahuan"]
-  tiktok:
-    enabled: true
-
-
-
 branding:
   enabled: true
   intro:
