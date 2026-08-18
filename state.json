@@ -90,7 +90,8 @@
     "gua-misterius-dengan-stalaktit-merah",
     "pintu-neraka-turkmenistan",
     "danau-natron-tanzania-misteri-petrifikasi",
-    "salar-de-uyuni-cermin-langit-misteri"
+    "salar-de-uyuni-cermin-langit-misteri",
+    "cave-krystal-rahasia-naica"
   ],
   "published": [
     {
@@ -938,7 +939,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260818_111823",
+      "topic": "cave-krystal-rahasia-naica",
+      "title": "Misteri Cueva de los Cristales: Gua Raksasa dengan Kristal 12 Meter di Kedalaman Tambang Naica, Meksiko",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260818_111823_cave-krystal-rahasia-naica/final.mp4",
+      "video_id": "qAkk-2-lr7Q",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 89
+  "_voice_idx": 90
 }
