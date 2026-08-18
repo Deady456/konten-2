@@ -26,11 +26,22 @@ def probe_duration(path: Path) -> float:
         return 60.0
 
 
+def _search_bing_images(query: str) -> list[str]:
+    """Scrape authentic high-res scenic photos from Bing."""
+    url = f"https://www.bing.com/images/search?q={quote(query + ' scenic 4k')}&form=HDRSC3"
+    try:
+        r = requests.get(url, headers=HEADERS, timeout=8)
+        urls = re.findall(r'murl&quot;:&quot;(https://[^&]+)&quot;', r.text)
+        return [u for u in urls if not u.endswith('.svg') and 'icon' not in u.lower()]
+    except Exception:
+        return []
+
+
 def _search_wikimedia_geo(query: str) -> list[str]:
-    """Fetch geography, architecture, and historical places from Wikimedia Commons."""
+    """Fetch geography and historical places from Wikimedia Commons."""
     url = f"https://en.wikipedia.org/w/api.php?action=query&format=json&generator=search&gsrsearch={quote(query)}&gsrlimit=8&prop=pageimages&piprop=original|thumbnail&pithumbsize=1080"
     try:
-        r = requests.get(url, headers=HEADERS, timeout=10)
+        r = requests.get(url, headers=HEADERS, timeout=8)
         if r.status_code == 200:
             pages = r.json().get("query", {}).get("pages", {})
             urls = []
@@ -44,27 +55,15 @@ def _search_wikimedia_geo(query: str) -> list[str]:
     return []
 
 
-def _search_google_earth_scenic(query: str) -> list[str]:
-    """Scrape aerial/scenic geography images."""
-    url = f"https://www.google.com/search?q={quote(query + ' aerial landscape photography')}&tbm=isch&hl=en&gl=US"
-    try:
-        r = requests.get(url, headers=HEADERS, timeout=10)
-        matches = re.findall(r'https://[^"]+\.(?:jpg|jpeg|png|webp)', r.text)
-        clean = [m for m in matches if "gstatic" not in m and "google" not in m and "logo" not in m.lower() and len(m) > 25]
-        return clean
-    except Exception:
-        return []
-
-
 def _generate_pollinations_flux_geo(prompt: str, out_path: Path, seed: int = None) -> bool:
-    """Generate breathtaking geography/mystery landscape using Pollinations FLUX.1."""
+    """Generate vibrant, bright, high-clarity geography/mystery landscape using Pollinations FLUX.1."""
     try:
         clean_p = re.sub(r'[^a-zA-Z0-9\s,.-]', '', prompt).strip()
-        enhanced_prompt = f"{clean_p}, epic aerial drone photography, national geographic magazine cover, ultra-wide angle, dramatic clouds, hyper-detailed landscape, photorealistic 8k"
+        enhanced_prompt = f"{clean_p}, breathtaking landscape, national geographic photography, bright vivid lighting, golden hour, crystal clear atmosphere, ultra-detailed 8k, photorealistic, sharp focus"
         seed_param = f"&seed={seed}" if seed else f"&seed={random.randint(1, 999999)}"
         url = f"https://image.pollinations.ai/prompt/{quote(enhanced_prompt)}?width=1080&height=1920&model=flux&nologo=true{seed_param}"
         
-        r = requests.get(url, headers=HEADERS, timeout=25)
+        r = requests.get(url, headers=HEADERS, timeout=18)
         if r.status_code == 200 and len(r.content) > 5000:
             out_path.write_bytes(r.content)
             with Image.open(out_path) as im:
@@ -77,8 +76,8 @@ def _generate_pollinations_flux_geo(prompt: str, out_path: Path, seed: int = Non
 
 def _download_image(url: str, out_path: Path) -> bool:
     try:
-        r = requests.get(url, headers=HEADERS, stream=True, timeout=15)
-        if r.status_code == 200 and len(r.content) > 3000:
+        r = requests.get(url, headers=HEADERS, stream=True, timeout=10)
+        if r.status_code == 200 and len(r.content) > 4000:
             out_path.write_bytes(r.content)
             with Image.open(out_path) as im:
                 im.verify()
@@ -96,10 +95,11 @@ def _process_image_card(
     h: int = 1920,
     is_hook: bool = False
 ):
+    """Bright, vivid, crystal clear color grading without dark murky shadows."""
     try:
         im = Image.open(base_img_path).convert("RGBA")
     except Exception:
-        im = Image.new("RGBA", (w, h), (15, 20, 25, 255))
+        im = Image.new("RGBA", (w, h), (20, 35, 55, 255))
 
     iw, ih = im.size
     target_ratio = w / h
@@ -116,25 +116,26 @@ def _process_image_card(
 
     im = im.resize((w, h), Image.Resampling.LANCZOS)
 
-    contrast = ImageEnhance.Contrast(im)
-    im = contrast.enhance(1.12)
-    color = ImageEnhance.Color(im)
-    im = color.enhance(1.1)
+    # Brightness, Contrast & Color Boost to eliminate dark murky look
+    enh_bright = ImageEnhance.Brightness(im)
+    im = enh_bright.enhance(1.06)
+    enh_contrast = ImageEnhance.Contrast(im)
+    im = enh_contrast.enhance(1.12)
+    enh_color = ImageEnhance.Color(im)
+    im = enh_color.enhance(1.22)
 
     overlay = Image.new("RGBA", (w, h), (0, 0, 0, 0))
     draw = ImageDraw.Draw(overlay)
 
-    for y in range(350):
-        alpha = int(180 * (1.0 - y / 350.0) ** 1.5)
-        draw.line([(0, y), (w, y)], fill=(8, 12, 18, alpha))
-    for y in range(h - 450, h):
-        factor = (y - (h - 450)) / 450.0
-        alpha = int(200 * (factor ** 1.3))
-        draw.line([(0, y), (w, y)], fill=(8, 12, 18, alpha))
+    # Light subtle vignette (only at bottom 180px for subtitle readability)
+    for y in range(h - 220, h):
+        factor = (y - (h - 220)) / 220.0
+        alpha = int(120 * factor)
+        draw.line([(0, y), (w, y)], fill=(0, 0, 0, alpha))
 
     if is_hook:
         badge_y = 120
-        draw.rectangle([(50, badge_y), (380, badge_y + 60)], fill=(30, 140, 200, 230))
+        draw.rectangle([(50, badge_y), (380, badge_y + 60)], fill=(0, 140, 220, 240))
         font = ImageFont.load_default()
         draw.text((70, badge_y + 20), topic_label.upper(), fill=(255, 255, 255, 255))
 
@@ -146,10 +147,16 @@ def _process_image_card(
 def _image_to_video(img_path: Path, out_path: Path, duration: float, w: int, h: int, fps: int, zoom_direction: int = 0):
     frames = int(duration * fps)
     
-    if zoom_direction % 2 == 0:
-        zoom_expr = f"zoompan=z='min(1.18,1.0+0.007*on)':d={frames}:x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':s={w}x{h}:fps={fps}"
+    # Alternating cinematic zoom and pan effects
+    if zoom_direction % 3 == 0:
+        # Smooth Zoom In
+        zoom_expr = f"zoompan=z='min(1.20,1.0+0.007*on)':d={frames}:x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':s={w}x{h}:fps={fps}"
+    elif zoom_direction % 3 == 1:
+        # Smooth Zoom Out
+        zoom_expr = f"zoompan=z='max(1.0,1.18-0.007*on)':d={frames}:x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':s={w}x{h}:fps={fps}"
     else:
-        zoom_expr = f"zoompan=z='max(1.0,1.15-0.007*on)':d={frames}:x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':s={w}x{h}:fps={fps}"
+        # Gentle Pan
+        zoom_expr = f"zoompan=z=1.12:d={frames}:x='(iw-iw/zoom)*(on/{frames})':y='ih/2-(ih/zoom/2)':s={w}x{h}:fps={fps}"
 
     cmd = [
         "ffmpeg", "-y", "-loop", "1", "-i", str(img_path),
@@ -160,16 +167,6 @@ def _image_to_video(img_path: Path, out_path: Path, duration: float, w: int, h: 
         "-c:v", "libx264", "-preset", "fast", "-crf", "20",
         "-pix_fmt", "yuv420p",
         "-t", f"{duration:.3f}",
-        str(out_path),
-    ]
-    subprocess.run(cmd, capture_output=True, text=True)
-
-
-def _fallback_video(out_path: Path, duration: float, w: int, h: int, fps: int):
-    cmd = [
-        "ffmpeg", "-y", "-f", "lavfi", "-i", f"color=c=#101820:s={w}x{h}:r={fps}:d={duration:.3f}",
-        "-c:v", "libx264", "-preset", "fast", "-crf", "20",
-        "-pix_fmt", "yuv420p",
         str(out_path),
     ]
     subprocess.run(cmd, capture_output=True, text=True)
@@ -203,8 +200,7 @@ def _calculate_scene_durations(words: list[dict], scenes: list[dict], total_audi
 
 def fetch_all(scenes: list[dict], out_dir: Path, words: list[dict] = None, voice_audio: Path = None) -> list[Path]:
     """
-    Fetch geography & mysterious places visuals (Wikimedia Commons + Google Earth + Pollinations FLUX.1)
-    and generate dynamic 2.5-3.5s multi-cut clips covering full audio duration.
+    Fetch geography & mysterious places visuals with 100% photo coverage (NEVER black screens).
     """
     out_dir.mkdir(parents=True, exist_ok=True)
     all_clips = []
@@ -215,9 +211,10 @@ def fetch_all(scenes: list[dict], out_dir: Path, words: list[dict] = None, voice
     scene_durations = _calculate_scene_durations(words, scenes, total_audio_dur)
 
     used_images = set()
+    collected_images_pool = []
     clip_counter = 0
 
-    print(f"    [Geo Visuals] Generating dynamic cuts for {len(scenes)} scenes ({total_audio_dur:.1f}s audio)...")
+    print(f"    [Geo Visuals] Generating bright dynamic cuts for {len(scenes)} scenes ({total_audio_dur:.1f}s audio)...")
 
     for i, scene in enumerate(scenes):
         total_scene_dur = scene_durations[i]
@@ -233,14 +230,15 @@ def fetch_all(scenes: list[dict], out_dir: Path, words: list[dict] = None, voice
         if vq:
             queries.append(vq.strip())
 
+        # Collect candidate images from multiple sources
         found_urls = []
         for q in queries:
-            # 1. Wikimedia Commons Geo
-            for u in _search_wikimedia_geo(q):
+            # 1. Bing High-Res Scenic
+            for u in _search_bing_images(q):
                 if u not in used_images and u not in found_urls:
                     found_urls.append(u)
-            # 2. Scenic Landscape
-            for u in _search_google_earth_scenic(q):
+            # 2. Wikimedia Commons Geo
+            for u in _search_wikimedia_geo(q):
                 if u not in used_images and u not in found_urls:
                     found_urls.append(u)
             if len(found_urls) >= num_subclips * 2:
@@ -252,18 +250,27 @@ def fetch_all(scenes: list[dict], out_dir: Path, words: list[dict] = None, voice
             final_img_path = out_dir / f"card_{clip_counter:03d}.jpg"
 
             img_ready = False
+            # 1. Try downloading authentic photo
             for u in found_urls:
                 if u not in used_images and _download_image(u, raw_img_path):
                     used_images.add(u)
                     img_ready = True
                     break
 
+            # 2. If no photo, generate with Pollinations FLUX.1
             if not img_ready:
-                prompt = queries[0] if queries else scene.get("text", "mysterious geography place")
+                prompt = queries[sub_idx % len(queries)] if queries else scene.get("text", "mysterious geography landscape")
                 if _generate_pollinations_flux_geo(prompt, raw_img_path, seed=clip_counter + 200):
                     img_ready = True
 
+            # 3. CRITICAL: If still not ready, reuse best photo from pool (NEVER produce black video!)
+            if not img_ready and collected_images_pool:
+                donor = random.choice(collected_images_pool)
+                raw_img_path.write_bytes(donor.read_bytes())
+                img_ready = True
+
             if img_ready:
+                collected_images_pool.append(raw_img_path)
                 _process_image_card(
                     base_img_path=raw_img_path,
                     out_path=final_img_path,
@@ -273,12 +280,15 @@ def fetch_all(scenes: list[dict], out_dir: Path, words: list[dict] = None, voice
                 )
                 _image_to_video(final_img_path, out_clip_path, subclip_dur, w, h, fps, zoom_direction=clip_counter)
             else:
-                _fallback_video(out_clip_path, subclip_dur, w, h, fps)
+                # Absolute last resort fallback: vibrant scenic placeholder
+                img = Image.new("RGB", (w, h), (15, 60, 90))
+                img.save(final_img_path)
+                _image_to_video(final_img_path, out_clip_path, subclip_dur, w, h, fps, zoom_direction=clip_counter)
 
             all_clips.append(out_clip_path)
             clip_counter += 1
 
-        print(f"    scene {i+1}/{len(scenes)}: {total_scene_dur:.1f}s -> {num_subclips} geo cuts generated")
+        print(f"    scene {i+1}/{len(scenes)}: {total_scene_dur:.1f}s -> {num_subclips} bright geo cuts generated")
 
     print(f"    [Geo Visuals] Ready: {len(all_clips)} dynamic clips covering full video duration.")
     return all_clips

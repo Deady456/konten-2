@@ -91,7 +91,8 @@
     "pintu-neraka-turkmenistan",
     "danau-natron-tanzania-misteri-petrifikasi",
     "salar-de-uyuni-cermin-langit-misteri",
-    "cave-krystal-rahasia-naica"
+    "cave-krystal-rahasia-naica",
+    "danau-tersembunyi-antartika"
   ],
   "published": [
     {
@@ -949,7 +950,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260819_000222",
+      "topic": "danau-tersembunyi-antartika",
+      "title": "Misteri Danau Vostok: Danau Tersembunyi di Bawah Es Antartika yang Menyimpan Kehidupan Unik",
+      "path": "C:\\Users\\Administrator\\Desktop\\patch_temp2\\konten-2\\output\\20260819_000222_danau-tersembunyi-antartika\\final.mp4",
+      "video_id": null,
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 90
+  "_voice_idx": 91
 }
