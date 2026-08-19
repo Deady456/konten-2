@@ -93,7 +93,8 @@
     "salar-de-uyuni-cermin-langit-misteri",
     "cave-krystal-rahasia-naica",
     "danau-tersembunyi-antartika",
-    "struktur-richat-mata-sahara"
+    "struktur-richat-mata-sahara",
+    "pulau-ular-queimada-grande-brasil"
   ],
   "published": [
     {
@@ -971,7 +972,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260819_111652",
+      "topic": "pulau-ular-queimada-grande-brasil",
+      "title": "Misteri Ilha da Queimada Grande: Pulau Terlarang Paling Mematikan di Dunia",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260819_111652_pulau-ular-queimada-grande-brasil/final.mp4",
+      "video_id": "wziifCIJoWA",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 92
+  "_voice_idx": 93
 }
