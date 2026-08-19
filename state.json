@@ -92,7 +92,8 @@
     "danau-natron-tanzania-misteri-petrifikasi",
     "salar-de-uyuni-cermin-langit-misteri",
     "cave-krystal-rahasia-naica",
-    "danau-tersembunyi-antartika"
+    "danau-tersembunyi-antartika",
+    "struktur-richat-mata-sahara"
   ],
   "published": [
     {
@@ -960,7 +961,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260819_055725",
+      "topic": "struktur-richat-mata-sahara",
+      "title": "Misteri Mata Sahara: Lingkaran Raksasa Tersembunyi di Mauritania",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260819_055725_struktur-richat-mata-sahara/final.mp4",
+      "video_id": "vZu7lMD2hvo",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 91
+  "_voice_idx": 92
 }
