@@ -94,7 +94,8 @@
     "cave-krystal-rahasia-naica",
     "danau-tersembunyi-antartika",
     "struktur-richat-mata-sahara",
-    "pulau-ular-queimada-grande-brasil"
+    "pulau-ular-queimada-grande-brasil",
+    "danau-nyos-kameraun-danau-pembunuh"
   ],
   "published": [
     {
@@ -982,7 +983,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260819_231710",
+      "topic": "danau-nyos-kameraun-danau-pembunuh",
+      "title": "Misteri Danau Nyos: Danau Pembunuh Paling Mematikan dalam Sejarah Dunia",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260819_231710_danau-nyos-kameraun-danau-pembunuh/final.mp4",
+      "video_id": "8HTHXfiVH3k",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 93
+  "_voice_idx": 94
 }
