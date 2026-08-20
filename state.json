@@ -96,7 +96,8 @@
     "struktur-richat-mata-sahara",
     "pulau-ular-queimada-grande-brasil",
     "danau-nyos-kameraun-danau-pembunuh",
-    "sungai-mendidih-amazon-shanay-timpishka"
+    "sungai-mendidih-amazon-shanay-timpishka",
+    "dallol-gunung-berapi-beracun-etiopia"
   ],
   "published": [
     {
@@ -1004,7 +1005,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260820_231710",
+      "topic": "dallol-gunung-berapi-beracun-etiopia",
+      "title": "Misteri Kawah Dallol Tempat Paling Beracun dan Mirip Planet Lain di Bumi",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260820_231710_dallol-gunung-berapi-beracun-etiopia/final.mp4",
+      "video_id": "EjXQjVPiYLg",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 95
+  "_voice_idx": 96
 }
