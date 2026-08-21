@@ -97,7 +97,8 @@
     "pulau-ular-queimada-grande-brasil",
     "danau-nyos-kameraun-danau-pembunuh",
     "sungai-mendidih-amazon-shanay-timpishka",
-    "dallol-gunung-berapi-beracun-etiopia"
+    "dallol-gunung-berapi-beracun-etiopia",
+    "air-terjun-darah-antarotika"
   ],
   "published": [
     {
@@ -1015,7 +1016,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260821_111638",
+      "topic": "air-terjun-darah-antarotika",
+      "title": "Misteri Air Terjun Darah Antartika yang Terisolasi Jutaan Tahun",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260821_111638_air-terjun-darah-antarotika/final.mp4",
+      "video_id": "KmKFzorkPt4",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 96
+  "_voice_idx": 97
 }
