@@ -98,7 +98,8 @@
     "danau-nyos-kameraun-danau-pembunuh",
     "sungai-mendidih-amazon-shanay-timpishka",
     "dallol-gunung-berapi-beracun-etiopia",
-    "air-terjun-darah-antarotika"
+    "air-terjun-darah-antarotika",
+    "danau-roopkund-danau-tengkorak-himalaya"
   ],
   "published": [
     {
@@ -1026,7 +1027,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260821_231650",
+      "topic": "danau-roopkund-danau-tengkorak-himalaya",
+      "title": "Misteri Danau Roopkund: Danau Berisi Ratusan Tengkorak Manusia di Himalaya",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260821_231650_danau-roopkund-danau-tengkorak-himalaya/final.mp4",
+      "video_id": "DVYG-4tg7TY",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 97
+  "_voice_idx": 98
 }
