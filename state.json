@@ -99,7 +99,8 @@
     "sungai-mendidih-amazon-shanay-timpishka",
     "dallol-gunung-berapi-beracun-etiopia",
     "air-terjun-darah-antarotika",
-    "danau-roopkund-danau-tengkorak-himalaya"
+    "danau-roopkund-danau-tengkorak-himalaya",
+    "cenote-angelita-sungai-bawah-air-meksiko"
   ],
   "published": [
     {
@@ -1037,7 +1038,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260823_183729",
+      "topic": "cenote-angelita-sungai-bawah-air-meksiko",
+      "title": "Ada Sungai di Dalam Danau? Misteri Luar Biasa Cenote Angelita Meksiko!",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260823_183729_cenote-angelita-sungai-bawah-air-meksiko/final.mp4",
+      "video_id": "MlHCC5ewwC0",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 98
+  "_voice_idx": 99
 }
