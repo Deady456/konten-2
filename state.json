@@ -102,7 +102,8 @@
     "danau-roopkund-danau-tengkorak-himalaya",
     "cenote-angelita-sungai-bawah-air-meksiko",
     "danau-maracaibo-misteri-petir-abadi-catatumbo",
-    "gua-misterius-movile-rumania"
+    "gua-misterius-movile-rumania",
+    "sumur-barhout-yemen-misteri-sumur-neraka"
   ],
   "published": [
     {
@@ -1070,7 +1071,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260824_231702",
+      "topic": "sumur-barhout-yemen-misteri-sumur-neraka",
+      "title": "Misteri Sumur Neraka Yaman: Rahasia Lubang Raksasa yang Ditakuti Berabad-Abad",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260824_231702_sumur-barhout-yemen-misteri-sumur-neraka/final.mp4",
+      "video_id": "G_DTnJroO6k",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 101
+  "_voice_idx": 102
 }
