@@ -101,7 +101,8 @@
     "air-terjun-darah-antarotika",
     "danau-roopkund-danau-tengkorak-himalaya",
     "cenote-angelita-sungai-bawah-air-meksiko",
-    "danau-maracaibo-misteri-petir-abadi-catatumbo"
+    "danau-maracaibo-misteri-petir-abadi-catatumbo",
+    "gua-misterius-movile-rumania"
   ],
   "published": [
     {
@@ -1059,7 +1060,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260824_111835",
+      "topic": "gua-misterius-movile-rumania",
+      "title": "Gua Beracun Terisolasi Lima Juta Tahun dan Penghuni Misteriusnya",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260824_111835_gua-misterius-movile-rumania/final.mp4",
+      "video_id": "kdHmjihP0uk",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 100
+  "_voice_idx": 101
 }
