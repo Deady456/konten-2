@@ -104,7 +104,8 @@
     "danau-maracaibo-misteri-petir-abadi-catatumbo",
     "gua-misterius-movile-rumania",
     "sumur-barhout-yemen-misteri-sumur-neraka",
-    "gunung-kailash-misteri-tibet"
+    "gunung-kailash-misteri-tibet",
+    "gerbang-pluto-hierapolis-misteri-turki"
   ],
   "published": [
     {
@@ -1092,7 +1093,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260825_231637",
+      "topic": "gerbang-pluto-hierapolis-misteri-turki",
+      "title": "Misteri Gerbang Pluto Turki: Pintu Kuno Ke Alam Baka yang Membunuh Tanpa Menyentuh!",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260825_231637_gerbang-pluto-hierapolis-misteri-turki/final.mp4",
+      "video_id": "DVFnx74_dZI",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 103
+  "_voice_idx": 104
 }
