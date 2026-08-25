@@ -103,7 +103,8 @@
     "cenote-angelita-sungai-bawah-air-meksiko",
     "danau-maracaibo-misteri-petir-abadi-catatumbo",
     "gua-misterius-movile-rumania",
-    "sumur-barhout-yemen-misteri-sumur-neraka"
+    "sumur-barhout-yemen-misteri-sumur-neraka",
+    "gunung-kailash-misteri-tibet"
   ],
   "published": [
     {
@@ -1081,7 +1082,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260825_111726",
+      "topic": "gunung-kailash-misteri-tibet",
+      "title": "Misteri Gunung Kailash: Gunung Piramida Sakral Yang Tak Bisa Didaki!",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260825_111726_gunung-kailash-misteri-tibet/final.mp4",
+      "video_id": "l7sTiYgCP6w",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 102
+  "_voice_idx": 103
 }
