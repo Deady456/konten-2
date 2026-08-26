@@ -106,7 +106,8 @@
     "sumur-barhout-yemen-misteri-sumur-neraka",
     "gunung-kailash-misteri-tibet",
     "gerbang-pluto-hierapolis-misteri-turki",
-    "kawah-batagaika-gerbang-dunia-bawah"
+    "kawah-batagaika-gerbang-dunia-bawah",
+    "danau-karachay-lokasi-paling-beracun-di-bumi"
   ],
   "published": [
     {
@@ -1114,7 +1115,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260826_231702",
+      "topic": "danau-karachay-lokasi-paling-beracun-di-bumi",
+      "title": "Danau Karachay: Lokasi Paling Beracun di Bumi yang Bisa Membunuh dalam Satu Jam!",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260826_231702_danau-karachay-lokasi-paling-beracun-di-bumi/final.mp4",
+      "video_id": "TBHZ1i6-sVI",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 105
+  "_voice_idx": 106
 }
