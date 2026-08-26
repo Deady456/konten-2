@@ -105,7 +105,8 @@
     "gua-misterius-movile-rumania",
     "sumur-barhout-yemen-misteri-sumur-neraka",
     "gunung-kailash-misteri-tibet",
-    "gerbang-pluto-hierapolis-misteri-turki"
+    "gerbang-pluto-hierapolis-misteri-turki",
+    "kawah-batagaika-gerbang-dunia-bawah"
   ],
   "published": [
     {
@@ -1103,7 +1104,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260826_111706",
+      "topic": "kawah-batagaika-gerbang-dunia-bawah",
+      "title": "Misteri Kawah Batagaika: Gerbang Dunia Bawah Siberia yang Terus Membesar",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260826_111706_kawah-batagaika-gerbang-dunia-bawah/final.mp4",
+      "video_id": "42A9D_65Oo0",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 104
+  "_voice_idx": 105
 }
