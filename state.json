@@ -107,7 +107,8 @@
     "gunung-kailash-misteri-tibet",
     "gerbang-pluto-hierapolis-misteri-turki",
     "kawah-batagaika-gerbang-dunia-bawah",
-    "danau-karachay-lokasi-paling-beracun-di-bumi"
+    "danau-karachay-lokasi-paling-beracun-di-bumi",
+    "gua-son-doong-vietnam-gua-terbesar-di-bumi"
   ],
   "published": [
     {
@@ -1125,7 +1126,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260827_094210",
+      "topic": "gua-son-doong-vietnam-gua-terbesar-di-bumi",
+      "title": "Misteri Gua Son Doong: Dunia Tersembunyi Berawan di Dalam Perut Bumi",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260827_094210_gua-son-doong-vietnam-gua-terbesar-di-bumi/final.mp4",
+      "video_id": "6ZVavKn8uSU",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 106
+  "_voice_idx": 107
 }
