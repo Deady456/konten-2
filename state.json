@@ -109,7 +109,8 @@
     "kawah-batagaika-gerbang-dunia-bawah",
     "danau-karachay-lokasi-paling-beracun-di-bumi",
     "gua-son-doong-vietnam-gua-terbesar-di-bumi",
-    "zona-silensio-meksiko-misteri-sinyal-hilang"
+    "zona-silensio-meksiko-misteri-sinyal-hilang",
+    "gunung-roraima-misteri-dunia-purba-terisolasi"
   ],
   "published": [
     {
@@ -1147,7 +1148,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260827_231644",
+      "topic": "gunung-roraima-misteri-dunia-purba-terisolasi",
+      "title": "Gunung Meja Purba Dua Miliar Tahun! Misteri Terisolasi Gunung Roraima",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260827_231644_gunung-roraima-misteri-dunia-purba-terisolasi/final.mp4",
+      "video_id": "fClFND9KzUY",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 108
+  "_voice_idx": 109
 }
