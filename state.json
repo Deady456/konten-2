@@ -108,7 +108,8 @@
     "gerbang-pluto-hierapolis-misteri-turki",
     "kawah-batagaika-gerbang-dunia-bawah",
     "danau-karachay-lokasi-paling-beracun-di-bumi",
-    "gua-son-doong-vietnam-gua-terbesar-di-bumi"
+    "gua-son-doong-vietnam-gua-terbesar-di-bumi",
+    "zona-silensio-meksiko-misteri-sinyal-hilang"
   ],
   "published": [
     {
@@ -1136,7 +1137,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260827_111723",
+      "topic": "zona-silensio-meksiko-misteri-sinyal-hilang",
+      "title": "Misteri Zona Silensio Meksiko Tempat Sinyal Radio Mati Total",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260827_111723_zona-silensio-meksiko-misteri-sinyal-hilang/final.mp4",
+      "video_id": "n8U8SYS0Udg",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 107
+  "_voice_idx": 108
 }
