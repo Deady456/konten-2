@@ -110,7 +110,8 @@
     "danau-karachay-lokasi-paling-beracun-di-bumi",
     "gua-son-doong-vietnam-gua-terbesar-di-bumi",
     "zona-silensio-meksiko-misteri-sinyal-hilang",
-    "gunung-roraima-misteri-dunia-purba-terisolasi"
+    "gunung-roraima-misteri-dunia-purba-terisolasi",
+    "hutan-bengkok-polandia-misteri-pohon-melengkung"
   ],
   "published": [
     {
@@ -1158,7 +1159,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260828_111638",
+      "topic": "hutan-bengkok-polandia-misteri-pohon-melengkung",
+      "title": "Misteri Hutan Bengkok Polandia: Kenapa Pohon Pinus Ini Tumbuh Melengkung?",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260828_111638_hutan-bengkok-polandia-misteri-pohon-melengkung/final.mp4",
+      "video_id": "t-9J_DYB568",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 109
+  "_voice_idx": 110
 }
