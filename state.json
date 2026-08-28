@@ -111,7 +111,8 @@
     "gua-son-doong-vietnam-gua-terbesar-di-bumi",
     "zona-silensio-meksiko-misteri-sinyal-hilang",
     "gunung-roraima-misteri-dunia-purba-terisolasi",
-    "hutan-bengkok-polandia-misteri-pohon-melengkung"
+    "hutan-bengkok-polandia-misteri-pohon-melengkung",
+    "air-terjun-devils-kettle-misteri-sungai-hilang"
   ],
   "published": [
     {
@@ -1169,7 +1170,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260828_231708",
+      "topic": "air-terjun-devils-kettle-misteri-sungai-hilang",
+      "title": "Ke Mana Air Sungai Ini Pergi? Misteri Lubang Tanpa Dasar Devil's Kettle!",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260828_231708_air-terjun-devils-kettle-misteri-sungai-hilang/final.mp4",
+      "video_id": "SpwTlCXXeEE",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 110
+  "_voice_idx": 111
 }
