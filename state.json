@@ -113,7 +113,8 @@
     "gunung-roraima-misteri-dunia-purba-terisolasi",
     "hutan-bengkok-polandia-misteri-pohon-melengkung",
     "air-terjun-devils-kettle-misteri-sungai-hilang",
-    "batu-bergerak-racetrack-playa-death-valley"
+    "batu-bergerak-racetrack-playa-death-valley",
+    "danau-hillier-misteri-air-merah-muda-australia"
   ],
   "published": [
     {
@@ -1191,7 +1192,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260829_231637",
+      "topic": "danau-hillier-misteri-air-merah-muda-australia",
+      "title": "Misteri Danau Merah Muda Permanen di Australia! Airnya Tidak Pernah Pudar?",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260829_231637_danau-hillier-misteri-air-merah-muda-australia/final.mp4",
+      "video_id": "bIqkPthvXzc",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 112
+  "_voice_idx": 113
 }
