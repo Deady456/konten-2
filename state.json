@@ -112,7 +112,8 @@
     "zona-silensio-meksiko-misteri-sinyal-hilang",
     "gunung-roraima-misteri-dunia-purba-terisolasi",
     "hutan-bengkok-polandia-misteri-pohon-melengkung",
-    "air-terjun-devils-kettle-misteri-sungai-hilang"
+    "air-terjun-devils-kettle-misteri-sungai-hilang",
+    "batu-bergerak-racetrack-playa-death-valley"
   ],
   "published": [
     {
@@ -1180,7 +1181,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260829_111636",
+      "topic": "batu-bergerak-racetrack-playa-death-valley",
+      "title": "Misteri Batu Bergerak Sendiri di Death Valley Terungkap!",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260829_111636_batu-bergerak-racetrack-playa-death-valley/final.mp4",
+      "video_id": "VrUSJ1TyoPI",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 111
+  "_voice_idx": 112
 }
