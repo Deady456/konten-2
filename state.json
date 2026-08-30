@@ -114,7 +114,8 @@
     "hutan-bengkok-polandia-misteri-pohon-melengkung",
     "air-terjun-devils-kettle-misteri-sungai-hilang",
     "batu-bergerak-racetrack-playa-death-valley",
-    "danau-hillier-misteri-air-merah-muda-australia"
+    "danau-hillier-misteri-air-merah-muda-australia",
+    "danau-kaindy-hutan-tenggelam-kazakhstan"
   ],
   "published": [
     {
@@ -1202,7 +1203,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260830_111647",
+      "topic": "danau-kaindy-hutan-tenggelam-kazakhstan",
+      "title": "Misteri Hutan Tenggelam Danau Kaindy: Pohon Awet Lebih Dari Satu Abad!",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260830_111647_danau-kaindy-hutan-tenggelam-kazakhstan/final.mp4",
+      "video_id": "zYwMGywiYfo",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 113
+  "_voice_idx": 114
 }
