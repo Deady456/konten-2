@@ -115,7 +115,8 @@
     "air-terjun-devils-kettle-misteri-sungai-hilang",
     "batu-bergerak-racetrack-playa-death-valley",
     "danau-hillier-misteri-air-merah-muda-australia",
-    "danau-kaindy-hutan-tenggelam-kazakhstan"
+    "danau-kaindy-hutan-tenggelam-kazakhstan",
+    "pulau-bouvet-pulau-paling-terisolasi-misteri-sekoci"
   ],
   "published": [
     {
@@ -1213,7 +1214,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260830_231708",
+      "topic": "pulau-bouvet-pulau-paling-terisolasi-misteri-sekoci",
+      "title": "Misteri Pulau Paling Terisolasi di Bumi dan Sekoci Misterius",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260830_231708_pulau-bouvet-pulau-paling-terisolasi-misteri-sekoci/final.mp4",
+      "video_id": "O7AMdBV2wXs",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 114
+  "_voice_idx": 115
 }
