@@ -116,7 +116,8 @@
     "batu-bergerak-racetrack-playa-death-valley",
     "danau-hillier-misteri-air-merah-muda-australia",
     "danau-kaindy-hutan-tenggelam-kazakhstan",
-    "pulau-bouvet-pulau-paling-terisolasi-misteri-sekoci"
+    "pulau-bouvet-pulau-paling-terisolasi-misteri-sekoci",
+    "segitiga-naga-laut-iblis-jepang-misteri"
   ],
   "published": [
     {
@@ -1224,7 +1225,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260831_111646",
+      "topic": "segitiga-naga-laut-iblis-jepang-misteri",
+      "title": "Misteri Segitiga Naga Laut Iblis Jepang Yang Menelan Puluhan Kapal",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260831_111646_segitiga-naga-laut-iblis-jepang-misteri/final.mp4",
+      "video_id": "y2qkte-C5Xg",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 115
+  "_voice_idx": 116
 }
