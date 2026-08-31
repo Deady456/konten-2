@@ -117,7 +117,8 @@
     "danau-hillier-misteri-air-merah-muda-australia",
     "danau-kaindy-hutan-tenggelam-kazakhstan",
     "pulau-bouvet-pulau-paling-terisolasi-misteri-sekoci",
-    "segitiga-naga-laut-iblis-jepang-misteri"
+    "segitiga-naga-laut-iblis-jepang-misteri",
+    "misteri-old-man-crater-lake"
   ],
   "published": [
     {
@@ -1235,7 +1236,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260831_231639",
+      "topic": "misteri-old-man-crater-lake",
+      "title": "Misteri Pohon Mengapung Tegak Seratus Tahun Lebih di Crater Lake",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260831_231639_misteri-old-man-crater-lake/final.mp4",
+      "video_id": "koYxw-lBCAc",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 116
+  "_voice_idx": 117
 }
