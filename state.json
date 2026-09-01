@@ -119,7 +119,8 @@
     "pulau-bouvet-pulau-paling-terisolasi-misteri-sekoci",
     "segitiga-naga-laut-iblis-jepang-misteri",
     "misteri-old-man-crater-lake",
-    "danau-abraham-kanada-misteri-gelembung-es-meledak"
+    "danau-abraham-kanada-misteri-gelembung-es-meledak",
+    "danau-natron-tanzania-misteri-danau-batu"
   ],
   "published": [
     {
@@ -1257,7 +1258,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260901_231723",
+      "topic": "danau-natron-tanzania-misteri-danau-batu",
+      "title": "Misteri Danau Natron Tanzania Air Pembuat Patung Batu Alami",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260901_231723_danau-natron-tanzania-misteri-danau-batu/final.mp4",
+      "video_id": "fDM9TuUXDNg",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 118
+  "_voice_idx": 119
 }
