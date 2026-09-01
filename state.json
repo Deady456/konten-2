@@ -118,7 +118,8 @@
     "danau-kaindy-hutan-tenggelam-kazakhstan",
     "pulau-bouvet-pulau-paling-terisolasi-misteri-sekoci",
     "segitiga-naga-laut-iblis-jepang-misteri",
-    "misteri-old-man-crater-lake"
+    "misteri-old-man-crater-lake",
+    "danau-abraham-kanada-misteri-gelembung-es-meledak"
   ],
   "published": [
     {
@@ -1246,7 +1247,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260901_111645",
+      "topic": "danau-abraham-kanada-misteri-gelembung-es-meledak",
+      "title": "Danau Beku Berisi Jutaan Bom Es yang Bisa Meledak Kapan Saja!",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260901_111645_danau-abraham-kanada-misteri-gelembung-es-meledak/final.mp4",
+      "video_id": "cwnwGAZukQg",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 117
+  "_voice_idx": 118
 }
