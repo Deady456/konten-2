@@ -121,7 +121,8 @@
     "misteri-old-man-crater-lake",
     "danau-abraham-kanada-misteri-gelembung-es-meledak",
     "danau-natron-tanzania-misteri-danau-batu",
-    "kawah-darvaza-turkmenistan-gerbang-neraka"
+    "kawah-darvaza-turkmenistan-gerbang-neraka",
+    "gua-kristal-naica-meksiko-misteri-gua-kristal-pembunuh"
   ],
   "published": [
     {
@@ -1279,7 +1280,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260902_231648",
+      "topic": "gua-kristal-naica-meksiko-misteri-gua-kristal-pembunuh",
+      "title": "Misteri Gua Kristal Naica Meksiko: Keindahan Raksasa yang Membunuh Manusia Dalam sepuluh Menit!",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260902_231648_gua-kristal-naica-meksiko-misteri-gua-kristal-pembunuh/final.mp4",
+      "video_id": "oLKXanTrRAw",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 120
+  "_voice_idx": 121
 }
