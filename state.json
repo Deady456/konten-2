@@ -120,7 +120,8 @@
     "segitiga-naga-laut-iblis-jepang-misteri",
     "misteri-old-man-crater-lake",
     "danau-abraham-kanada-misteri-gelembung-es-meledak",
-    "danau-natron-tanzania-misteri-danau-batu"
+    "danau-natron-tanzania-misteri-danau-batu",
+    "kawah-darvaza-turkmenistan-gerbang-neraka"
   ],
   "published": [
     {
@@ -1268,7 +1269,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260902_111721",
+      "topic": "kawah-darvaza-turkmenistan-gerbang-neraka",
+      "title": "Misteri Kawah Api Gerbang Neraka yang Tidak Pernah Padam!",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260902_111721_kawah-darvaza-turkmenistan-gerbang-neraka/final.mp4",
+      "video_id": "1Q-Hjhum_r4",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 119
+  "_voice_idx": 120
 }
