@@ -123,7 +123,8 @@
     "danau-natron-tanzania-misteri-danau-batu",
     "kawah-darvaza-turkmenistan-gerbang-neraka",
     "gua-kristal-naica-meksiko-misteri-gua-kristal-pembunuh",
-    "gua-fingal-skotlandia-misteri-suara-musik-batu-segi-enam"
+    "gua-fingal-skotlandia-misteri-suara-musik-batu-segi-enam",
+    "struktur-richat-mata-sahara-mauritania"
   ],
   "published": [
     {
@@ -1301,7 +1302,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260903_232358",
+      "topic": "struktur-richat-mata-sahara-mauritania",
+      "title": "Mata Raksasa di Sahara: Mitos Atlantis yang Terlihat dari Luar Angkasa?",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260903_232358_struktur-richat-mata-sahara-mauritania/final.mp4",
+      "video_id": "BeQRU0GpgfI",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 122
+  "_voice_idx": 123
 }
