@@ -122,7 +122,8 @@
     "danau-abraham-kanada-misteri-gelembung-es-meledak",
     "danau-natron-tanzania-misteri-danau-batu",
     "kawah-darvaza-turkmenistan-gerbang-neraka",
-    "gua-kristal-naica-meksiko-misteri-gua-kristal-pembunuh"
+    "gua-kristal-naica-meksiko-misteri-gua-kristal-pembunuh",
+    "gua-fingal-skotlandia-misteri-suara-musik-batu-segi-enam"
   ],
   "published": [
     {
@@ -1290,7 +1291,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260903_111731",
+      "topic": "gua-fingal-skotlandia-misteri-suara-musik-batu-segi-enam",
+      "title": "Gua Berbunyi Musik di Skotlandia Ini Terbuat dari Batu Segi Enam Alami!",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260903_111731_gua-fingal-skotlandia-misteri-suara-musik-batu-segi-enam/final.mp4",
+      "video_id": "1pRpHkuXgpQ",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 121
+  "_voice_idx": 122
 }
