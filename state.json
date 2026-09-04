@@ -125,7 +125,8 @@
     "gua-kristal-naica-meksiko-misteri-gua-kristal-pembunuh",
     "gua-fingal-skotlandia-misteri-suara-musik-batu-segi-enam",
     "struktur-richat-mata-sahara-mauritania",
-    "lembah-kematian-kamchatka-rusia-misteri-gas-pembunuh"
+    "lembah-kematian-kamchatka-rusia-misteri-gas-pembunuh",
+    "danau-nyos-kamerun-misteri-erupsi-limnik-pembunuh"
   ],
   "published": [
     {
@@ -1323,7 +1324,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260904_231712",
+      "topic": "danau-nyos-kamerun-misteri-erupsi-limnik-pembunuh",
+      "title": "Misteri Danau Nyos: Danau Beracun yang Membunuh Ribuan Nyawa dalam Semalam",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260904_231712_danau-nyos-kamerun-misteri-erupsi-limnik-pembunuh/final.mp4",
+      "video_id": "S8IB5yMx_0A",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 124
+  "_voice_idx": 125
 }
