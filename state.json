@@ -126,7 +126,8 @@
     "gua-fingal-skotlandia-misteri-suara-musik-batu-segi-enam",
     "struktur-richat-mata-sahara-mauritania",
     "lembah-kematian-kamchatka-rusia-misteri-gas-pembunuh",
-    "danau-nyos-kamerun-misteri-erupsi-limnik-pembunuh"
+    "danau-nyos-kamerun-misteri-erupsi-limnik-pembunuh",
+    "nan-madol-kota-batu-misterius-pasifik"
   ],
   "published": [
     {
@@ -1334,7 +1335,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260905_111944",
+      "topic": "nan-madol-kota-batu-misterius-pasifik",
+      "title": "Kota Batu Kuno Mengapung di Tengah Pasifik! Siapa Pembuat Nan Madol?",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260905_111944_nan-madol-kota-batu-misterius-pasifik/final.mp4",
+      "video_id": "q1BSZAiQ7ig",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 125
+  "_voice_idx": 126
 }
