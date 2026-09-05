@@ -127,7 +127,8 @@
     "struktur-richat-mata-sahara-mauritania",
     "lembah-kematian-kamchatka-rusia-misteri-gas-pembunuh",
     "danau-nyos-kamerun-misteri-erupsi-limnik-pembunuh",
-    "nan-madol-kota-batu-misterius-pasifik"
+    "nan-madol-kota-batu-misterius-pasifik",
+    "segitiga-alaska-misteri-orang-hilang"
   ],
   "published": [
     {
@@ -1345,7 +1346,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260905_231654",
+      "topic": "segitiga-alaska-misteri-orang-hilang",
+      "title": "Misteri Segitiga Alaska! Tempat Puluhan Ribu Orang Hilang Tanpa Jejak!",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260905_231654_segitiga-alaska-misteri-orang-hilang/final.mp4",
+      "video_id": "RYHuWTrY6gs",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 126
+  "_voice_idx": 127
 }
