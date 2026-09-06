@@ -128,7 +128,8 @@
     "lembah-kematian-kamchatka-rusia-misteri-gas-pembunuh",
     "danau-nyos-kamerun-misteri-erupsi-limnik-pembunuh",
     "nan-madol-kota-batu-misterius-pasifik",
-    "segitiga-alaska-misteri-orang-hilang"
+    "segitiga-alaska-misteri-orang-hilang",
+    "air-terjun-darah-blood-falls-antartika"
   ],
   "published": [
     {
@@ -1356,7 +1357,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260906_111640",
+      "topic": "air-terjun-darah-blood-falls-antartika",
+      "title": "Misteri Air Terjun Darah Antartika Yang Tidak Pernah Membeku",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260906_111640_air-terjun-darah-blood-falls-antartika/final.mp4",
+      "video_id": "jB4ITn5joag",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 127
+  "_voice_idx": 128
 }
