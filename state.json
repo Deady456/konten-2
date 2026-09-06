@@ -129,7 +129,8 @@
     "danau-nyos-kamerun-misteri-erupsi-limnik-pembunuh",
     "nan-madol-kota-batu-misterius-pasifik",
     "segitiga-alaska-misteri-orang-hilang",
-    "air-terjun-darah-blood-falls-antartika"
+    "air-terjun-darah-blood-falls-antartika",
+    "danau-frying-pan-new-zealand-danau-mendidih-terbesar"
   ],
   "published": [
     {
@@ -1367,7 +1368,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260906_231636",
+      "topic": "danau-frying-pan-new-zealand-danau-mendidih-terbesar",
+      "title": "Misteri Danau Frying Pan: Mata Air Panas Mendidih Terbesar di Bumi!",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260906_231636_danau-frying-pan-new-zealand-danau-mendidih-terbesar/final.mp4",
+      "video_id": "pfuJucCXHMc",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 128
+  "_voice_idx": 129
 }
