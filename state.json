@@ -130,7 +130,8 @@
     "nan-madol-kota-batu-misterius-pasifik",
     "segitiga-alaska-misteri-orang-hilang",
     "air-terjun-darah-blood-falls-antartika",
-    "danau-frying-pan-new-zealand-danau-mendidih-terbesar"
+    "danau-frying-pan-new-zealand-danau-mendidih-terbesar",
+    "danau-roopkund-misteri-danau-tengkorak-himalaya"
   ],
   "published": [
     {
@@ -1378,7 +1379,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260907_111652",
+      "topic": "danau-roopkund-misteri-danau-tengkorak-himalaya",
+      "title": "Misteri Danau Roopkund: Ratusan Tengkorak Manusia di Puncak Himalaya!",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260907_111652_danau-roopkund-misteri-danau-tengkorak-himalaya/final.mp4",
+      "video_id": "2NTq4-xrstE",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 129
+  "_voice_idx": 130
 }
