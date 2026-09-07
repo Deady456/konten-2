@@ -131,7 +131,8 @@
     "segitiga-alaska-misteri-orang-hilang",
     "air-terjun-darah-blood-falls-antartika",
     "danau-frying-pan-new-zealand-danau-mendidih-terbesar",
-    "danau-roopkund-misteri-danau-tengkorak-himalaya"
+    "danau-roopkund-misteri-danau-tengkorak-himalaya",
+    "danau-spotted-kanada-misteri-kolam-mineral-warna-warni"
   ],
   "published": [
     {
@@ -1389,7 +1390,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260907_231633",
+      "topic": "danau-spotted-kanada-misteri-kolam-mineral-warna-warni",
+      "title": "Aneh Tapi Nyata! Danau Ini Berubah Jadi Ratusan Kolam Warna-Warni!",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260907_231633_danau-spotted-kanada-misteri-kolam-mineral-warna-warni/final.mp4",
+      "video_id": "LV_FeV5FYhM",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 130
+  "_voice_idx": 131
 }
