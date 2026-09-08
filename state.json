@@ -133,7 +133,8 @@
     "danau-frying-pan-new-zealand-danau-mendidih-terbesar",
     "danau-roopkund-misteri-danau-tengkorak-himalaya",
     "danau-spotted-kanada-misteri-kolam-mineral-warna-warni",
-    "petir-catatumbo-danau-maracaibo-misteri-kilat-abadi"
+    "petir-catatumbo-danau-maracaibo-misteri-kilat-abadi",
+    "pulau-ular-queimada-grande-brazil-misteri"
   ],
   "published": [
     {
@@ -1411,7 +1412,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260908_231650",
+      "topic": "pulau-ular-queimada-grande-brazil-misteri",
+      "title": "Misteri Pulau Paling Mematikan di Dunia! Manusia Dilarang Masuk!",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260908_231650_pulau-ular-queimada-grande-brazil-misteri/final.mp4",
+      "video_id": "LV1Qn4t0kBc",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 132
+  "_voice_idx": 133
 }
