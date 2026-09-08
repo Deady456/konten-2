@@ -132,7 +132,8 @@
     "air-terjun-darah-blood-falls-antartika",
     "danau-frying-pan-new-zealand-danau-mendidih-terbesar",
     "danau-roopkund-misteri-danau-tengkorak-himalaya",
-    "danau-spotted-kanada-misteri-kolam-mineral-warna-warni"
+    "danau-spotted-kanada-misteri-kolam-mineral-warna-warni",
+    "petir-catatumbo-danau-maracaibo-misteri-kilat-abadi"
   ],
   "published": [
     {
@@ -1400,7 +1401,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260908_111700",
+      "topic": "petir-catatumbo-danau-maracaibo-misteri-kilat-abadi",
+      "title": "Misteri Petir Catatumbo: Langit Venezuela yang Disambar Kilat Abadi Tanpa Henti",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260908_111700_petir-catatumbo-danau-maracaibo-misteri-kilat-abadi/final.mp4",
+      "video_id": "TWh85wLqHvg",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 131
+  "_voice_idx": 132
 }
