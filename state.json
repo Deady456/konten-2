@@ -134,7 +134,8 @@
     "danau-roopkund-misteri-danau-tengkorak-himalaya",
     "danau-spotted-kanada-misteri-kolam-mineral-warna-warni",
     "petir-catatumbo-danau-maracaibo-misteri-kilat-abadi",
-    "pulau-ular-queimada-grande-brazil-misteri"
+    "pulau-ular-queimada-grande-brazil-misteri",
+    "sumur-barhout-yaman-misteri-sumur-neraka"
   ],
   "published": [
     {
@@ -1422,7 +1423,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260909_111709",
+      "topic": "sumur-barhout-yaman-misteri-sumur-neraka",
+      "title": "Misteri Dasar Sumur Barhout Yaman Tempat Paling Ditakuti di Bumi",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260909_111709_sumur-barhout-yaman-misteri-sumur-neraka/final.mp4",
+      "video_id": "hS7I6uif-bA",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 133
+  "_voice_idx": 134
 }
