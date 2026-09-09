@@ -135,7 +135,8 @@
     "danau-spotted-kanada-misteri-kolam-mineral-warna-warni",
     "petir-catatumbo-danau-maracaibo-misteri-kilat-abadi",
     "pulau-ular-queimada-grande-brazil-misteri",
-    "sumur-barhout-yaman-misteri-sumur-neraka"
+    "sumur-barhout-yaman-misteri-sumur-neraka",
+    "gua-movile-rumania-ekosistem-beracun-terisolasi"
   ],
   "published": [
     {
@@ -1433,7 +1434,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260909_231639",
+      "topic": "gua-movile-rumania-ekosistem-beracun-terisolasi",
+      "title": "Misteri Gua Movile: Ekosistem Beracun Terisolasi Jutaan Tahun Di Rumania",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260909_231639_gua-movile-rumania-ekosistem-beracun-terisolasi/final.mp4",
+      "video_id": "ALfIw9cmACw",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 134
+  "_voice_idx": 135
 }
