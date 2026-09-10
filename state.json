@@ -137,7 +137,8 @@
     "pulau-ular-queimada-grande-brazil-misteri",
     "sumur-barhout-yaman-misteri-sumur-neraka",
     "gua-movile-rumania-ekosistem-beracun-terisolasi",
-    "depresi-danakil-etiopia-misteri-tempat-terpanas-asam-beracun"
+    "depresi-danakil-etiopia-misteri-tempat-terpanas-asam-beracun",
+    "pitch-lake-trinidad-danau-aspal-misterius"
   ],
   "published": [
     {
@@ -1455,7 +1456,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260910_231715",
+      "topic": "pitch-lake-trinidad-danau-aspal-misterius",
+      "title": "Danau Aspal Terbesar di Dunia yang Menelan dan Memuntahkan Fosil Purba!",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260910_231715_pitch-lake-trinidad-danau-aspal-misterius/final.mp4",
+      "video_id": "GfiY30geDt8",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 136
+  "_voice_idx": 137
 }
