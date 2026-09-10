@@ -136,7 +136,8 @@
     "petir-catatumbo-danau-maracaibo-misteri-kilat-abadi",
     "pulau-ular-queimada-grande-brazil-misteri",
     "sumur-barhout-yaman-misteri-sumur-neraka",
-    "gua-movile-rumania-ekosistem-beracun-terisolasi"
+    "gua-movile-rumania-ekosistem-beracun-terisolasi",
+    "depresi-danakil-etiopia-misteri-tempat-terpanas-asam-beracun"
   ],
   "published": [
     {
@@ -1444,7 +1445,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260910_111637",
+      "topic": "depresi-danakil-etiopia-misteri-tempat-terpanas-asam-beracun",
+      "title": "Bukan di Mars! Tempat Paling Beracun dan Terpanas di Bumi Ini SANGAT MISTERIUS!",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260910_111637_depresi-danakil-etiopia-misteri-tempat-terpanas-asam-beracun/final.mp4",
+      "video_id": "yFcLIFhNizg",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 135
+  "_voice_idx": 136
 }
