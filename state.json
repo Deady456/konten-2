@@ -139,7 +139,8 @@
     "gua-movile-rumania-ekosistem-beracun-terisolasi",
     "depresi-danakil-etiopia-misteri-tempat-terpanas-asam-beracun",
     "pitch-lake-trinidad-danau-aspal-misterius",
-    "gerbang-pluto-hierapolis-turki-misteri-gas-beracun"
+    "gerbang-pluto-hierapolis-turki-misteri-gas-beracun",
+    "derinkuyu-kota-bawah-tanah-turki-misteri"
   ],
   "published": [
     {
@@ -1477,7 +1478,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260911_231636",
+      "topic": "derinkuyu-kota-bawah-tanah-turki-misteri",
+      "title": "Misteri Derinkuyu: Kota Bawah Tanah Raksasa Penampung Dua Puluh Ribu Orang",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260911_231636_derinkuyu-kota-bawah-tanah-turki-misteri/final.mp4",
+      "video_id": "gR56clA1jqI",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 138
+  "_voice_idx": 139
 }
