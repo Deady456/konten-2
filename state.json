@@ -138,7 +138,8 @@
     "sumur-barhout-yaman-misteri-sumur-neraka",
     "gua-movile-rumania-ekosistem-beracun-terisolasi",
     "depresi-danakil-etiopia-misteri-tempat-terpanas-asam-beracun",
-    "pitch-lake-trinidad-danau-aspal-misterius"
+    "pitch-lake-trinidad-danau-aspal-misterius",
+    "gerbang-pluto-hierapolis-turki-misteri-gas-beracun"
   ],
   "published": [
     {
@@ -1466,7 +1467,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260911_111736",
+      "topic": "gerbang-pluto-hierapolis-turki-misteri-gas-beracun",
+      "title": "Misteri Gerbang Pluto Hierapolis: Pintu Kuno Pembunuh Instan di Turki",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260911_111736_gerbang-pluto-hierapolis-turki-misteri-gas-beracun/final.mp4",
+      "video_id": "_ELqDYDIeXw",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 137
+  "_voice_idx": 138
 }
