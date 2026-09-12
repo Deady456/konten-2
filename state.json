@@ -140,7 +140,8 @@
     "depresi-danakil-etiopia-misteri-tempat-terpanas-asam-beracun",
     "pitch-lake-trinidad-danau-aspal-misterius",
     "gerbang-pluto-hierapolis-turki-misteri-gas-beracun",
-    "derinkuyu-kota-bawah-tanah-turki-misteri"
+    "derinkuyu-kota-bawah-tanah-turki-misteri",
+    "sungai-mendidih-shanay-timpishka-amazon-peru-misteri"
   ],
   "published": [
     {
@@ -1488,7 +1489,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260912_111705",
+      "topic": "sungai-mendidih-shanay-timpishka-amazon-peru-misteri",
+      "title": "Misteri Sungai Mendidih di Hutan Amazon Peru yang Merebus Hewan Hidup-Hidup!",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260912_111705_sungai-mendidih-shanay-timpishka-amazon-peru-misteri/final.mp4",
+      "video_id": "gdP0S4lgWDs",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 139
+  "_voice_idx": 140
 }
