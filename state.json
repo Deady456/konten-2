@@ -141,7 +141,8 @@
     "pitch-lake-trinidad-danau-aspal-misterius",
     "gerbang-pluto-hierapolis-turki-misteri-gas-beracun",
     "derinkuyu-kota-bawah-tanah-turki-misteri",
-    "sungai-mendidih-shanay-timpishka-amazon-peru-misteri"
+    "sungai-mendidih-shanay-timpishka-amazon-peru-misteri",
+    "air-terjun-eternal-flame-new-york-misteri-api-abadi"
   ],
   "published": [
     {
@@ -1499,7 +1500,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260912_231659",
+      "topic": "air-terjun-eternal-flame-new-york-misteri-api-abadi",
+      "title": "Terkuak! Misteri Api Abadi yang Menyala di Balik Air Terjun New York",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260912_231659_air-terjun-eternal-flame-new-york-misteri-api-abadi/final.mp4",
+      "video_id": "V64R37KQ5t0",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 140
+  "_voice_idx": 141
 }
