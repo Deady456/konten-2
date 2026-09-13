@@ -143,7 +143,8 @@
     "derinkuyu-kota-bawah-tanah-turki-misteri",
     "sungai-mendidih-shanay-timpishka-amazon-peru-misteri",
     "air-terjun-eternal-flame-new-york-misteri-api-abadi",
-    "danau-karachay-rusia-misteri-danau-paling-radioaktif"
+    "danau-karachay-rusia-misteri-danau-paling-radioaktif",
+    "kawah-batagaika-siberia-misteri-gerbang-dunia-bawah"
   ],
   "published": [
     {
@@ -1521,7 +1522,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260913_231634",
+      "topic": "kawah-batagaika-siberia-misteri-gerbang-dunia-bawah",
+      "title": "Misteri Kawah Batagaika Siberia: Gerbang Dunia Bawah yang Meraung!",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260913_231634_kawah-batagaika-siberia-misteri-gerbang-dunia-bawah/final.mp4",
+      "video_id": "Enygn8LEt1s",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 142
+  "_voice_idx": 143
 }
