@@ -142,7 +142,8 @@
     "gerbang-pluto-hierapolis-turki-misteri-gas-beracun",
     "derinkuyu-kota-bawah-tanah-turki-misteri",
     "sungai-mendidih-shanay-timpishka-amazon-peru-misteri",
-    "air-terjun-eternal-flame-new-york-misteri-api-abadi"
+    "air-terjun-eternal-flame-new-york-misteri-api-abadi",
+    "danau-karachay-rusia-misteri-danau-paling-radioaktif"
   ],
   "published": [
     {
@@ -1510,7 +1511,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260913_111736",
+      "topic": "danau-karachay-rusia-misteri-danau-paling-radioaktif",
+      "title": "Misteri Danau Karachay: Tempat Paling Mematikan di Bumi yang Bisa Membunuh dalam Satu Jam",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260913_111736_danau-karachay-rusia-misteri-danau-paling-radioaktif/final.mp4",
+      "video_id": "BT3VAhJIcZ4",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 141
+  "_voice_idx": 142
 }
