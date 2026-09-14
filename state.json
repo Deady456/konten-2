@@ -145,7 +145,8 @@
     "air-terjun-eternal-flame-new-york-misteri-api-abadi",
     "danau-karachay-rusia-misteri-danau-paling-radioaktif",
     "kawah-batagaika-siberia-misteri-gerbang-dunia-bawah",
-    "great-blue-hole-belize-misteri-lubang-raksasa-laut"
+    "great-blue-hole-belize-misteri-lubang-raksasa-laut",
+    "danau-hillier-australia-misteri-danau-merah-muda"
   ],
   "published": [
     {
@@ -1543,7 +1544,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260914_231649",
+      "topic": "danau-hillier-australia-misteri-danau-merah-muda",
+      "title": "Misteri Danau Merah Muda Permanen di Australia yang Bikin Ilmuwan Bingung!",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260914_231649_danau-hillier-australia-misteri-danau-merah-muda/final.mp4",
+      "video_id": "6tE5DW9pCQg",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 144
+  "_voice_idx": 145
 }
