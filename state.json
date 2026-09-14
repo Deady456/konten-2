@@ -144,7 +144,8 @@
     "sungai-mendidih-shanay-timpishka-amazon-peru-misteri",
     "air-terjun-eternal-flame-new-york-misteri-api-abadi",
     "danau-karachay-rusia-misteri-danau-paling-radioaktif",
-    "kawah-batagaika-siberia-misteri-gerbang-dunia-bawah"
+    "kawah-batagaika-siberia-misteri-gerbang-dunia-bawah",
+    "great-blue-hole-belize-misteri-lubang-raksasa-laut"
   ],
   "published": [
     {
@@ -1532,7 +1533,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260914_111724",
+      "topic": "great-blue-hole-belize-misteri-lubang-raksasa-laut",
+      "title": "Misteri Great Blue Hole Belize: Lubang Laut Beracun Penyimpan Kuburan Massal",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260914_111724_great-blue-hole-belize-misteri-lubang-raksasa-laut/final.mp4",
+      "video_id": "l6kd7u8-2Lw",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 143
+  "_voice_idx": 144
 }
