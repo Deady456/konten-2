@@ -146,7 +146,8 @@
     "danau-karachay-rusia-misteri-danau-paling-radioaktif",
     "kawah-batagaika-siberia-misteri-gerbang-dunia-bawah",
     "great-blue-hole-belize-misteri-lubang-raksasa-laut",
-    "danau-hillier-australia-misteri-danau-merah-muda"
+    "danau-hillier-australia-misteri-danau-merah-muda",
+    "danau-kaindy-kazakhstan-misteri-hutan-terbalik-bawah-air"
   ],
   "published": [
     {
@@ -1554,7 +1555,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260915_111644",
+      "topic": "danau-kaindy-kazakhstan-misteri-hutan-terbalik-bawah-air",
+      "title": "Misteri Danau Kaindy: Hutan Pinus Terbalik di Bawah Air Jernih Kazakhstan",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260915_111644_danau-kaindy-kazakhstan-misteri-hutan-terbalik-bawah-air/final.mp4",
+      "video_id": "Wz5a8YtbpCw",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 145
+  "_voice_idx": 146
 }
