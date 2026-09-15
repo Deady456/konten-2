@@ -147,7 +147,8 @@
     "kawah-batagaika-siberia-misteri-gerbang-dunia-bawah",
     "great-blue-hole-belize-misteri-lubang-raksasa-laut",
     "danau-hillier-australia-misteri-danau-merah-muda",
-    "danau-kaindy-kazakhstan-misteri-hutan-terbalik-bawah-air"
+    "danau-kaindy-kazakhstan-misteri-hutan-terbalik-bawah-air",
+    "sarisarinama-sima-humboldt-misteri-lubang-raksasa-venezuela"
   ],
   "published": [
     {
@@ -1565,7 +1566,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260915_231635",
+      "topic": "sarisarinama-sima-humboldt-misteri-lubang-raksasa-venezuela",
+      "title": "Misteri Sima Humboldt: Lubang Raksasa Berisi Hutan Purba Tersembunyi",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260915_231635_sarisarinama-sima-humboldt-misteri-lubang-raksasa-venezuela/final.mp4",
+      "video_id": "z5eVatSnSQU",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 146
+  "_voice_idx": 147
 }
