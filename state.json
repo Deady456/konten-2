@@ -149,7 +149,8 @@
     "danau-hillier-australia-misteri-danau-merah-muda",
     "danau-kaindy-kazakhstan-misteri-hutan-terbalik-bawah-air",
     "sarisarinama-sima-humboldt-misteri-lubang-raksasa-venezuela",
-    "tsingy-de-bemaraha-madagaskar-misteri-hutan-batu-tajam"
+    "tsingy-de-bemaraha-madagaskar-misteri-hutan-batu-tajam",
+    "gunung-roraima-venezuela-misteri-dunia-hilang-kuno"
   ],
   "published": [
     {
@@ -1587,7 +1588,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260916_231634",
+      "topic": "gunung-roraima-venezuela-misteri-dunia-hilang-kuno",
+      "title": "Misteri Gunung Roraima: Gunung Purba yang Terisolasi Dua Miliar Tahun",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260916_231634_gunung-roraima-venezuela-misteri-dunia-hilang-kuno/final.mp4",
+      "video_id": "PhEd3xuipaI",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 148
+  "_voice_idx": 149
 }
