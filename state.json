@@ -150,7 +150,8 @@
     "danau-kaindy-kazakhstan-misteri-hutan-terbalik-bawah-air",
     "sarisarinama-sima-humboldt-misteri-lubang-raksasa-venezuela",
     "tsingy-de-bemaraha-madagaskar-misteri-hutan-batu-tajam",
-    "gunung-roraima-venezuela-misteri-dunia-hilang-kuno"
+    "gunung-roraima-venezuela-misteri-dunia-hilang-kuno",
+    "danau-natron-tanzania-misteri-danau-pengubah-batu"
   ],
   "published": [
     {
@@ -1598,7 +1599,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260917_111648",
+      "topic": "danau-natron-tanzania-misteri-danau-pengubah-batu",
+      "title": "Misteri Danau Natron Tanzania: Air Beracun Pengubah Hewan Jadi Batu",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260917_111648_danau-natron-tanzania-misteri-danau-pengubah-batu/final.mp4",
+      "video_id": "iE3B4oyzfJ4",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 149
+  "_voice_idx": 150
 }
