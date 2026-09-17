@@ -151,7 +151,8 @@
     "sarisarinama-sima-humboldt-misteri-lubang-raksasa-venezuela",
     "tsingy-de-bemaraha-madagaskar-misteri-hutan-batu-tajam",
     "gunung-roraima-venezuela-misteri-dunia-hilang-kuno",
-    "danau-natron-tanzania-misteri-danau-pengubah-batu"
+    "danau-natron-tanzania-misteri-danau-pengubah-batu",
+    "kawah-darvaza-turkmenistan-misteri-gerbang-neraka-api-abadi"
   ],
   "published": [
     {
@@ -1609,7 +1610,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260917_231633",
+      "topic": "kawah-darvaza-turkmenistan-misteri-gerbang-neraka-api-abadi",
+      "title": "Misteri Kawah Darvaza: Lubang Api Gerbang Neraka yang Tak Pernah Padam",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260917_231633_kawah-darvaza-turkmenistan-misteri-gerbang-neraka-api-abadi/final.mp4",
+      "video_id": "hjQmw_GjAok",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 150
+  "_voice_idx": 151
 }
