@@ -152,7 +152,8 @@
     "tsingy-de-bemaraha-madagaskar-misteri-hutan-batu-tajam",
     "gunung-roraima-venezuela-misteri-dunia-hilang-kuno",
     "danau-natron-tanzania-misteri-danau-pengubah-batu",
-    "kawah-darvaza-turkmenistan-misteri-gerbang-neraka-api-abadi"
+    "kawah-darvaza-turkmenistan-misteri-gerbang-neraka-api-abadi",
+    "gua-son-doong-vietnam-misteri-gua-terbesar-berawan"
   ],
   "published": [
     {
@@ -1620,7 +1621,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260918_233119",
+      "topic": "gua-son-doong-vietnam-misteri-gua-terbesar-berawan",
+      "title": "Misteri Gua Son Doong: Gua Raksasa yang Punya Awan dan Hutan Sendiri!",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260918_233119_gua-son-doong-vietnam-misteri-gua-terbesar-berawan/final.mp4",
+      "video_id": "BiUXMlfg7jU",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 151
+  "_voice_idx": 152
 }
