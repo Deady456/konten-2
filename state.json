@@ -153,7 +153,8 @@
     "gunung-roraima-venezuela-misteri-dunia-hilang-kuno",
     "danau-natron-tanzania-misteri-danau-pengubah-batu",
     "kawah-darvaza-turkmenistan-misteri-gerbang-neraka-api-abadi",
-    "gua-son-doong-vietnam-misteri-gua-terbesar-berawan"
+    "gua-son-doong-vietnam-misteri-gua-terbesar-berawan",
+    "racetrack-playa-death-valley-misteri-batu-berjalan"
   ],
   "published": [
     {
@@ -1631,7 +1632,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260920_113104",
+      "topic": "racetrack-playa-death-valley-misteri-batu-berjalan",
+      "title": "Misteri Batu Berjalan Racetrack Playa: Terkuaknya Rahasia Geografi Death Valley!",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260920_113104_racetrack-playa-death-valley-misteri-batu-berjalan/final.mp4",
+      "video_id": "xX5FVDZoEzg",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 152
+  "_voice_idx": 153
 }
