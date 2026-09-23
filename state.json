@@ -154,7 +154,8 @@
     "danau-natron-tanzania-misteri-danau-pengubah-batu",
     "kawah-darvaza-turkmenistan-misteri-gerbang-neraka-api-abadi",
     "gua-son-doong-vietnam-misteri-gua-terbesar-berawan",
-    "racetrack-playa-death-valley-misteri-batu-berjalan"
+    "racetrack-playa-death-valley-misteri-batu-berjalan",
+    "al-naslaa-megalit-misterius-arab-saudi-terbelah-presisi"
   ],
   "published": [
     {
@@ -1642,7 +1643,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260923_113141",
+      "topic": "al-naslaa-megalit-misterius-arab-saudi-terbelah-presisi",
+      "title": "Misteri Batu Al Naslaa Arab Saudi: Terbelah Dua Presisi Seperti Dipotong Laser",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260923_113141_al-naslaa-megalit-misterius-arab-saudi-terbelah-presisi/final.mp4",
+      "video_id": "15ROmpXxlvw",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 153
+  "_voice_idx": 154
 }
