@@ -155,7 +155,8 @@
     "kawah-darvaza-turkmenistan-misteri-gerbang-neraka-api-abadi",
     "gua-son-doong-vietnam-misteri-gua-terbesar-berawan",
     "racetrack-playa-death-valley-misteri-batu-berjalan",
-    "al-naslaa-megalit-misterius-arab-saudi-terbelah-presisi"
+    "al-naslaa-megalit-misterius-arab-saudi-terbelah-presisi",
+    "cave-crystals-mexico-misteri"
   ],
   "published": [
     {
@@ -1653,7 +1654,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260924_233105",
+      "topic": "cave-crystals-mexico-misteri",
+      "title": "Misteri Gua Kristal Raksasa di Naica: Cahaya Bintang di Kedalaman Bumi",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260924_233105_cave-crystals-mexico-misteri/final.mp4",
+      "video_id": "5WL66V3IpMw",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 154
+  "_voice_idx": 155
 }
