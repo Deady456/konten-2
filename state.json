@@ -157,7 +157,8 @@
     "racetrack-playa-death-valley-misteri-batu-berjalan",
     "al-naslaa-megalit-misterius-arab-saudi-terbelah-presisi",
     "cave-crystals-mexico-misteri",
-    "misteri-gua-lechugilla"
+    "misteri-gua-lechugilla",
+    "selvfjord-norwegia-misteri-fjord-berpintu"
   ],
   "published": [
     {
@@ -1675,7 +1676,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260925_231806",
+      "topic": "selvfjord-norwegia-misteri-fjord-berpintu",
+      "title": "Fjord Pintu Neraka di Norwegia: Selvfjord, Tempat Paling Misterius?",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260925_231806_selvfjord-norwegia-misteri-fjord-berpintu/final.mp4",
+      "video_id": "MtYkLR8cx9g",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 156
+  "_voice_idx": 157
 }
