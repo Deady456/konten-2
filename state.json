@@ -156,7 +156,8 @@
     "gua-son-doong-vietnam-misteri-gua-terbesar-berawan",
     "racetrack-playa-death-valley-misteri-batu-berjalan",
     "al-naslaa-megalit-misterius-arab-saudi-terbelah-presisi",
-    "cave-crystals-mexico-misteri"
+    "cave-crystals-mexico-misteri",
+    "misteri-gua-lechugilla"
   ],
   "published": [
     {
@@ -1664,7 +1665,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260925_171051",
+      "topic": "misteri-gua-lechugilla",
+      "title": "Gua Lechugilla: Misteri Gua Terdalam di Amerika Utara",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260925_171051_misteri-gua-lechugilla/final.mp4",
+      "video_id": "evwc0eg8JYc",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 155
+  "_voice_idx": 156
 }
