@@ -158,7 +158,8 @@
     "al-naslaa-megalit-misterius-arab-saudi-terbelah-presisi",
     "cave-crystals-mexico-misteri",
     "misteri-gua-lechugilla",
-    "selvfjord-norwegia-misteri-fjord-berpintu"
+    "selvfjord-norwegia-misteri-fjord-berpintu",
+    "pulau-surtsey-misteri"
   ],
   "published": [
     {
@@ -1686,7 +1687,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260926_111742",
+      "topic": "pulau-surtsey-misteri",
+      "title": "Pulau Surtsey: Pulau Vulkanik yang Muncul Sendiri dan Menyimpan Rahasia Alam yang Belum Terungkap",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260926_111742_pulau-surtsey-misteri/final.mp4",
+      "video_id": "3AKl5yl-L9U",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 157
+  "_voice_idx": 158
 }
