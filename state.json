@@ -159,7 +159,8 @@
     "cave-crystals-mexico-misteri",
     "misteri-gua-lechugilla",
     "selvfjord-norwegia-misteri-fjord-berpintu",
-    "pulau-surtsey-misteri"
+    "pulau-surtsey-misteri",
+    "bermuda-triangle-mystery"
   ],
   "published": [
     {
@@ -1697,7 +1698,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260926_231703",
+      "topic": "bermuda-triangle-mystery",
+      "title": "Segitiga Bermuda: Misteri Laut Atlantik yang Menelan Kapal & Pesawat",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260926_231703_bermuda-triangle-mystery/final.mp4",
+      "video_id": "SIzFcLPJn_E",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 158
+  "_voice_idx": 159
 }
