@@ -161,7 +161,8 @@
     "selvfjord-norwegia-misteri-fjord-berpintu",
     "pulau-surtsey-misteri",
     "bermuda-triangle-mystery",
-    "pulau-poveglia-misteri"
+    "pulau-poveglia-misteri",
+    "misteri-danau-subglacial-antarctica"
   ],
   "published": [
     {
@@ -1719,7 +1720,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260927_231709",
+      "topic": "misteri-danau-subglacial-antarctica",
+      "title": "Misteri Danau Tersembunyi di Bawah Es Antartika: Lake Vostok yang Belum Pernah Terjamah",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260927_231709_misteri-danau-subglacial-antarctica/final.mp4",
+      "video_id": "OKoqVvpCIps",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 160
+  "_voice_idx": 161
 }
