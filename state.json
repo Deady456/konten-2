@@ -160,7 +160,8 @@
     "misteri-gua-lechugilla",
     "selvfjord-norwegia-misteri-fjord-berpintu",
     "pulau-surtsey-misteri",
-    "bermuda-triangle-mystery"
+    "bermuda-triangle-mystery",
+    "pulau-poveglia-misteri"
   ],
   "published": [
     {
@@ -1708,7 +1709,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260927_111657",
+      "topic": "pulau-poveglia-misteri",
+      "title": "Misteri Pulau Poveglia: Karantina Hantu yang Muncul Saat Kabut Menutupi Laut Adriatik",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260927_111657_pulau-poveglia-misteri/final.mp4",
+      "video_id": "QQuUxPudhxA",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 159
+  "_voice_idx": 160
 }
