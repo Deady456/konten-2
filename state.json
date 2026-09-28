@@ -162,7 +162,8 @@
     "pulau-surtsey-misteri",
     "bermuda-triangle-mystery",
     "pulau-poveglia-misteri",
-    "misteri-danau-subglacial-antarctica"
+    "misteri-danau-subglacial-antarctica",
+    "devils-kettle-misteri"
   ],
   "published": [
     {
@@ -1730,7 +1731,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260928_111744",
+      "topic": "devils-kettle-misteri",
+      "title": "Misteri Air Menghilang di Devil's Kettle: Rahasia Bawah Tanah yang Tak Terungkap",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260928_111744_devils-kettle-misteri/final.mp4",
+      "video_id": "wOo_BSZr5z0",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 161
+  "_voice_idx": 162
 }
