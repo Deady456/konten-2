@@ -163,7 +163,8 @@
     "bermuda-triangle-mystery",
     "pulau-poveglia-misteri",
     "misteri-danau-subglacial-antarctica",
-    "devils-kettle-misteri"
+    "devils-kettle-misteri",
+    "yonaguni-monument-misteri"
   ],
   "published": [
     {
@@ -1741,7 +1742,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260928_231728",
+      "topic": "yonaguni-monument-misteri",
+      "title": "Yonaguni Monument: Piramida Bawah Laut Jepang yang Membingungkan Ilmuwan",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260928_231728_yonaguni-monument-misteri/final.mp4",
+      "video_id": "mdsP_YdlUSg",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 162
+  "_voice_idx": 163
 }
