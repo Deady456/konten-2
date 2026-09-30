@@ -166,7 +166,8 @@
     "devils-kettle-misteri",
     "yonaguni-monument-misteri",
     "pulau-socotra-misteri",
-    "eye-of-sahara-mystery"
+    "eye-of-sahara-mystery",
+    "moeraki-boulders-misteri"
   ],
   "published": [
     {
@@ -1774,7 +1775,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20260930_231751",
+      "topic": "moeraki-boulders-misteri",
+      "title": "Misteri Batu Bulat Raksasa di Pantai Selandia Baru yang Tiba-tiba Muncul",
+      "path": "/home/runner/work/konten-2/konten-2/output/20260930_231751_moeraki-boulders-misteri/final.mp4",
+      "video_id": "RxepETYnEmU",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 165
+  "_voice_idx": 166
 }
