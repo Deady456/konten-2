@@ -167,7 +167,8 @@
     "yonaguni-monument-misteri",
     "pulau-socotra-misteri",
     "eye-of-sahara-mystery",
-    "moeraki-boulders-misteri"
+    "moeraki-boulders-misteri",
+    "blood-falls-antarctica-mystery"
   ],
   "published": [
     {
@@ -1785,7 +1786,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261001_111820",
+      "topic": "blood-falls-antarctica-mystery",
+      "title": "Misteri Darah Merah Mengalir dari Es Antartika: Blood Falls yang Menakjubkan",
+      "path": "/home/runner/work/konten-2/konten-2/output/20261001_111820_blood-falls-antarctica-mystery/final.mp4",
+      "video_id": "Ij7RC5HYKD8",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 166
+  "_voice_idx": 167
 }
