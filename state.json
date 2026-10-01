@@ -168,7 +168,8 @@
     "pulau-socotra-misteri",
     "eye-of-sahara-mystery",
     "moeraki-boulders-misteri",
-    "blood-falls-antarctica-mystery"
+    "blood-falls-antarctica-mystery",
+    "misteri-bola-batu-di-costa-rica"
   ],
   "published": [
     {
@@ -1796,7 +1797,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261001_231711",
+      "topic": "misteri-bola-batu-di-costa-rica",
+      "title": "Bola Batu Misterius di Hutan Tropis Costa Rica: Rahasia Puluhan Sfera Antik yang Tak Terpecahkan",
+      "path": "/home/runner/work/konten-2/konten-2/output/20261001_231711_misteri-bola-batu-di-costa-rica/final.mp4",
+      "video_id": "inVHw31-QS4",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 167
+  "_voice_idx": 168
 }
