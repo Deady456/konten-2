@@ -169,7 +169,8 @@
     "eye-of-sahara-mystery",
     "moeraki-boulders-misteri",
     "blood-falls-antarctica-mystery",
-    "misteri-bola-batu-di-costa-rica"
+    "misteri-bola-batu-di-costa-rica",
+    "bimini-road-misteri"
   ],
   "published": [
     {
@@ -1807,7 +1808,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261002_111731",
+      "topic": "bimini-road-misteri",
+      "title": "Misteri Bimini Road: Jejak Atlantis yang Tersembunyi di Laut Bahama",
+      "path": "/home/runner/work/konten-2/konten-2/output/20261002_111731_bimini-road-misteri/final.mp4",
+      "video_id": "iVAVzZd4l4s",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 168
+  "_voice_idx": 169
 }
