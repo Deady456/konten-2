@@ -170,7 +170,8 @@
     "moeraki-boulders-misteri",
     "blood-falls-antarctica-mystery",
     "misteri-bola-batu-di-costa-rica",
-    "bimini-road-misteri"
+    "bimini-road-misteri",
+    "hutan-batu-shilin-misteri"
   ],
   "published": [
     {
@@ -1818,7 +1819,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261002_231727",
+      "topic": "hutan-batu-shilin-misteri",
+      "title": "Misteri Hutan Batu Shilin: Ribuan Pilar yang Menantang Ilmu Pengetahuan",
+      "path": "/home/runner/work/konten-2/konten-2/output/20261002_231727_hutan-batu-shilin-misteri/final.mp4",
+      "video_id": "8biYniQqEw4",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 169
+  "_voice_idx": 170
 }
