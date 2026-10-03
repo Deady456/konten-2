@@ -171,7 +171,8 @@
     "blood-falls-antarctica-mystery",
     "misteri-bola-batu-di-costa-rica",
     "bimini-road-misteri",
-    "hutan-batu-shilin-misteri"
+    "hutan-batu-shilin-misteri",
+    "lake-toba-mystery"
   ],
   "published": [
     {
@@ -1829,7 +1830,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261003_111704",
+      "topic": "lake-toba-mystery",
+      "title": "Misteri Danau Kaldera Toba: Pulau yang Hilang, Legenda Bawah Tanah dan Jejak Letusan Supervolcano",
+      "path": "/home/runner/work/konten-2/konten-2/output/20261003_111704_lake-toba-mystery/final.mp4",
+      "video_id": "nsWj35mKGJE",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 170
+  "_voice_idx": 171
 }
