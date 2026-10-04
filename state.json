@@ -174,7 +174,8 @@
     "hutan-batu-shilin-misteri",
     "lake-toba-mystery",
     "misteri-pulau-bear-island-cahaya-hijau",
-    "gunung-chimborazo-pusat-bumi"
+    "gunung-chimborazo-pusat-bumi",
+    "aokigahara-forest-mystery"
   ],
   "published": [
     {
@@ -1862,7 +1863,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261004_231852",
+      "topic": "aokigahara-forest-mystery",
+      "title": "Misteri Hutan Aokigahara: Bisikan Kematian di Bayang\u2011Bayang Gunung Fuji yang Membuat Merinding",
+      "path": "/home/runner/work/konten-2/konten-2/output/20261004_231852_aokigahara-forest-mystery/final.mp4",
+      "video_id": "LPzx2Tn3Gus",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 173
+  "_voice_idx": 174
 }
