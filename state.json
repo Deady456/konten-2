@@ -173,7 +173,8 @@
     "bimini-road-misteri",
     "hutan-batu-shilin-misteri",
     "lake-toba-mystery",
-    "misteri-pulau-bear-island-cahaya-hijau"
+    "misteri-pulau-bear-island-cahaya-hijau",
+    "gunung-chimborazo-pusat-bumi"
   ],
   "published": [
     {
@@ -1851,7 +1852,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261004_111747",
+      "topic": "gunung-chimborazo-pusat-bumi",
+      "title": "Gunung Chimborazo: Titik Terjauh dari Pusat Bumi yang Jarang Diketahui",
+      "path": "/home/runner/work/konten-2/konten-2/output/20261004_111747_gunung-chimborazo-pusat-bumi/final.mp4",
+      "video_id": "rTjLD-5CNCU",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 172
+  "_voice_idx": 173
 }
