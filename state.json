@@ -176,7 +176,8 @@
     "misteri-pulau-bear-island-cahaya-hijau",
     "gunung-chimborazo-pusat-bumi",
     "aokigahara-forest-mystery",
-    "great-blue-hole-belize-misteri"
+    "great-blue-hole-belize-misteri",
+    "misteri-nazca-lines-peru"
   ],
   "published": [
     {
@@ -1884,7 +1885,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261005_231707",
+      "topic": "misteri-nazca-lines-peru",
+      "title": "Misteri Garis Besar di Padang Pasir Peru: Rahasia Nazca Lines Terungkap?",
+      "path": "/home/runner/work/konten-2/konten-2/output/20261005_231707_misteri-nazca-lines-peru/final.mp4",
+      "video_id": "sYHem_StIHk",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 175
+  "_voice_idx": 176
 }
