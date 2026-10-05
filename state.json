@@ -175,7 +175,8 @@
     "lake-toba-mystery",
     "misteri-pulau-bear-island-cahaya-hijau",
     "gunung-chimborazo-pusat-bumi",
-    "aokigahara-forest-mystery"
+    "aokigahara-forest-mystery",
+    "great-blue-hole-belize-misteri"
   ],
   "published": [
     {
@@ -1873,7 +1874,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261005_111859",
+      "topic": "great-blue-hole-belize-misteri",
+      "title": "Misteri Great Blue Hole Belize: Kedalaman Tersembunyi yang Menyimpan Rahasia Kuno",
+      "path": "/home/runner/work/konten-2/konten-2/output/20261005_111859_great-blue-hole-belize-misteri/final.mp4",
+      "video_id": "tyXxwXeE6ZI",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 174
+  "_voice_idx": 175
 }
