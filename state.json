@@ -178,7 +178,8 @@
     "aokigahara-forest-mystery",
     "great-blue-hole-belize-misteri",
     "misteri-nazca-lines-peru",
-    "pulau-sentinel-utara-misteri"
+    "pulau-sentinel-utara-misteri",
+    "mount-kailash-mystery"
   ],
   "published": [
     {
@@ -1906,7 +1907,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261006_231711",
+      "topic": "mount-kailash-mystery",
+      "title": "Misteri Gunung Kailash: Puncak Tak Terkalahkan yang Menyimpan Energi Bawah Tanah",
+      "path": "/home/runner/work/konten-2/konten-2/output/20261006_231711_mount-kailash-mystery/final.mp4",
+      "video_id": "4edRZOS_oEU",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 177
+  "_voice_idx": 178
 }
