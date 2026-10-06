@@ -177,7 +177,8 @@
     "gunung-chimborazo-pusat-bumi",
     "aokigahara-forest-mystery",
     "great-blue-hole-belize-misteri",
-    "misteri-nazca-lines-peru"
+    "misteri-nazca-lines-peru",
+    "pulau-sentinel-utara-misteri"
   ],
   "published": [
     {
@@ -1895,7 +1896,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261006_111717",
+      "topic": "pulau-sentinel-utara-misteri",
+      "title": "Pulau Sentinel Utara: Misteri Pulau Tanpa Jejak di Samudra Hindia yang Menolak Dunia",
+      "path": "/home/runner/work/konten-2/konten-2/output/20261006_111717_pulau-sentinel-utara-misteri/final.mp4",
+      "video_id": "JG2FJrQTxkg",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 176
+  "_voice_idx": 177
 }
