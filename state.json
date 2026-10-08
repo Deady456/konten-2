@@ -180,7 +180,8 @@
     "misteri-nazca-lines-peru",
     "pulau-sentinel-utara-misteri",
     "mount-kailash-mystery",
-    "singing-dunes-qatar-misteri"
+    "singing-dunes-qatar-misteri",
+    "lake-vostok-mystery"
   ],
   "published": [
     {
@@ -1928,7 +1929,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261008_111712",
+      "topic": "lake-vostok-mystery",
+      "title": "Terungkap! Danau Misterius di Bawah Es Antartika yang Tak Pernah Menyentuh Cahaya",
+      "path": "/home/runner/work/konten-2/konten-2/output/20261008_111712_lake-vostok-mystery/final.mp4",
+      "video_id": "V0UEJLH-9sU",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 179
+  "_voice_idx": 180
 }
