@@ -181,7 +181,8 @@
     "pulau-sentinel-utara-misteri",
     "mount-kailash-mystery",
     "singing-dunes-qatar-misteri",
-    "lake-vostok-mystery"
+    "lake-vostok-mystery",
+    "lake-natron-mystery"
   ],
   "published": [
     {
@@ -1939,7 +1940,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261008_231701",
+      "topic": "lake-natron-mystery",
+      "title": "Lake Natron: Danau Afrika yang Mengubah Makhluk Hidup Jadi Patung Batu dalam Hitungan Menit",
+      "path": "/home/runner/work/konten-2/konten-2/output/20261008_231701_lake-natron-mystery/final.mp4",
+      "video_id": "9m1fMiCCTRs",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 180
+  "_voice_idx": 181
 }
