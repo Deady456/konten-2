@@ -182,7 +182,8 @@
     "mount-kailash-mystery",
     "singing-dunes-qatar-misteri",
     "lake-vostok-mystery",
-    "lake-natron-mystery"
+    "lake-natron-mystery",
+    "darwaza-crater-door-to-hell-mystery"
   ],
   "published": [
     {
@@ -1950,7 +1951,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261009_111654",
+      "topic": "darwaza-crater-door-to-hell-mystery",
+      "title": "Misteri Kawah Darvaza: Pintu Neraka yang Membara Selama Puluhan Tahun",
+      "path": "/home/runner/work/konten-2/konten-2/output/20261009_111654_darwaza-crater-door-to-hell-mystery/final.mp4",
+      "video_id": "ZA5ZQfxezM8",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 181
+  "_voice_idx": 182
 }
