@@ -183,7 +183,8 @@
     "singing-dunes-qatar-misteri",
     "lake-vostok-mystery",
     "lake-natron-mystery",
-    "darwaza-crater-door-to-hell-mystery"
+    "darwaza-crater-door-to-hell-mystery",
+    "mystery-ice-singing-lake-baikal"
   ],
   "published": [
     {
@@ -1961,7 +1962,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261009_231655",
+      "topic": "mystery-ice-singing-lake-baikal",
+      "title": "Misteri Es Bernyanyi di Lake Baikal: Danau Terdalam yang Menggetarkan Dunia",
+      "path": "/home/runner/work/konten-2/konten-2/output/20261009_231655_mystery-ice-singing-lake-baikal/final.mp4",
+      "video_id": "Jz31bDT3gMk",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 182
+  "_voice_idx": 183
 }
