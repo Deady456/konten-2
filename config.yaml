@@ -1,10 +1,10 @@
-niche: "fakta geografi dan tempat misterius di dunia (tempat angker dunia, pulau misterius, segitiga bermuda, gunung aneh, danau beracun, lubang raksasa, bangunan kuno)"
-audience: "orang dewasa Indonesia yang penasaran dengan tempat-tempat misterius di dunia, fenomena geografi aneh, dan lokasi penuh misteri"
+niche: "zona terlarang paling berbahaya di bumi dan tempat misterius yang dilarang dikunjungi manusia (pulau terisolasi mematikan, laboratorium rahasia terabaikan, bunker bawah tanah terdalam, dan wilayah anomali geografi ekstrem)"
+audience: "penonton Indonesia yang penasaran dengan lokasi terlarang di dunia, zona bahaya ekstrem, dan misteri geografi yang ditutup dari publik"
 language: id
 
 script:
   model: openai/gpt-oss-120b
-  target_seconds: 80
+  target_seconds: 42
   words_per_second: 2.5
 
 voice:
