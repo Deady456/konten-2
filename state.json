@@ -186,7 +186,8 @@
     "darwaza-crater-door-to-hell-mystery",
     "mystery-ice-singing-lake-baikal",
     "mystery-sailing-stones-racetrack-playa",
-    "chernobyl-secret-bunker"
+    "chernobyl-secret-bunker",
+    "zona-terlarang-novaya-zemlya"
   ],
   "published": [
     {
@@ -1994,7 +1995,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261010_231701",
+      "topic": "zona-terlarang-novaya-zemlya",
+      "title": "Zona Terlarang Novaya Zemlya: Pulau Nuklir Tertutup yang Membuat Darah Mendingin",
+      "path": "/home/runner/work/konten-2/konten-2/output/20261010_231701_zona-terlarang-novaya-zemlya/final.mp4",
+      "video_id": "2WCmeYuuYmE",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 185
+  "_voice_idx": 186
 }
