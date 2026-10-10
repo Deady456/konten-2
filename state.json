@@ -185,7 +185,8 @@
     "lake-natron-mystery",
     "darwaza-crater-door-to-hell-mystery",
     "mystery-ice-singing-lake-baikal",
-    "mystery-sailing-stones-racetrack-playa"
+    "mystery-sailing-stones-racetrack-playa",
+    "chernobyl-secret-bunker"
   ],
   "published": [
     {
@@ -1983,7 +1984,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261010_204503",
+      "topic": "chernobyl-secret-bunker",
+      "title": "Terungkap! Bunker Tertutup Radioaktif di Chernobyl yang Dilarang Masuk Manusia",
+      "path": "/home/runner/work/konten-2/konten-2/output/20261010_204503_chernobyl-secret-bunker/final.mp4",
+      "video_id": "II2kNpM7I5Y",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 184
+  "_voice_idx": 185
 }
