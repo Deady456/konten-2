@@ -184,7 +184,8 @@
     "lake-vostok-mystery",
     "lake-natron-mystery",
     "darwaza-crater-door-to-hell-mystery",
-    "mystery-ice-singing-lake-baikal"
+    "mystery-ice-singing-lake-baikal",
+    "mystery-sailing-stones-racetrack-playa"
   ],
   "published": [
     {
@@ -1972,7 +1973,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261010_111702",
+      "topic": "mystery-sailing-stones-racetrack-playa",
+      "title": "Misteri Batu Menggelinding Sendiri di Racetrack Playa, Nevada \u2013 Fenomena Ajaib yang Membingungkan Ilmuwan",
+      "path": "/home/runner/work/konten-2/konten-2/output/20261010_111702_mystery-sailing-stones-racetrack-playa/final.mp4",
+      "video_id": "MlpwyWtqhyE",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 183
+  "_voice_idx": 184
 }
