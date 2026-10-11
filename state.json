@@ -188,7 +188,8 @@
     "mystery-sailing-stones-racetrack-playa",
     "chernobyl-secret-bunker",
     "zona-terlarang-novaya-zemlya",
-    "zona-terlarang-mematikan"
+    "zona-terlarang-mematikan",
+    "zona-terlarang-dmz"
   ],
   "published": [
     {
@@ -2016,7 +2017,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261011_231650",
+      "topic": "zona-terlarang-dmz",
+      "title": "Misteri Zona Terlarang Terpadat di Dunia: Menyelami DMZ Korea",
+      "path": "/home/runner/work/konten-2/konten-2/output/20261011_231650_zona-terlarang-dmz/final.mp4",
+      "video_id": "6Fi-wUBqYTM",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 187
+  "_voice_idx": 188
 }
