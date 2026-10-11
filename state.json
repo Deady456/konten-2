@@ -187,7 +187,8 @@
     "mystery-ice-singing-lake-baikal",
     "mystery-sailing-stones-racetrack-playa",
     "chernobyl-secret-bunker",
-    "zona-terlarang-novaya-zemlya"
+    "zona-terlarang-novaya-zemlya",
+    "zona-terlarang-mematikan"
   ],
   "published": [
     {
@@ -2005,7 +2006,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261011_111710",
+      "topic": "zona-terlarang-mematikan",
+      "title": "Zona Terlarang Paling Mematikan: Pulau Ular, Bunker Nuklir, dan Area Rahasia yang Dilarang Dikunjungi",
+      "path": "/home/runner/work/konten-2/konten-2/output/20261011_111710_zona-terlarang-mematikan/final.mp4",
+      "video_id": "RuP4UhZk6FQ",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 186
+  "_voice_idx": 187
 }
