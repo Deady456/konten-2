@@ -190,7 +190,8 @@
     "zona-terlarang-novaya-zemlya",
     "zona-terlarang-mematikan",
     "zona-terlarang-dmz",
-    "bikini-atoll-forbidden-zone"
+    "bikini-atoll-forbidden-zone",
+    "area-51-forbidden-zone"
   ],
   "published": [
     {
@@ -2038,7 +2039,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261012_231716",
+      "topic": "area-51-forbidden-zone",
+      "title": "Area lima puluh satu: Mengungkap Zona Terlarang Nevada yang Diselimuti Misteri UFO",
+      "path": "/home/runner/work/konten-2/konten-2/output/20261012_231716_area-51-forbidden-zone/final.mp4",
+      "video_id": "gfg2QwTLGfY",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 189
+  "_voice_idx": 190
 }
