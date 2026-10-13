@@ -191,7 +191,8 @@
     "zona-terlarang-mematikan",
     "zona-terlarang-dmz",
     "bikini-atoll-forbidden-zone",
-    "area-51-forbidden-zone"
+    "area-51-forbidden-zone",
+    "kola-superdeep-borehole-mystery"
   ],
   "published": [
     {
@@ -2049,7 +2050,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261013_111657",
+      "topic": "kola-superdeep-borehole-mystery",
+      "title": "Misteri Lubang Terdalam Bumi: Kola Superdeep Borehole yang Dilarang Dimengerti",
+      "path": "/home/runner/work/konten-2/konten-2/output/20261013_111657_kola-superdeep-borehole-mystery/final.mp4",
+      "video_id": "yWol7fwzewQ",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 190
+  "_voice_idx": 191
 }
