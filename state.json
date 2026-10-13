@@ -192,7 +192,8 @@
     "zona-terlarang-dmz",
     "bikini-atoll-forbidden-zone",
     "area-51-forbidden-zone",
-    "kola-superdeep-borehole-mystery"
+    "kola-superdeep-borehole-mystery",
+    "poveglia-forbidden-island"
   ],
   "published": [
     {
@@ -2060,7 +2061,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261013_231712",
+      "topic": "poveglia-forbidden-island",
+      "title": "Misteri Pulau Poveglia: Zona Terlarang yang Menyimpan Rahasia Kelam dan Hantu",
+      "path": "/home/runner/work/konten-2/konten-2/output/20261013_231712_poveglia-forbidden-island/final.mp4",
+      "video_id": "S0oMt6CMdQg",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 191
+  "_voice_idx": 192
 }
