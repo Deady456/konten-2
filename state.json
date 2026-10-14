@@ -193,7 +193,8 @@
     "bikini-atoll-forbidden-zone",
     "area-51-forbidden-zone",
     "kola-superdeep-borehole-mystery",
-    "poveglia-forbidden-island"
+    "poveglia-forbidden-island",
+    "fukushima-forbidden-zone"
   ],
   "published": [
     {
@@ -2071,7 +2072,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261014_111649",
+      "topic": "fukushima-forbidden-zone",
+      "title": "Menguak Fukushima Exclusion Zone: Radiasi Mematikan, Kota Hantu, & Laboratorium Rahasia yang Dilarang Masuk",
+      "path": "/home/runner/work/konten-2/konten-2/output/20261014_111649_fukushima-forbidden-zone/final.mp4",
+      "video_id": "fRx1Tg9uymk",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 192
+  "_voice_idx": 193
 }
