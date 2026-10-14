@@ -194,7 +194,8 @@
     "area-51-forbidden-zone",
     "kola-superdeep-borehole-mystery",
     "poveglia-forbidden-island",
-    "fukushima-forbidden-zone"
+    "fukushima-forbidden-zone",
+    "forbidden-radioactive-lake-karachay"
   ],
   "published": [
     {
@@ -2082,7 +2083,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261014_231657",
+      "topic": "forbidden-radioactive-lake-karachay",
+      "title": "Misteri Danau Karachay: Danau Terlarang di Rusia yang Mematikan Lebih Dari Ribuan Bom Atom",
+      "path": "/home/runner/work/konten-2/konten-2/output/20261014_231657_forbidden-radioactive-lake-karachay/final.mp4",
+      "video_id": "u8KoJ8yu_7U",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 193
+  "_voice_idx": 194
 }
