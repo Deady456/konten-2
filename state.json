@@ -196,7 +196,8 @@
     "poveglia-forbidden-island",
     "fukushima-forbidden-zone",
     "forbidden-radioactive-lake-karachay",
-    "red-forest-chernobyl-mystery"
+    "red-forest-chernobyl-mystery",
+    "pulau-terlarang-enewetak"
   ],
   "published": [
     {
@@ -2104,7 +2105,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261015_231712",
+      "topic": "pulau-terlarang-enewetak",
+      "title": "Pulau Terlarang Enewetak: Jejak Nuklir yang Tak Terjamah dan Misteri Bawah Tanah",
+      "path": "/home/runner/work/konten-2/konten-2/output/20261015_231712_pulau-terlarang-enewetak/final.mp4",
+      "video_id": "UszV_bjCdpI",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 195
+  "_voice_idx": 196
 }
