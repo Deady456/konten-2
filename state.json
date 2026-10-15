@@ -195,7 +195,8 @@
     "kola-superdeep-borehole-mystery",
     "poveglia-forbidden-island",
     "fukushima-forbidden-zone",
-    "forbidden-radioactive-lake-karachay"
+    "forbidden-radioactive-lake-karachay",
+    "red-forest-chernobyl-mystery"
   ],
   "published": [
     {
@@ -2093,7 +2094,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261015_111707",
+      "topic": "red-forest-chernobyl-mystery",
+      "title": "Misteri Mematikan Hutan Merah Chernobyl: Zona Terlarang yang Tak Boleh Didekati",
+      "path": "/home/runner/work/konten-2/konten-2/output/20261015_111707_red-forest-chernobyl-mystery/final.mp4",
+      "video_id": "W62jgdXkfbA",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 194
+  "_voice_idx": 195
 }
