@@ -198,7 +198,8 @@
     "forbidden-radioactive-lake-karachay",
     "red-forest-chernobyl-mystery",
     "pulau-terlarang-enewetak",
-    "dallol-ethiopia-forbidden-geothermal"
+    "dallol-ethiopia-forbidden-geothermal",
+    "zona-terlarang-semipalatinsk"
   ],
   "published": [
     {
@@ -2126,7 +2127,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261016_231652",
+      "topic": "zona-terlarang-semipalatinsk",
+      "title": "Misteri Zona Uji Nuklir Semipalatinsk: Padang Pasir Berkilau Radiasi yang Dilarang Dimasuk!",
+      "path": "/home/runner/work/konten-2/konten-2/output/20261016_231652_zona-terlarang-semipalatinsk/final.mp4",
+      "video_id": "9zjOYQu4dSc",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 197
+  "_voice_idx": 198
 }
