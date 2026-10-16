@@ -197,7 +197,8 @@
     "fukushima-forbidden-zone",
     "forbidden-radioactive-lake-karachay",
     "red-forest-chernobyl-mystery",
-    "pulau-terlarang-enewetak"
+    "pulau-terlarang-enewetak",
+    "dallol-ethiopia-forbidden-geothermal"
   ],
   "published": [
     {
@@ -2115,7 +2116,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261016_111712",
+      "topic": "dallol-ethiopia-forbidden-geothermal",
+      "title": "Dallol Ethiopia: Laut Asam Berwarna Pelangi yang Membakar Kulit \u2013 Zona Terlarang",
+      "path": "/home/runner/work/konten-2/konten-2/output/20261016_111712_dallol-ethiopia-forbidden-geothermal/final.mp4",
+      "video_id": "xcP3Q43cJ8o",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 196
+  "_voice_idx": 197
 }
