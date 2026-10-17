@@ -200,7 +200,8 @@
     "pulau-terlarang-enewetak",
     "dallol-ethiopia-forbidden-geothermal",
     "zona-terlarang-semipalatinsk",
-    "mount-weather-secret-bunker"
+    "mount-weather-secret-bunker",
+    "dugway-forbidden-zone"
   ],
   "published": [
     {
@@ -2148,7 +2149,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261017_231701",
+      "topic": "dugway-forbidden-zone",
+      "title": "Zona Terlarang Dugway: Uji Senjata Mematikan yang Dilarang Masuk",
+      "path": "/home/runner/work/konten-2/konten-2/output/20261017_231701_dugway-forbidden-zone/final.mp4",
+      "video_id": "k7nDbAKpjs0",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 199
+  "_voice_idx": 200
 }
