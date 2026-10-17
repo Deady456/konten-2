@@ -199,7 +199,8 @@
     "red-forest-chernobyl-mystery",
     "pulau-terlarang-enewetak",
     "dallol-ethiopia-forbidden-geothermal",
-    "zona-terlarang-semipalatinsk"
+    "zona-terlarang-semipalatinsk",
+    "mount-weather-secret-bunker"
   ],
   "published": [
     {
@@ -2137,7 +2138,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261017_111701",
+      "topic": "mount-weather-secret-bunker",
+      "title": "Misteri Bunker Rahasia Mount Weather: Zona Terlarang di Bawah Tanah Virginia",
+      "path": "/home/runner/work/konten-2/konten-2/output/20261017_111701_mount-weather-secret-bunker/final.mp4",
+      "video_id": "gnk20bHm5eE",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 198
+  "_voice_idx": 199
 }
