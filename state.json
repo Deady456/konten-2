@@ -201,7 +201,8 @@
     "dallol-ethiopia-forbidden-geothermal",
     "zona-terlarang-semipalatinsk",
     "mount-weather-secret-bunker",
-    "dugway-forbidden-zone"
+    "dugway-forbidden-zone",
+    "woomera-forbidden-zone"
   ],
   "published": [
     {
@@ -2159,7 +2160,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261018_111703",
+      "topic": "woomera-forbidden-zone",
+      "title": "Zona Terlarang Woomera: Ladang Uji Senjata Mematikan yang Tak Boleh Didekati",
+      "path": "/home/runner/work/konten-2/konten-2/output/20261018_111703_woomera-forbidden-zone/final.mp4",
+      "video_id": "Qyufmn-l0yo",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 200
+  "_voice_idx": 201
 }
