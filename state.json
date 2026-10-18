@@ -202,7 +202,8 @@
     "zona-terlarang-semipalatinsk",
     "mount-weather-secret-bunker",
     "dugway-forbidden-zone",
-    "woomera-forbidden-zone"
+    "woomera-forbidden-zone",
+    "punggye-ri-nuclear-test-site-mystery"
   ],
   "published": [
     {
@@ -2170,7 +2171,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261018_231707",
+      "topic": "punggye-ri-nuclear-test-site-mystery",
+      "title": "Misteri Punggye-ri: Zona Nuklir Tertutup di Gunung Berapi Berlumur Uranium yang Dilarang Masuk",
+      "path": "/home/runner/work/konten-2/konten-2/output/20261018_231707_punggye-ri-nuclear-test-site-mystery/final.mp4",
+      "video_id": "d2cay9c_eAs",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 201
+  "_voice_idx": 202
 }
