@@ -204,7 +204,8 @@
     "dugway-forbidden-zone",
     "woomera-forbidden-zone",
     "punggye-ri-nuclear-test-site-mystery",
-    "surtsey-island-forbidden"
+    "surtsey-island-forbidden",
+    "vozhrozhdeniya-forbidden-island"
   ],
   "published": [
     {
@@ -2192,7 +2193,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261019_231704",
+      "topic": "vozhrozhdeniya-forbidden-island",
+      "title": "Pulau Terlarang yang Mematikan: Rahasia Biowarfare Soviet di Vozrozhdeniya yang Dilarang Dikunjungi",
+      "path": "/home/runner/work/konten-2/konten-2/output/20261019_231704_vozhrozhdeniya-forbidden-island/final.mp4",
+      "video_id": "1sMJTEhynT4",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 203
+  "_voice_idx": 204
 }
