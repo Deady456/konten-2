@@ -203,7 +203,8 @@
     "mount-weather-secret-bunker",
     "dugway-forbidden-zone",
     "woomera-forbidden-zone",
-    "punggye-ri-nuclear-test-site-mystery"
+    "punggye-ri-nuclear-test-site-mystery",
+    "surtsey-island-forbidden"
   ],
   "published": [
     {
@@ -2181,7 +2182,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261019_111721",
+      "topic": "surtsey-island-forbidden",
+      "title": "Surtsey: Pulau Vulkanik yang Dilarang Dikunjungi Manusia \u2013 Misteri Alam yang Tertutup",
+      "path": "/home/runner/work/konten-2/konten-2/output/20261019_111721_surtsey-island-forbidden/final.mp4",
+      "video_id": "xQ8MbGqLutc",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 202
+  "_voice_idx": 203
 }
