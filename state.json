@@ -205,7 +205,8 @@
     "woomera-forbidden-zone",
     "punggye-ri-nuclear-test-site-mystery",
     "surtsey-island-forbidden",
-    "vozhrozhdeniya-forbidden-island"
+    "vozhrozhdeniya-forbidden-island",
+    "misteri-gua-lascaux-terlarang"
   ],
   "published": [
     {
@@ -2203,7 +2204,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261020_111649",
+      "topic": "misteri-gua-lascaux-terlarang",
+      "title": "Misteri Gua Lascaux: Lukisan Prasejarah yang Dilarang Masuk Selama Ini!",
+      "path": "/home/runner/work/konten-2/konten-2/output/20261020_111649_misteri-gua-lascaux-terlarang/final.mp4",
+      "video_id": "ODCusCnDLMk",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 204
+  "_voice_idx": 205
 }
