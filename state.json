@@ -207,7 +207,8 @@
     "surtsey-island-forbidden",
     "vozhrozhdeniya-forbidden-island",
     "misteri-gua-lascaux-terlarang",
-    "cheyenne-mountain-secret-bunker"
+    "cheyenne-mountain-secret-bunker",
+    "balaklava-secret-bunker"
   ],
   "published": [
     {
@@ -2225,7 +2226,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261021_111717",
+      "topic": "balaklava-secret-bunker",
+      "title": "Bunker Rahasia Balaklava: Zona Terlarang yang Dipenuhi Radiasi dan Bahaya Runtuh",
+      "path": "/home/runner/work/konten-2/konten-2/output/20261021_111717_balaklava-secret-bunker/final.mp4",
+      "video_id": "qCWQTEHGuVc",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 206
+  "_voice_idx": 207
 }
