@@ -208,7 +208,8 @@
     "vozhrozhdeniya-forbidden-island",
     "misteri-gua-lascaux-terlarang",
     "cheyenne-mountain-secret-bunker",
-    "balaklava-secret-bunker"
+    "balaklava-secret-bunker",
+    "north-sentinel-forbidden-island"
   ],
   "published": [
     {
@@ -2236,7 +2237,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261021_231705",
+      "topic": "north-sentinel-forbidden-island",
+      "title": "Pulau Terlarang yang Dijaga Suku Tanpa Jejak: Misteri North Sentinel",
+      "path": "/home/runner/work/konten-2/konten-2/output/20261021_231705_north-sentinel-forbidden-island/final.mp4",
+      "video_id": "18GBKemlDLU",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 207
+  "_voice_idx": 208
 }
