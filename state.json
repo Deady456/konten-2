@@ -210,7 +210,8 @@
     "cheyenne-mountain-secret-bunker",
     "balaklava-secret-bunker",
     "north-sentinel-forbidden-island",
-    "mount-yamantau-forbidden-zone"
+    "mount-yamantau-forbidden-zone",
+    "maralinga-forbidden-nuclear-site"
   ],
   "published": [
     {
@@ -2258,7 +2259,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261022_231717",
+      "topic": "maralinga-forbidden-nuclear-site",
+      "title": "Maralinga: Zona Terlarang Australia yang Masih Menyimpan Misteri Nuklir",
+      "path": "/home/runner/work/konten-2/konten-2/output/20261022_231717_maralinga-forbidden-nuclear-site/final.mp4",
+      "video_id": "c9e0gD6jASk",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 209
+  "_voice_idx": 210
 }
