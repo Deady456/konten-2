@@ -209,7 +209,8 @@
     "misteri-gua-lascaux-terlarang",
     "cheyenne-mountain-secret-bunker",
     "balaklava-secret-bunker",
-    "north-sentinel-forbidden-island"
+    "north-sentinel-forbidden-island",
+    "mount-yamantau-forbidden-zone"
   ],
   "published": [
     {
@@ -2247,7 +2248,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261022_111700",
+      "topic": "mount-yamantau-forbidden-zone",
+      "title": "Misteri Gunung Yamantau: Bunker Rahasia Rusia yang Dilarang Ditembus Semua Orang",
+      "path": "/home/runner/work/konten-2/konten-2/output/20261022_111700_mount-yamantau-forbidden-zone/final.mp4",
+      "video_id": "-2mn7_vopZA",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 208
+  "_voice_idx": 209
 }
