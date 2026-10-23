@@ -211,7 +211,8 @@
     "balaklava-secret-bunker",
     "north-sentinel-forbidden-island",
     "mount-yamantau-forbidden-zone",
-    "maralinga-forbidden-nuclear-site"
+    "maralinga-forbidden-nuclear-site",
+    "forbidden-atacama-bunker"
   ],
   "published": [
     {
@@ -2269,7 +2270,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261023_111659",
+      "topic": "forbidden-atacama-bunker",
+      "title": "Misteri Bunker Rahasia di Gurun Atacama: Zona Terlarang yang Tak Terjamah",
+      "path": "/home/runner/work/konten-2/konten-2/output/20261023_111659_forbidden-atacama-bunker/final.mp4",
+      "video_id": "VeSSd9nWkN0",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 210
+  "_voice_idx": 211
 }
