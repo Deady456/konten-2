@@ -212,7 +212,8 @@
     "north-sentinel-forbidden-island",
     "mount-yamantau-forbidden-zone",
     "maralinga-forbidden-nuclear-site",
-    "forbidden-atacama-bunker"
+    "forbidden-atacama-bunker",
+    "forbidden-extreme-zones"
   ],
   "published": [
     {
@@ -2280,7 +2281,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261023_231751",
+      "topic": "forbidden-extreme-zones",
+      "title": "Misteri Tiga Zona Terlarang yang Membunuh: Siachen, Mururoa, & Tunnel Kashmir",
+      "path": "/home/runner/work/konten-2/konten-2/output/20261023_231751_forbidden-extreme-zones/final.mp4",
+      "video_id": "p7Symi0MysM",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 211
+  "_voice_idx": 212
 }
