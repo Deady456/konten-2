@@ -213,7 +213,8 @@
     "mount-yamantau-forbidden-zone",
     "maralinga-forbidden-nuclear-site",
     "forbidden-atacama-bunker",
-    "forbidden-extreme-zones"
+    "forbidden-extreme-zones",
+    "lop-nor-forbidden-zone"
   ],
   "published": [
     {
@@ -2291,7 +2292,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261024_111704",
+      "topic": "lop-nor-forbidden-zone",
+      "title": "Misteri Zona Terlarang Lop Nor: Situs Nuklir Tertutup China yang Mematikan",
+      "path": "/home/runner/work/konten-2/konten-2/output/20261024_111704_lop-nor-forbidden-zone/final.mp4",
+      "video_id": "G5IxS0r_Fnk",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 212
+  "_voice_idx": 213
 }
