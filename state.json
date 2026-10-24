@@ -214,7 +214,8 @@
     "maralinga-forbidden-nuclear-site",
     "forbidden-atacama-bunker",
     "forbidden-extreme-zones",
-    "lop-nor-forbidden-zone"
+    "lop-nor-forbidden-zone",
+    "secret-underground-bunkers-mystery"
   ],
   "published": [
     {
@@ -2302,7 +2303,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261024_231657",
+      "topic": "secret-underground-bunkers-mystery",
+      "title": "Mengeksplorasi Bunker Rahasia di Bawah Tanah: Raven Rock & Metro Two yang Terlarang",
+      "path": "/home/runner/work/konten-2/konten-2/output/20261024_231657_secret-underground-bunkers-mystery/final.mp4",
+      "video_id": "bEWw57KB_pA",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 213
+  "_voice_idx": 214
 }
