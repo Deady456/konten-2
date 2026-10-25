@@ -215,7 +215,8 @@
     "forbidden-atacama-bunker",
     "forbidden-extreme-zones",
     "lop-nor-forbidden-zone",
-    "secret-underground-bunkers-mystery"
+    "secret-underground-bunkers-mystery",
+    "lake-vostok-forbidden"
   ],
   "published": [
     {
@@ -2313,7 +2314,17 @@
       "publish_at": null,
       "format": null,
       "voice": "unknown"
+    },
+    {
+      "ts": "20261025_111654",
+      "topic": "lake-vostok-forbidden",
+      "title": "Misteri Danau Bawah Es: Mengapa Lake Vostok Dijaga Ketat dan Terlarang?",
+      "path": "/home/runner/work/konten-2/konten-2/output/20261025_111654_lake-vostok-forbidden/final.mp4",
+      "video_id": "fTqzTWwGmgw",
+      "publish_at": null,
+      "format": null,
+      "voice": "unknown"
     }
   ],
-  "_voice_idx": 214
+  "_voice_idx": 215
 }
